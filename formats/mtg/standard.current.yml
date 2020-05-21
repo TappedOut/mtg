@@ -1,0 +1,15 @@
+version: 1
+includes_sets:
+  - IKO
+  - TBD
+  - ELD
+  - M20
+  - WAR
+  - RVA
+  - GRN
+
+bans:
+  - Field of the Dead
+  - Oko, Thief of Crowns
+  - Once Upon a Time
+  - Veil of Summer
