@@ -1,0 +1,93 @@
+bans:
+- Adriana's Valor
+- Amulet of Quoz
+- Ancestral Recall
+- Balance
+- Biorhythm
+- Black Lotus
+- Braids, Cabal Minion
+- Bronze Tablet
+- Channel
+- Chaos Orb
+- City of Ass
+- Coalition Victory
+- Contract from Below
+- Crow Storm
+- Darkpact
+- Demonic Attorney
+- Double Stroke
+- Dr. Julius Jumblemorph
+- Emrakul, the Aeons Torn
+- Erayo, Soratami Ascendant
+- Erayo, Soratami Ascendant / Erayo's Essence
+- Falling Star
+- Fastbond
+- Flash
+- Fraternal Exaltation
+- Gifts Ungiven
+- Griselbrand
+- Iona, Shield of Emeria
+- Jeweled Bird
+- Karakas
+- Leovold, Emissary of Trest
+- Library of Alexandria
+- Limited Resources
+- Lutri, the Spellchaser
+- Mirrored Depths
+- Mox Emerald
+- Mox Jet
+- Mox Pearl
+- Mox Ruby
+- Mox Sapphire
+- Panoptic Mirror
+- Paradox Engine
+- Primeval Titan
+- Prophet of Kruphix
+- Proposal
+- Rebirth
+- Recurring Nightmare
+- Robot Chicken
+- Rofellos, Llanowar Emissary
+- Shahrazad
+- Shichifukujin Dragon
+- Sovereign's Realm
+- Splendid Genesis
+- Sundering Titan
+- Sway of the Stars
+- Sylvan Primordial
+- Tempest Efreet
+- Thopter Pie Network
+- Time Vault
+- Time Walk
+- Timmerian Fiends
+- Tinker
+- Tolarian Academy
+- Trade Secrets
+- Upheaval
+- Worldfire
+- Yawgmoth's Bargain
+inherits:
+- Vintage
+is_singleton: true
+sets:
+- Commander 2020
+- Theros Beyond Death
+- Game Night 2019
+- Commander 2019
+- War of the Spark
+- 'Ravnica Allegiance: Mythic Edition'
+- Gift Pack
+- Magic Game Night
+- Guilds of Ravnica
+- Commander 2018
+- 'Global Series: Jiang Yanggu & Mu Yanling'
+- Dominaria
+- Ixalan
+- Commander 2017
+- Commander Anthology
+- Welcome Deck 2017
+- Commander 2016
+- 'Conspiracy: Take the Crown'
+- Commander 2014
+- Commander 2013
+- 'MTG: Commander'

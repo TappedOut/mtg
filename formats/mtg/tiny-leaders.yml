@@ -1,0 +1,21 @@
+bans:
+- City of Ass
+- Crow Storm
+- Dr. Julius Jumblemorph
+- Fraternal Exaltation
+- Hate Mirage
+- Illuna, Apex of Wishes
+- Lukka, Coppercoat Outcast
+- Morophon, the Boundless
+- Multani, Yavimaya's Avatar
+- Nicol Bolas, the Ravager
+- Proposal
+- Robot Chicken
+- Shichifukujin Dragon
+- Sovereign's Realm
+- Splendid Genesis
+- Thopter Pie Network
+- Vivien, Monsters' Advocate
+inherits:
+- Commander / EDH
+is_singleton: true

@@ -1,0 +1,74 @@
+bans:
+- Adriana's Valor
+- Amulet of Quoz
+- Ancestral Recall
+- Balance
+- Biorhythm
+- Black Lotus
+- Braids, Cabal Minion
+- Bronze Tablet
+- Channel
+- Chaos Orb
+- City of Ass
+- Coalition Victory
+- Contract from Below
+- Crow Storm
+- Darkpact
+- Demonic Attorney
+- Double Stroke
+- Dr. Julius Jumblemorph
+- Erayo, Soratami Ascendant
+- Falling Star
+- Fastbond
+- Fraternal Exaltation
+- Gifts Ungiven
+- Griselbrand
+- Jeweled Bird
+- Karakas
+- Library of Alexandria
+- Limited Resources
+- Mirrored Depths
+- Mox Emerald
+- Mox Jet
+- Mox Pearl
+- Mox Ruby
+- Mox Sapphire
+- Painter's Servant
+- Panoptic Mirror
+- Prophet of Kruphix
+- Proposal
+- Rebirth
+- Recurring Nightmare
+- Robot Chicken
+- Rofellos, Llanowar Emissary
+- Shahrazad
+- Shichifukujin Dragon
+- Sovereign's Realm
+- Splendid Genesis
+- Sundering Titan
+- Sway of the Stars
+- Sylvan Primordial
+- Tempest Efreet
+- Thopter Pie Network
+- Time Vault
+- Time Walk
+- Timmerian Fiends
+- Tinker
+- Tolarian Academy
+- Trade Secrets
+- Upheaval
+- Worldfire
+- Yawgmoth's Bargain
+inherits:
+- Commander / EDH
+is_singleton: true
+sets:
+- Core Set 2020
+- 'Ravnica Allegiance: Guild Kits'
+- Ravnica Allegiance
+- 'Guilds of Ravnica: Guild Kit'
+- 'Guilds of Ravnica: Mythic Edition'
+- Dominaria
+- Ixalan
+- Amonkhet
+- Aether Revolt

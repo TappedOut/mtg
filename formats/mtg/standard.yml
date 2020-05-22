@@ -1,40 +1,30 @@
 bans:
 - Adriana, Captain of the Guard
-- Ancient Den
 - Animus of Predation
 - Arahbo, Roar of the World
 - Arcane Savant
 - Atla Palani, Nest Tender
-- Baleful Strix
+- Attune with Aether
 - Ballot Broker
 - Besmirch
-- Birthing Pod
-- Blazing Shoal
-- Brainstorm
-- Bridge from Below
 - Call the Coppercoats
 - Cartographer's Hawk
-- Chrome Mox
 - City of Ass
-- Cloudpost
+- Concealed Courtyard
 - Crow Storm
 - Crown-Hunter Hireling
 - Crystalline Resonance
 - Custodi Lich
 - Custodi Peacekeeper
 - Daring Fiendbonder
-- Dark Depths
-- Dark Ritual
-- Deathrite Shaman
 - Delighted Killbot
 - Deputized Protester
 - Despondent Killbot
-- Dig Through Time
 - Dismantling Wave
 - Domesticated Hydra
 - Dr. Julius Jumblemorph
-- Dread Return
 - Dredge the Mire
+- Emrakul, the Promised End
 - Enraged Killbot
 - Estrid's Invocation
 - Everythingamajig B
@@ -42,8 +32,7 @@ bans:
 - Everythingamajig D
 - Everythingamajig E
 - Everythingamajig F
-- Eye of Ugin
-- Faithless Looting
+- Field of the Dead
 - Fireflux Squad
 - Fraternal Exaltation
 - Garbage Elemental B
@@ -52,17 +41,10 @@ bans:
 - Garbage Elemental E
 - Garbage Elemental F
 - Garrulous Sycophant
-- Gitaxian Probe
 - Glademuse
-- Glimpse of Nature
-- Golgari Grave-Troll
-- Great Furnace
-- Green Sun's Zenith
 - Grenzo, Havoc Raiser
 - Haldan, Avid Arcanist
 - Herald of the Forgotten
-- Hogaak, Arisen Necropolis
-- Hypergenesis
 - Illusion of Choice
 - Ineffable Blessing B
 - Ineffable Blessing C
@@ -79,140 +61,71 @@ bans:
 - Leovold, Emissary of Trest
 - Lieutenants of the Guard
 - Lord Windgrace
-- Mana Crypt
 - Manascape Refractor
 - Marisi, Breaker of the Coil
-- Mental Misstep
 - Messenger Jays
 - Mirrored Depths
-- Mox Opal
-- Mycosynth Lattice
+- Morophon, the Boundless
+- Mu Yanling
+- Natural Unity
 - Nikara, Lair Scavenger
+- Nykthos, Shrine to Nyx
 - Oko, Thief of Crowns
 - Once Upon a Time
 - Pako, Arcane Retriever
 - Paliano Vanguard
 - Parasitic Impetus
-- Ponder
+- Phelddagrif
 - Predatory Impetus
-- Preordain
 - Proposal
 - Psychic Impetus
-- Punishing Fire
 - Queen Marchesa
+- Ramos, Dragon Engine
+- Ramunap Ruins
 - Recruiter of the Guard
-- Rite of Flame
+- Reflector Mage
 - Robot Chicken
+- Rogue Refiner
 - Saheeli, the Gifted
-- Seat of the Synod
-- Second Sunrise
-- Seething Song
 - Selective Adaptation
-- Sensei's Divining Top
 - Shichifukujin Dragon
 - Silvar, Devourer of the Free
-- Skullclamp
 - Skyline Despot
 - Sly Spy B
 - Sly Spy C
 - Sly Spy D
 - Sly Spy E
 - Sly Spy F
-- Sol Ring
+- Smuggler's Copter
 - Sovereign's Realm
 - Splendid Genesis
-- Splinter Twin
 - Spy Kit
 - Subterranean Tremors
-- Summer Bloom
 - Thopter Pie Network
 - Thorn of the Black Rose
 - Throne of the High City
 - Throne Warden
 - Titania, Protector of Argoth
-- Treasure Cruise
-- Tree of Tales
 - Trynn, Champion of Freedom
-- Umezawa's Jitte
-- Vault of Whispers
+- Veil of Summer
 - Very Cryptic Command C
 - Very Cryptic Command D
 - Very Cryptic Command E
 - Very Cryptic Command F
+- Vitu-Ghazi, the City-Tree
 - Wings of the Guard
 - Xyris, the Writhing Storm
 - Yannik, Scavenging Sentinel
-inherits:
-- Standard
 sets:
+- 'Ikoria: Lair of Behemoths'
+- Theros Beyond Death
+- Throne of Eldraine
 - Core Set 2020
-- Modern Horizons
+- War of the Spark
 - 'Ravnica Allegiance: Guild Kits'
+- 'Ravnica Allegiance: Mythic Edition'
 - Ravnica Allegiance
+- Gift Pack
 - 'Guilds of Ravnica: Guild Kit'
+- Guilds of Ravnica
 - 'Guilds of Ravnica: Mythic Edition'
-- Core Set 2019
-- Dominaria
-- Rivals of Ixalan
-- Ixalan
-- Hour of Devastation
-- Amonkhet
-- Welcome Deck 2017
-- Aether Revolt
-- Kaladesh
-- Eldritch Moon
-- Shadows over Innistrad
-- Oath of the Gatewatch
-- Battle for Zendikar
-- Magic Origins
-- Modern Masters 2015 Edition
-- Dragons of Tarkir
-- Fate Reforged
-- Khans of Tarkir
-- Magic 2015
-- Modern Event Deck
-- Journey into Nyx
-- Born of the Gods
-- Theros
-- Magic 2014
-- Modern Masters
-- Dragon's Maze
-- Gatecrash
-- Return to Ravnica
-- Magic 2013
-- 'Avacyn Restored '
-- Dark Ascension
-- Innistrad
-- 2012 Core Set
-- New Phyrexia
-- Mirrodin Besieged
-- Scars of Mirrodin
-- 2011 Core Set
-- Rise of the Eldrazi
-- Worldwake
-- Zendikar
-- 2010 Core Set
-- Alara Reborn
-- Conflux
-- Shards of Alara
-- Eventide
-- Shadowmoor
-- Morningtide
-- Lorwyn
-- Tenth Edition
-- Future Sight
-- Planar Chaos
-- Time Spiral
-- Time Spiral "Timeshifted"
-- Coldsnap
-- Dissension
-- Guildpact
-- 'Ravnica: City of Guilds'
-- Ninth Edition
-- Saviors of Kamigawa
-- Betrayers of Kamigawa
-- Champions of Kamigawa
-- Fifth Dawn
-- Darksteel
-- Mirrodin
-- Eighth Edition

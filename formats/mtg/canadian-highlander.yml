@@ -1,0 +1,64 @@
+bans:
+- Adriana's Valor
+- Amulet of Quoz
+- Bronze Tablet
+- Chaos Orb
+- City of Ass
+- Contract from Below
+- Crow Storm
+- Darkpact
+- Delighted Killbot
+- Demonic Attorney
+- Despondent Killbot
+- Double Stroke
+- Dr. Julius Jumblemorph
+- Echoing Boon
+- Emissary's Ploy
+- Enraged Killbot
+- Everythingamajig B
+- Everythingamajig C
+- Everythingamajig D
+- Everythingamajig E
+- Everythingamajig F
+- Falling Star
+- Fraternal Exaltation
+- Garbage Elemental B
+- Garbage Elemental C
+- Garbage Elemental D
+- Garbage Elemental E
+- Garbage Elemental F
+- Hired Heist
+- Hold the Perimeter
+- Hymn of the Wilds
+- Ineffable Blessing B
+- Ineffable Blessing C
+- Ineffable Blessing D
+- Ineffable Blessing E
+- Jeweled Bird
+- Knight of the Kitchen Sink B
+- Knight of the Kitchen Sink C
+- Knight of the Kitchen Sink D
+- Knight of the Kitchen Sink E
+- Natural Unity
+- Proposal
+- Rebirth
+- Robot Chicken
+- Shahrazad
+- Shichifukujin Dragon
+- Sly Spy B
+- Sly Spy C
+- Sly Spy D
+- Sly Spy E
+- Sly Spy F
+- Sovereign's Realm
+- Splendid Genesis
+- Tempest Efreet
+- Thopter Pie Network
+- Timmerian Fiends
+- Very Cryptic Command C
+- Very Cryptic Command D
+- Very Cryptic Command E
+- Very Cryptic Command F
+inherits:
+- Vintage
+is_singleton: true
