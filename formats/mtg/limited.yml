@@ -1,3 +1,2 @@
-sets:
-- Shadows over Innistrad
-- Battle for Zendikar
+inherits:
+- Casual
