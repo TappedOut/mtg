@@ -1,3 +1,5 @@
+applies_commander_identity: true
+
 bans:
 - Drannith Magistrate
 - Golos, Tireless Pilgrim
@@ -5,6 +7,16 @@ bans:
 - Oko, Thief of Crowns
 - Sorcerous Spyglass
 - Winota, Joiner of Forces
+
+deck_size_maximum: 60
+
+deck_size_minimum: 60
+
+has_sideboard: false
+
+is_singleton: true
+
+starting_life_total: 25
 
 inherits:
 - Standard
