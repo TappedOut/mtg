@@ -25,6 +25,12 @@ bans:
 - Windfall
 - Zuran Orb
 
+deck_size_minimum: 60
+
+has_sideboard: true
+
+starting_life_total: 20
+
 sets:
 - Hour of Devastation
 - Amonkhet
