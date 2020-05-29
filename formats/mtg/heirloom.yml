@@ -1,4 +1,10 @@
 bans:
 
+deck_size_minimum: 60
+
+has_sideboard: true
+
 inherits:
 - MtGO
+
+starting_life_total: 20
