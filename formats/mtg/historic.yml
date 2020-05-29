@@ -1,21 +1,18 @@
 bans:
-- Call the Coppercoats
-- Cartographer's Hawk
-- Crystalline Resonance
-- Dismantling Wave
-- Fireflux Squad
-- Haldan, Avid Arcanist
-- Lavabrink Floodgates
-- Manascape Refractor
-- Nikara, Lair Scavenger
-- Pako, Arcane Retriever
-- Parasitic Impetus
-- Predatory Impetus
-- Selective Adaptation
-- Silvar, Devourer of the Free
-- Trynn, Champion of Freedom
-- Xyris, the Writhing Storm
-- Yannik, Scavenging Sentinel
+- Nexus of Fate
+- Oko, Thief of Crowns
+- Once Upon a Time
+- Veil of Summer
+
+deck_size_minimum: 60
+
+has_sideboard: true
+
+inherits:
+- Standard
+
+is_singleton: false
+
 sets:
 - 'Ikoria: Lair of Behemoths'
 - Theros Beyond Death
@@ -29,3 +26,5 @@ sets:
 - Dominaria
 - Rivals of Ixalan
 - Ixalan
+
+starting_life_total: 20
