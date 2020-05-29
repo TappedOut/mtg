@@ -1,74 +1,109 @@
 bans:
+- 1996 World Champion
 - Adriana's Valor
+- Advantageous Proclamation
 - Amulet of Quoz
 - Ancestral Recall
+- Assemble the Rank and Vile
+- Back to Basics
+- Backup Plan
 - Balance
-- Biorhythm
+- Baral, Chief of Compliance
 - Black Lotus
-- Braids, Cabal Minion
+- Bog Humbugs
+- Braid's Cabal Minion
+- Brago's Favor
 - Bronze Tablet
 - Channel
-- Chaos Orb
-- City of Ass
-- Coalition Victory
 - Contract from Below
-- Crow Storm
 - Darkpact
+- Decorated Knight
 - Demonic Attorney
+- Derevi, Empyrial Tactician
+- Doomsday
 - Double Stroke
-- Dr. Julius Jumblemorph
+- Echoing Boon
+- Edric, Spymaster of Trest
+- Emissary's Ploy
+- Emrakul, the Aeons Torn
 - Erayo, Soratami Ascendant
-- Falling Star
+- Evil Presents
 - Fastbond
+- Food Chain
 - Fraternal Exaltation
+- Fruitcake Elemental
+- Gifts Given
 - Gifts Ungiven
-- Griselbrand
+- Goblin Sleigh Ride
+- Grimlock, Dinobot Leader
+- Hermit Druid
+- Hired Heist
+- Hold the Perimeter
+- Humility
+- Hymn of the Wilds
+- Immediate Action
+- Incendiary Dissent
+- Iterative Analysis
 - Jeweled Bird
 - Karakas
 - Library of Alexandria
-- Limited Resources
-- Mirrored Depths
+- Mind Twist
+- Mishra's Toy Workshop
+- Moat
 - Mox Emerald
 - Mox Jet
 - Mox Pearl
 - Mox Ruby
 - Mox Sapphire
-- Painter's Servant
-- Panoptic Mirror
-- Prophet of Kruphix
+- Muzzio's Preparations
+- Natuiral Order
+- Natural Unity
+- Naughty / Nice
+- Nerf War
+- Nightmare Moon
+- Oath of Druids
+- Phoenix Heart
+- Power Play
+- Princess Twighlight Sparkle
 - Proposal
+- Rarity
 - Rebirth
-- Recurring Nightmare
 - Robot Chicken
 - Rofellos, Llanowar Emissary
-- Shahrazad
+- Season's Beatings
+- Secret Summoning
+- Secrets of Paradise
+- Sensei's Divining Top
+- Sentinel Dispatch
+- Serra Ascendant
 - Shichifukujin Dragon
+- Snow Mercy
+- Some Dissasembly Required
 - Sovereign's Realm
-- Splendid Genesis
-- Sundering Titan
-- Sway of the Stars
-- Sylvan Primordial
+- Splended Genesis
+- Stocking Tiger
+- Strip Mine
+- Summoner's Bond
+- Survival of the Fittest
+- Sword of Dungeons & Dragons
+- Sylvan Library
 - Tempest Efreet
+- The Tabernacle at Pendrell Vale
 - Thopter Pie Network
 - Time Vault
 - Time Walk
 - Timmerian Fiends
 - Tinker
 - Tolarian Academy
-- Trade Secrets
-- Upheaval
-- Worldfire
-- Yawgmoth's Bargain
+- Unexpected Potential
+- Weight Advantage
+- Winter Orb
+- Worldknit
+- Yule Ooze
+- Zur the Enchanter
+
 inherits:
 - Commander / EDH
+- MtGO
+
 is_singleton: true
-sets:
-- Core Set 2020
-- 'Ravnica Allegiance: Guild Kits'
-- Ravnica Allegiance
-- 'Guilds of Ravnica: Guild Kit'
-- 'Guilds of Ravnica: Mythic Edition'
-- Dominaria
-- Ixalan
-- Amonkhet
-- Aether Revolt
