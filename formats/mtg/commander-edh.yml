@@ -1,3 +1,5 @@
+assigns_commander_identity: true
+
 bans:
 - 1996 World Champion
 - Adriana's Valor
@@ -104,7 +106,15 @@ bans:
 - Yawgmoth's Bargain
 - Yule Ooze
 
+deck_size_maximum: 100
+
+deck_size_minimum: 100
+
+has_sideboard: true
+
 inherits:
 - Vintage
 
 is_singleton: true
+
+starting_life_total: 40
