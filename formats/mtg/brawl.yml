@@ -14,9 +14,9 @@ deck_size_minimum: 60
 
 has_sideboard: false
 
+inherits:
+- Standard
+
 is_singleton: true
 
 starting_life_total: 25
-
-inherits:
-- Standard
