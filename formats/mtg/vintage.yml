@@ -60,9 +60,10 @@ bans:
 - Very Cryptic Command D
 - Very Cryptic Command E
 - Very Cryptic Command F
+
 inherits:
 - Legacy
-- Highlander
+
 sets:
 - Core Set 2020
 - 'Ravnica Allegiance: Guild Kits'
