@@ -1,61 +1,52 @@
 bans:
+- 1996 World Champion
 - Adriana's Valor
+- Advantageous Proclamation
 - Amulet of Quoz
 - Ancestral Recall
+- Assemble the Rank and Vile
+- Backup Plan
 - Balance
 - Bazaar of Baghdad
 - Black Lotus
+- Bog Humbugs
+- Brago's Favor
 - Bronze Tablet
 - Channel
 - Chaos Orb
-- City of Ass
 - Contract from Below
-- Crow Storm
 - Darkpact
 - Deathrite Shaman
-- Delighted Killbot
+- Decorated Knight
 - Demonic Attorney
 - Demonic Consultation
 - Demonic Tutor
-- Despondent Killbot
 - Dig Through Time
 - Double Stroke
 - Earthcraft
 - Echoing Boon
 - Emissary's Ploy
-- Enraged Killbot
-- Everythingamajig B
-- Everythingamajig C
-- Everythingamajig D
-- Everythingamajig E
-- Everythingamajig F
+- Evil Presents
 - Falling Star
-- Fastbond
 - Flash
 - Frantic Search
 - Fraternal Exaltation
-- Garbage Elemental B
-- Garbage Elemental C
-- Garbage Elemental D
-- Garbage Elemental E
-- Garbage Elemental F
-- Gitaxian Probe
+- Fruitcake Elemental
+- Gifts Given
+- Gitaxian Prove
 - Goblin Recruiter
+- Goblin Sleigh Ride
+- Grimlock, Dinobot Leader
 - Gush
 - Hermit Druid
 - Hired Heist
 - Hold the Perimeter
 - Hymn of the Wilds
+- Immediate Action
 - Imperial Seal
-- Ineffable Blessing B
-- Ineffable Blessing C
-- Ineffable Blessing D
-- Ineffable Blessing E
+- Incendiary Dissent
+- Iterative Analysis
 - Jeweled Bird
-- Knight of the Kitchen Sink B
-- Knight of the Kitchen Sink C
-- Knight of the Kitchen Sink D
-- Knight of the Kitchen Sink E
 - Library of Alexandria
 - Lurrus of the Dream-Den
 - Mana Crypt
@@ -66,32 +57,45 @@ bans:
 - Mind Twist
 - Mind's Desire
 - Mishra's Workshop
+- Mishra's Toy Workshop
 - Mox Emerald
 - Mox Jet
 - Mox Pearl
 - Mox Ruby
 - Mox Sapphire
+- Muzzio's Preparations
 - Mystical Tutor
 - Natural Unity
+- Naughty / Nice
 - Necropotence
+- Nerf War
+- Nightmare Moon
 - Oath of Druids
+- Phoenix Heart
+- Power Play
+- Princess Twighlight Sparkle
 - Proposal
+- Rarity
 - Rebirth
 - Robot Chicken
+- Season's Beatings
+- Secret Summoning
+- Secrets of Paradise
 - Sensei's Divining Top
+- Sentinel Dispatch
 - Shahrazad
 - Shichifukujin Dragon
 - Skullclamp
-- Sly Spy B
-- Sly Spy C
-- Sly Spy D
-- Sly Spy E
-- Sly Spy F
+- Snow Mercy
 - Sol Ring
+- Some Dissasembly Required
 - Sovereign's Realm
-- Splendid Genesis
+- Splended Genesis
+- Stocking Tiger
 - Strip Mine
+- Summoner's Bond
 - Survival of the Fittest
+- Sword of Dungeons & Dragons
 - Tempest Efreet
 - Thopter Pie Network
 - Time Vault
@@ -99,23 +103,27 @@ bans:
 - Timetwister
 - Timmerian Fiends
 - Tinker
-- Tolarian Academy
+- Tolarian academy
 - Treasure Cruise
 - Underworld Breach
+- Unexpected Potential
 - Vampiric Tutor
-- Very Cryptic Command C
-- Very Cryptic Command D
-- Very Cryptic Command E
-- Very Cryptic Command F
+- Weight Advantage
 - Wheel of Fortune
 - Windfall
+- Worldknit
 - Wrenn and Six
 - Yawgmoth's Bargain
 - Yawgmoth's Will
+- Yule Ooze
 - Zirda, the Dawnwaker
+
+deck_size_minimum: 60
 
 inherits:
 - Modern
+
+has_sideboard: true
 
 sets:
 - Commander 2020
@@ -187,3 +195,5 @@ sets:
 - Promo Set
 - Promo set for Gatherer
 - Magic Online Promo Cards
+
+starting_life_total: 20
