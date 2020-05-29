@@ -64,7 +64,13 @@ bans:
 - Worldknit
 - Yule Ooze
 
+deck_size_minimum: 100
+
+has_sideboard: false
+
 inherits:
 - Vintage
 
 is_singleton: true
+
+starting_life_total: 20
