@@ -102,8 +102,16 @@ bans:
 - Yule Ooze
 - Zur the Enchanter
 
+deck_size_maximum: 100
+
+deck_size_minimum: 100
+
 inherits:
 - Commander / EDH
 - MtGO
 
+has_sideboard: false
+
 is_singleton: true
+
+starting_life_total: 30
