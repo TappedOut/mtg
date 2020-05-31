@@ -1,9 +1,144 @@
+applies_commander_identity: true
+
+banned_as_commander:
+- Derevi, Empyrial Tactician
+- Edric, Spymaster of Trest
+- Erayo, Soratami Ascendant
+- Oloro, Ageless Ascetic
+- Rofellos, Llanowar Emissary
+- Tasigur, the Golden Fang
+- Vial Smasher the Fierce
+- Zur the Enchanter
+
 bans:
-- Crow Storm
+- 1996 World Champion
+- Adriana's Valor
+- Advantageous Proclamation
+- Amulet of Quoz
+- Ancestral Recall
+- Ancient Tomb
+- Assemble the Rank and Vile
+- Back to Basics
+- Backup Plan
+- Balance
+- Black Lotus
+- Bog Humbugs
+- Brago's Favor
+- Bronze Tablet
+- Cataclysm
+- Channel
+- Chaos Orb
+- Chrome Mox
+- Contract from Below
+- Darkpact
+- Decorated Knight
+- Demonic Attorney
+- Dig Through Time
+- Double Stroke
+- Echoing Boon
+- Emissary's Ploy
+- Emrakul, the Aeons Torn
+- Emrakul, the Promised End
+- Entomb
+- Evil Presents
+- Falling Star
+- Fastbond
+- Food Chain
 - Fraternal Exaltation
+- Fruitcake Elemental
+- Gaea's Cradle
+- Gifts Given
+- Gifts Ungiven
+- Goblin Sleigh Ride
+- Grim Monolith
+- Grimlock, Dinobot Leader
+- Grindstone
+- Hermit Druid
+- High Tide
+- Hired Heist
+- Hold the Perimeter
+- Humility
+- Hymn of the Wilds
+- Immediate Action
+- Imperial Seal
+- Incendiary Dissent
+- Intuition
+- Iterative Analysis
+- Jeweled Bird
+- Karakas
+- Library of Alexandria
+- Loyal Retainers
+- Mana Crypt
+- Mana Drain
+- Mana Vault
+- Mind Twist
+- Mishra's Workshop
+- Mishra's Toy Workshop
+- Mox Diamond
+- Mox Emerald
+- Mox Jet
+- Mox Pearl
+- Mox Ruby
+- Mox Sapphire
+- Muzzio's Preparations
+- Mystical Tutor
+- Natural Order
+- Natural Unity
+- Naughty / Nice
+- Necropotence
+- Nerf War
+- Nightmare Moon
+- Oath of Druids
+- Phoenix Heart
+- Power Play
+- Princess Twighlight Sparkle
 - Proposal
+- Protean Hulk
+- Rarity
+- Rebirth
 - Robot Chicken
+- Season's Beatings
+- Secret Summoning
+- Secrets of Paradise
+- Sensei's Divining Top
+- Sentinel Dispatch
+- Serra Ascendant
+- Shahrazad
 - Shichifukujin Dragon
-- Splendid Genesis
+- Snow Mercy
+- Sol Ring
+- Some Dissasembly Required
+- Sovereign's Realm
+- Splended Genesis
+- Stocking Tiger
+- Strip Mine
+- Summoner's Bond
+- Sword of Dungeons & Dragons
+- Tempest Efreet
+- The Tabernacle at Pendrell Vale
 - Thopter Pie Network
+- Time Vault
+- Time Walk
+- Timmerian Fiends
+- Tinker
+- Tolarian Academy
+- Treasure Cruise
+- Unexpected Potential
+- Vampiric Tutor
+- Weight Advantage
+- Worldknit
+- Yawgmoth's Bargain
+- Yule Ooze
+
+deck_size_maximum: 100
+
+deck_size_minimum: 100
+
+has_sideboard: false
+
+inherits:
+- Commander / EDH
+
 is_singleton: true
+
+starting_life_total: 20
