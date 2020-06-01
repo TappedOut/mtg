@@ -102,9 +102,9 @@ bans:
 - Shichifukujin Dragon
 - Snow Mercy
 - Sol Ring
-- Some Dissasembly Required
+- Some Disassembly Required
 - Sovereign's Realm
-- Splended Genesis
+- Splendid Genesis
 - Stocking Tiger
 - Strip Mine
 - Summoner's Bond
@@ -161,5 +161,3 @@ inherits:
 has_sideboard: false
 
 is_singleton: true
-
-starting_life_total: 20
