@@ -5,31 +5,50 @@ bans:
 - Balance
 - Bazaar of Baghdad
 - Black Lotus
+- Bog Humbugs
+- Brago's Favor
 - Bronze Tablet
 - Channel
+- Chaos Orb
 - Contract from Below
 - Cranial Plating
 - Crow Storm
 - Dark Depths
 - Darkpact
+- Decorated Knight
 - Demonic Attorney
 - Demonic Consultation
 - Demonic Tutor
+- Double Stroke
 - Dr. Julius Jumblemorph
 - Earthcraft
+- Echoing Boon
 - Elemental Mastery
+- Emissary's Ploy
 - Erayo's Essence
 - Erayo, Soratami Ascendant
 - Erayo, Soratami Ascendant / Erayo's Essence
+- Evil Presents
+- Falling Star
 - Fastbond
 - Fluctuator
 - Frantic Search
 - Fraternal Exaltation
+- Fruitcake Elemental
+- Gifts Given
 - Glimpse of Nature
 - Goblin Recruiter
+- Goblin Sleigh Ride
+- Grimlock, Dinobot Leader
 - Gush
 - Hermit Druid
+- Hired Heist
+- Hold the Perimeter
+- Hymn of the Wilds
+- Immediate Action
 - Imperial Seal
+- Incendiary Dissent
+- Iterative Analysis
 - Jace, the Mind Sculptor
 - Jeweled Bird
 - Library of Alexandria
@@ -39,26 +58,47 @@ bans:
 - Mind Twist
 - Mind's Desire
 - Mindcrank
+- Mishra's Toy Workshop
 - Mishra's Workshop
 - Mox Emerald
 - Mox Jet
 - Mox Pearl
 - Mox Ruby
 - Mox Sapphire
+- Muzzio's Preparations
 - Natural Unity
+- Naughty / Nice
 - Necropotence
+- Nerf War
+- Nightmare Moon
 - Oath of Druids
+- Phoenix Heart
 - Phyrexian Dreadnought
+- Power Play
+- Princess Twighlight Sparkle
 - Proposal
 - Pyromancer Ascension
+- Rarity
 - Rebirth
 - Robot Chicken
+- Season's Beatings
+- Secret Summoning
+- Secrets of Paradise
+- Sentinel Dispatch
+- Shahrazad
 - Shichifukujin Dragon
 - Skullclamp
+- Snow Mercy
 - Sol Ring
+- Some Dissasembly Required
+- Sovereign's Realm
+- Splended Genesis
 - Splendid Genesis
 - Splinter Twin
+- Stocking Tiger
 - Strip Mine
+- Summoner's Bond
+- Sword of Dungeons & Dragons
 - Tempest Efreet
 - Thopter Pie Network
 - Time Vault
@@ -66,97 +106,14 @@ bans:
 - Timetwister
 - Timmerian Fiends
 - Tolarian Academy
+- Unexpected Potential
 - Vampiric Tutor
+- Weight Advantage
 - Wheel of Fortune
 - Windfall
+- Worldknit
 - Yawgmoth's Bargain
 - Yawgmoth's Will
-sets:
-- Oath of the Gatewatch
-- Journey into Nyx
-- Born of the Gods
-- Theros
-- Dark Ascension
-- Innistrad
-- 2012 Core Set
-- New Phyrexia
-- Mirrodin Besieged
-- Scars of Mirrodin
-- 2011 Core Set
-- Rise of the Eldrazi
-- Worldwake
-- Zendikar
-- Planechase
-- 2010 Core Set
-- Alara Reborn
-- Conflux
-- Shards of Alara
-- Masters Edition II
-- Eventide
-- Shadowmoor
-- Morningtide
-- Lorwyn
-- Masters Edition
-- Tenth Edition
-- Future Sight
-- Planar Chaos
-- Time Spiral "Timeshifted"
-- Time Spiral
-- Coldsnap
-- Dissension
-- Guildpact
-- 'Ravnica: City of Guilds'
-- Ninth Edition
-- Saviors of Kamigawa
-- Betrayers of Kamigawa
-- Unhinged
-- Champions of Kamigawa
-- Fifth Dawn
-- Darksteel
-- Mirrodin
-- Eighth Edition
-- Scourge
-- Legions
-- Onslaught
-- Judgment
-- Torment
-- Odyssey
-- Apocalypse
-- Seventh Edition
-- Planeshift
-- Vanguard
-- Invasion
-- Prophecy
-- Starter 2000
-- Nemesis
-- Mercadian Masques
-- Starter 1999
-- Portal Three Kingdoms
-- Urza's Destiny
-- Classic Sixth Edition
-- Urza's Legacy
-- Urza's Saga
-- Unglued
-- Portal Second Age
-- Exodus
-- Stronghold
-- Tempest
-- Weatherlight
-- Portal
-- Fifth Edition
-- Visions
-- Mirage
-- Alliances
-- Homelands
-- Chronicles
-- Ice Age
-- Fourth Edition
-- Fallen Empires
-- The Dark
-- Legends
-- Revised Edition
-- Antiquities
-- Arabian Nights
-- Unlimited Edition
-- Limited Edition Beta
-- Limited Edition Alpha
+- Yule Ooze
+
+inherits: vintage
