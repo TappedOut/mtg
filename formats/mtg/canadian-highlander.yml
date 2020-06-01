@@ -50,9 +50,9 @@ bans:
 - Shahrazad
 - Shichifukujin Dragon
 - Snow Mercy
-- Some Dissasembly Required
+- Some Disassembly Required
 - Sovereign's Realm
-- Splended Genesis
+- Splendid Genesis
 - Stocking Tiger
 - Summoner's Bond
 - Sword of Dungeons & Dragons
@@ -72,5 +72,3 @@ inherits:
 - Vintage
 
 is_singleton: true
-
-starting_life_total: 20
