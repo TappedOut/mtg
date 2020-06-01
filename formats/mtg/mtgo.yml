@@ -1,13 +1,2 @@
-bans:
-- Crow Storm
-- Fraternal Exaltation
-- Proposal
-- Robot Chicken
-- Shichifukujin Dragon
-- Splendid Genesis
-- Thopter Pie Network
-sets:
-- Vintage Masters
-- Journey into Nyx
-- Born of the Gods
-- Theros
+inherits:
+- Casual
