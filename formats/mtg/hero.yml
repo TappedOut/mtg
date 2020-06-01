@@ -104,6 +104,8 @@ deck_size_maximum: 61
 
 deck_size_minimum: 61
 
+has_sideboard: false
+
 inherits: Commander/EDH
 
 #unique_deck_construction:
