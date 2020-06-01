@@ -112,8 +112,6 @@ deck_size_maximum: 100
 
 deck_size_minimum: 100
 
-has_sideboard: true
-
 inherits:
 - Vintage
 
