@@ -118,12 +118,8 @@ bans:
 - Yule Ooze
 - Zirda, the Dawnwaker
 
-deck_size_minimum: 60
-
 inherits:
 - Modern
-
-has_sideboard: true
 
 sets:
 - Commander 2020
@@ -194,5 +190,3 @@ sets:
 - Promo Set
 - Promo set for Gatherer
 - Magic Online Promo Cards
-
-starting_life_total: 20
