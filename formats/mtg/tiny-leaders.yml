@@ -1,21 +1,127 @@
+assigns_commander_identity: true
+
+banned_as_commander:
+- Erayo, Soratami Ascendant
+- Rofellos, Llanowar Emissary
+- Derevi, Empyrial Tactician
+
 bans:
-- City of Ass
-- Crow Storm
-- Dr. Julius Jumblemorph
+- 1996 World Champion
+- Adriana's Valor
+- Advantageous Proclamation
+- Amulet of Quoz
+- Ancestral Recall
+- Assemble the Rank and Vile
+- Backup Plan
+- Balance
+- Black Lotus
+- Black Vise
+- Bog Humbugs
+- Brago's Favor
+- Bronze Tablet
+- Channel
+- Chaos Orb
+- Contract from Below
+- Counterbalance
+- Darkpact
+- Decorated Knight
+- Demonic Attorney
+- Demonic Tutor
+- Double Stroke
+- Earthcraft
+- Echoing Boon
+- Edric, Spymaster of Trest
+- Emissary's Ploy
+- Evil Presents
+- Falling Star
+- Fastbond
 - Fraternal Exaltation
-- Hate Mirage
-- Illuna, Apex of Wishes
-- Lukka, Coppercoat Outcast
-- Morophon, the Boundless
-- Multani, Yavimaya's Avatar
-- Nicol Bolas, the Ravager
+- Fruitcake Elemental
+- Gifts Given
+- Goblin Recruiter
+- Goblin Sleigh Ride
+- Grimlock, Dinobot Leader
+- Grindstone
+- Hermit Druid
+- High Tide
+- Hired Heist
+- Hold the Perimeter
+- Hymn of the Wilds
+- Immediate Action
+- Imperial Seal
+- Incendiary Dissent
+- Iterative Analysis
+- Jeweled Bird
+- Karakas
+- Library of Alexandria
+- Mana Crypt
+- Mana Drain
+- Mana Vault
+- Metalworker
+- Mind Twist
+- Mishra's Toy Workshop
+- Mishra's Workshop
+- Mox Emerald
+- Mox Jet
+- Mox Pearl
+- Mox Ruby
+- Mox Sapphire
+- Muzzio's Preparations
+- Najeela, the Blade Blossom
+- Natural Unity
+- Naughty / Nice
+- Necropotence
+- Nerf War
+- Nightmare Moon
+- Phoenix Heart
+- Power Play
+- Princess Twilight Sparkle
 - Proposal
+- Rarity
+- Rebirth
 - Robot Chicken
+- Season's Beatings
+- Secret Summoning
+- Secrets of Paradise
+- Sentinel Dispatch
+- Shahrazad
 - Shichifukujin Dragon
+- Skullclamp
+- Snow Mercy
+- Sol Ring
+- Some Disassembly Required
 - Sovereign's Realm
 - Splendid Genesis
+- Stocking Tiger
+- Strip Mine
+- Summoner's Bond
+- Survival of the Fittest
+- Sword of Body and Mind
+- Sword of Dungeons & Dragons
+- Tempest Efreet
+- The Tabernacle at Pendrell Vale
 - Thopter Pie Network
-- Vivien, Monsters' Advocate
+- Time Vault
+- Time Walk
+- Timetwister
+- Timmerian Fiends
+- Tolarian Academy
+- Umezawa's Jitte
+- Unexpected Potential
+- Vampiric Tutor
+- Weight Advantage
+- Wheel of Fortune
+- Worldknit
+- Yawgmoth's Will
+- Yule Ooze
+
+deck_size_minimum: 50
+
+deck_size_minimum: 50
+
 inherits:
 - Commander / EDH
+
 is_singleton: true
+
+sideboard_size: 10
