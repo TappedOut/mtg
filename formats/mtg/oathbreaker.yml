@@ -1,3 +1,6 @@
+assigns_commander_identity: true
+
 inherits:
-- Commander / EDH
+- Casual
+
 is_singleton: true
