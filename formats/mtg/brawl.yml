@@ -8,13 +8,13 @@ bans:
 - Sorcerous Spyglass
 - Winota, Joiner of Forces
 
-deck_size_maximum: 60
-
 has_sideboard: false
 
 inherits:
 - Standard
 
 is_singleton: true
+
+maximum_deck_size: 60
 
 starting_life_total: 25
