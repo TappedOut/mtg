@@ -100,13 +100,13 @@ bans:
 - Yawgmoth's Bargain
 - Yule Ooze
 
-deck_size_maximum: 61
-
-deck_size_minimum: 61
-
 has_sideboard: false
 
 inherits: Commander/EDH
+
+maximum_deck_size: 61
+
+minimum_deck_size: 61
 
 #unique_deck_construction:
 #- Every nonbasic, noncommander, non-Relentless Rats style card must be a 2 of.
