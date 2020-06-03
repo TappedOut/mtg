@@ -108,13 +108,13 @@ bans:
 - Yawgmoth's Bargain
 - Yule Ooze
 
-deck_size_maximum: 100
-
-deck_size_minimum: 100
-
 inherits:
 - Vintage
 
 is_singleton: true
+
+maximum_deck_size: 100
+
+minimum_deck_size: 100
 
 starting_life_total: 40
