@@ -115,16 +115,16 @@ bans:
 - Yawgmoth's Will
 - Yule Ooze
 
-deck_size_minimum: 50
-
-deck_size_minimum: 50
-
 inherits:
 - Commander / EDH
 
 is_singleton: true
 
+maximum_deck_size: 50
+
+minimum_deck_size: 50
+
 sideboard_size: 10
 
-#custom_deck_building_rules:
+#unique_deck_construction:
 #- Every card must be cmc 3 or lower.
