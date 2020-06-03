@@ -151,13 +151,13 @@ bans_as_commander:
 - Yuriko, the Tiger’s Shadow
 - Zurgo Bellstriker
 
-deck_size_maximum: 100
-
-deck_size_minimum: 100
-
 inherits:
 - Commander / EDH
 
 has_sideboard: false
 
 is_singleton: true
+
+maximum_deck_size: 100
+
+minimum_deck_size: 100
