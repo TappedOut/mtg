@@ -4,14 +4,8 @@ bans:
 - Once Upon a Time
 - Veil of Summer
 
-deck_size_minimum: 60
-
-has_sideboard: true
-
 inherits:
 - Standard
-
-is_singleton: false
 
 sets:
 - 'Ikoria: Lair of Behemoths'
@@ -26,5 +20,3 @@ sets:
 - Dominaria
 - Rivals of Ixalan
 - Ixalan
-
-starting_life_total: 20
