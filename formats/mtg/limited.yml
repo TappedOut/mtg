@@ -1,4 +1,4 @@
-deck_size_minimum: 40
-
 inherits:
 - Casual
+
+minimum_deck_size: 40
