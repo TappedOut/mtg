@@ -10,8 +10,6 @@ bans:
 
 deck_size_maximum: 60
 
-deck_size_minimum: 60
-
 has_sideboard: false
 
 inherits:
