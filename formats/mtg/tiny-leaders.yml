@@ -125,3 +125,6 @@ inherits:
 is_singleton: true
 
 sideboard_size: 10
+
+#custom_deck_building_rules:
+#- Every card must be cmc 3 or lower.
