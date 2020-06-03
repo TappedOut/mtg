@@ -110,7 +110,6 @@ deck_size_minimum: 100
 
 inherits:
 - Commander / EDH
-- MtGO
 
 has_sideboard: false
 
