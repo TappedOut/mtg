@@ -2,7 +2,7 @@ name: Test
 on:
   push:
     branches:
-      - test-project-ii
+      - testproject-ii
 jobs:
   test:
     runs-on: ubuntu-latest
