@@ -18,10 +18,22 @@ class TestFormat(unittest.TestCase):
 
 
     def test_format_keys(self):
+        object_types = {
+            'inherits': list,
+            'sets': list,
+            'bans': list,
+            'assigns_commander_identity': str,
+            'has_sideboard': bool,
+            'is_singleton': bool,
+            'maximum_deck_size': int,
+            'minimum_deck_size': int,
+            'starting_life_total': int,
+        }
+
         for slug, item in self._data.items():
             for key in item.keys():
-                self.assertTrue(key in ['inherits', 'sets', 'bans', 'assigns_commander_identity', 'has_sideboard',
-                                        'is_singleton', 'maximum_deck_size', 'minimum_deck_size', 'starting_life_total'], "%s has a bad key %s" % (slug, key))
+                self.assertTrue(key in [object_types], "%s has a bad key %s" % (slug, key))
+                self.assertTrue(isinstance(item[key], object_types[key]))
 
     def test_inheritance(self):
         for slug, data in self._data.items():
