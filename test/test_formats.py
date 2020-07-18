@@ -26,7 +26,7 @@ class TestFormat(unittest.TestCase):
     def test_inheritance(self):
         for slug, data in self._data.items():
             for item in data.get('inherits') or []:
-                self.assertTrue(slugify(item) in self._data)
+                self.assertTrue(slugify(item) in self._data, "%s found inheriting a bad format %s" % (slug, item))
         self.assertTrue(self._data)
 
     def test_recursion(self):
