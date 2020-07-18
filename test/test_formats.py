@@ -46,7 +46,6 @@ class TestFormat(unittest.TestCase):
                     self.assertFalse(data[inherit_key] in redundant_slugs)
                     recurse(inspect_slug, inherit_key, inherit_target, redundant_slugs=redundant_slugs, redundant_objects=redundant_objects)
             log.info(locals())
-            self.assertFalse(redundant_objects == [], "No items collected during inheritance")
 
         for slug, data in self._data.items():
             bans = data.get('bans') or []
