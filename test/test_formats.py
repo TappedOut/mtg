@@ -26,3 +26,27 @@ class TestFormat(unittest.TestCase):
                     self.assertTrue(slugify(item) in self._data)
 
         self.assertTrue(self._data)
+
+    def test_recursion(self):
+        def recurse(slug, inherit_key, inherit_target, illegal_items=[]):
+            illegal_items.append(slug)
+            inherits = map(slugify, self._data[slug][inherit_key])
+            for inspect_slug, data in self._data.items():
+                if inspect_slug not in inherits:
+                    continue
+                for item in data.get(inherit_target) or []:
+                    yield item
+                if data.get(inherit_key):
+                    self.assertFalse(data[inherit_key] in illegal_items)
+                    recurse(inspect_slug, inherit_key, inherit_target, illegal_items=illegal_items)
+
+        for slug, data in self._data.items():
+            bans = data.get('bans') or []
+            sets = data.get('sets') or []
+            previous_bans = len(bans)
+            previous_sets = len(sets)
+
+            if data.get('inherits'):
+                print("inherits: %s" % data['inherits'])
+                sets += list(recurse(slug, 'inherits', 'sets'))
+                self.assertTrue(previous_sets < len(sets), "%s didn't end up with additional sets despite inheriting %s" % (slug, data['inherits']))
