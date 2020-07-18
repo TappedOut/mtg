@@ -1,11 +1,8 @@
+name: Test
 on:
   push:
     branches:
       - test-project-ii
-
-
-name: Test
-on: [push]
 jobs:
   test:
     runs-on: ubuntu-latest
