@@ -21,7 +21,7 @@ class TestFormat(unittest.TestCase):
         for slug, item in self._data.items():
             for key in item.keys():
                 self.assertTrue(key in ['inherits', 'sets', 'bans', 'assigns_commander_identity', 'has_sideboard',
-                                        'is_singleton', 'maximum_deck_size', 'minium_deck_size', 'starting_life_total'], "%s has a bad key %s" % (slug, key))
+                                        'is_singleton', 'maximum_deck_size', 'minimum_deck_size', 'starting_life_total'], "%s has a bad key %s" % (slug, key))
 
     def test_inheritance(self):
         for slug, data in self._data.items():
