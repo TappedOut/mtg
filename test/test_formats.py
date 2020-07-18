@@ -20,7 +20,7 @@ class TestFormat(unittest.TestCase):
                                    'is_singleton', 'maximum_deck_size', 'minium_deck_size', 'starting_life_total'])
 
     def test_inheritance(self):
-        for slug, data in format_data.items():
+        for slug, data in self._data.items():
             if data.get('inherits'):
                 for item in data['inherits']:
                     self.assertTrue(slugify(item) in self._data)
