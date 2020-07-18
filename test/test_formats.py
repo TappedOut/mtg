@@ -33,7 +33,7 @@ class TestFormat(unittest.TestCase):
         for slug, item in self._data.items():
             for key in item.keys():
                 self.assertTrue(key in object_types, "%s has a bad key %s" % (slug, key))
-                self.assertTrue(isinstance(item[key], object_types[key]))
+                self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s)" % (slug, key, object_types[key]))
 
     def test_inheritance(self):
         for slug, data in self._data.items():
