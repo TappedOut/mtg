@@ -8,6 +8,8 @@ inherits:
 - Standard
 
 sets:
+- Jumpstart
+- Dominaria
 - Core Set 2019
 - Rivals of Ixalan
 - Ixalan
