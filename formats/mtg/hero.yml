@@ -1,4 +1,4 @@
-applies_commander_identity: true
+assigns_commander_identity: true
 
 bans:
 - 1996 World Champion
@@ -102,7 +102,8 @@ bans:
 
 has_sideboard: false
 
-inherits: Commander/EDH
+inherits:
+- Commander/EDH
 
 maximum_deck_size: 61
 
