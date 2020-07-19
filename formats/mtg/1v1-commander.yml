@@ -102,12 +102,12 @@ bans:
 - Yule Ooze
 - Zur the Enchanter
 
-inherits:
-- Commander / EDH
-
 has_commander: true
 
 has_sideboard: false
+
+inherits:
+- Commander / EDH
 
 is_singleton: true
 
