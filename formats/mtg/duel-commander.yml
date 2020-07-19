@@ -1,3 +1,25 @@
+banned_as_commander:
+- Arahbo, Roar of the World
+- Baral, Chief of Compliance
+- Breya, Etherium Shaper
+- Bruse Tarl, Boorish Herder
+- Derevi, Empyrial Tactician
+- Edgar Markov
+- Edric, Spymaster of Trest
+- Emry, Lurker of the Loch
+- Geist of Saint Traft
+- Marath, Will of the Wild
+- Najeela, the Blade-Blossom
+- Oloro, Ageless Ascetic
+- Prime Speaker Vannifar
+- Rofellos, Llanowar Emissary
+- Tasigur, the Golden Fang
+- Teferi, Temporal Archmage
+- Urza, Lord High Artificer
+- Vial Smasher the Fierce
+- Yuriko, the Tiger’s Shadow
+- Zurgo Bellstriker
+
 bans:
 - 1996 World Champion
 - Adriana's Valor
@@ -126,28 +148,6 @@ bans:
 - Weight Advantage
 - Worldknit
 - Yule Ooze
-
-bans_as_commander:
-- Arahbo, Roar of the World
-- Baral, Chief of Compliance
-- Breya, Etherium Shaper
-- Bruse Tarl, Boorish Herder
-- Derevi, Empyrial Tactician
-- Edgar Markov
-- Edric, Spymaster of Trest
-- Emry, Lurker of the Loch
-- Geist of Saint Traft
-- Marath, Will of the Wild
-- Najeela, the Blade-Blossom
-- Oloro, Ageless Ascetic
-- Prime Speaker Vannifar
-- Rofellos, Llanowar Emissary
-- Tasigur, the Golden Fang
-- Teferi, Temporal Archmage
-- Urza, Lord High Artificer
-- Vial Smasher the Fierce
-- Yuriko, the Tiger’s Shadow
-- Zurgo Bellstriker
 
 has_commander: true
 
