@@ -103,7 +103,7 @@ has_commander: true
 has_sideboard: false
 
 inherits:
-- Legacy
+- Commander / EDH
 
 maximum_deck_size: 61
 
