@@ -53,7 +53,7 @@ class TestFormat(unittest.TestCase):
                 if inspect_slug not in inherits:
                     continue
                 for item in data.get(inherit_target) or []:
-                    self.assertTrue(slugify(item) not in redundant_objects, "Redundant %s found within %s: %s" % (inherit_target, slug, item))
+                    self.assertTrue(slugify(item) not in redundant_objects, "Redundant %s found within %s: %s %s" % (inherit_target, slug, item, locals()))
                     redundant_objects.append(slugify(item))
                     yield item
                 if data.get(inherit_key):
