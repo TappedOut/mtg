@@ -1,8 +1,12 @@
 bans:
+- Agent of Treachery
+- Burning-Tree Emissary
+- Fires of Invention
 - Nexus of Fate
 - Oko, Thief of Crowns
 - Once Upon a Time
 - Veil of Summer
+- Winota, Joiner of Forces
 
 inherits:
 - Standard
