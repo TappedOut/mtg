@@ -56,7 +56,8 @@ class TestFormat(unittest.TestCase):
                     yield item
                 if data.get(inherit_key):
                     self.assertFalse(data[inherit_key] in redundant_slugs)
-                    recurse(inspect_slug, inherit_key, inherit_target, redundant_slugs=redundant_slugs, redundant_objects=redundant_objects)
+                    for item in recurse(inspect_slug, inherit_key, inherit_target, redundant_slugs=redundant_slugs, redundant_objects=redundant_objects):
+                        yield item
             log.info(locals())
 
         for slug, data in self._data.items():
