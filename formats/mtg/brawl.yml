@@ -1,5 +1,3 @@
-assigns_commander_identity: true
-
 bans:
 - Drannith Magistrate
 - Golos, Tireless Pilgrim
@@ -7,6 +5,8 @@ bans:
 - Oko, Thief of Crowns
 - Sorcerous Spyglass
 - Winota, Joiner of Forces
+
+has_commander: true
 
 has_sideboard: false
 
