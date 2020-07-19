@@ -133,7 +133,7 @@ bans:
 has_sideboard: false
 
 inherits:
-- Commander / EDH
+- Legacy
 
 is_singleton: true
 
