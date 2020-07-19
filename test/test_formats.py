@@ -26,6 +26,7 @@ class TestFormat(unittest.TestCase):
             'has_commander': bool,
             'has_sideboard': bool,
             'is_singleton': bool,
+            'sideboard_size': int,
             'maximum_deck_size': int,
             'minimum_deck_size': int,
             'starting_life_total': int,
