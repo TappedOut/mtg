@@ -8,15 +8,8 @@ inherits:
 - Standard
 
 sets:
-- 'Ikoria: Lair of Behemoths'
-- Theros Beyond Death
-- Throne of Eldraine
-- Arena Cards
-- Core Set 2020
-- War of the Spark
-- Ravnica Allegiance
-- Guilds of Ravnica
-- Core Set 2019
 - Dominaria
+- Core Set 2019
 - Rivals of Ixalan
 - Ixalan
+- Arena Cards
