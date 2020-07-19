@@ -18,15 +18,29 @@ class TestFormat(unittest.TestCase):
 
 
     def test_format_keys(self):
+        object_types = {
+            'inherits': list,
+            'sets': list,
+            'bans': list,
+            'banned_as_commander': bool,
+            'has_commander': bool,
+            'has_sideboard': bool,
+            'is_singleton': bool,
+            'maximum_deck_size': int,
+            'minimum_deck_size': int,
+            'starting_life_total': int,
+        }
+
         for slug, item in self._data.items():
             for key in item.keys():
-                self.assertTrue(key in ['inherits', 'sets', 'bans', 'assigns_commander_identity', 'has_sideboard',
-                                        'is_singleton', 'maximum_deck_size', 'minium_deck_size', 'starting_life_total'], "%s has a bad key %s" % (slug, key))
+                self.assertTrue(key in object_types, "%s has a bad key %s" % (slug, key))
+                self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s)" % (slug, key, object_types[key]))
 
     def test_inheritance(self):
         for slug, data in self._data.items():
+            self.assertTrue(data, "%s.yml contained no data" % slug)
             for item in data.get('inherits') or []:
-                self.assertTrue(slugify(item) in self._data)
+                self.assertTrue(slugify(item) in self._data, "%s found inheriting a bad format %s" % (slug, item))
         self.assertTrue(self._data)
 
     def test_recursion(self):
@@ -44,9 +58,9 @@ class TestFormat(unittest.TestCase):
                     yield item
                 if data.get(inherit_key):
                     self.assertFalse(data[inherit_key] in redundant_slugs)
-                    recurse(inspect_slug, inherit_key, inherit_target, redundant_slugs=redundant_slugs, redundant_objects=redundant_objects)
+                    for item in recurse(inspect_slug, inherit_key, inherit_target, redundant_slugs=redundant_slugs, redundant_objects=redundant_objects):
+                        yield item
             log.info(locals())
-            self.assertFalse(redundant_objects == [], "No items collected during inheritance")
 
         for slug, data in self._data.items():
             bans = data.get('bans') or []
