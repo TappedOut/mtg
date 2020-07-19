@@ -1,16 +1,23 @@
+bans:
+- Genesis
+- Robot Chicken
+
 inherits:
 - Standard
 
 sets:
+- Dominaria
 - Core Set 2019
 - Rivals of Ixalan
 - Explorers of Ixalan
 - Ixalan
 - Amonkhet
+- Welcome Deck 2017
 - Aether Revolt
 - Kaladesh
 - Eldritch Moon
 - Shadows over Innistrad
+- Welcome Deck 2016
 - Oath of the Gatewatch
 - Battle for Zendikar
 - Magic Origins
