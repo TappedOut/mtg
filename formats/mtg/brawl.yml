@@ -1,4 +1,4 @@
-applies_commander_identity: true
+assigns_commander_identity: true
 
 bans:
 - Drannith Magistrate
