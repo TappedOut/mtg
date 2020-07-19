@@ -1,5 +1,3 @@
-assigns_commander_identity: true
-
 banned_as_commander:
 - Erayo, Soratami Ascendant
 - Rofellos, Llanowar Emissary
@@ -114,6 +112,8 @@ bans:
 - Worldknit
 - Yawgmoth's Will
 - Yule Ooze
+
+has_commander: true
 
 inherits:
 - Commander / EDH
