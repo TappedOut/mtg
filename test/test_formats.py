@@ -37,6 +37,7 @@ class TestFormat(unittest.TestCase):
 
     def test_inheritance(self):
         for slug, data in self._data.items():
+            self.assertTrue(data, "%s.yml contained no data")
             for item in data.get('inherits') or []:
                 self.assertTrue(slugify(item) in self._data, "%s found inheriting a bad format %s" % (slug, item))
         self.assertTrue(self._data)
