@@ -22,7 +22,7 @@ class TestFormat(unittest.TestCase):
             'inherits': list,
             'sets': list,
             'bans': list,
-            'banned_as_commander': bool,
+            'banned_as_commander': list,
             'has_commander': bool,
             'has_sideboard': bool,
             'is_singleton': bool,
