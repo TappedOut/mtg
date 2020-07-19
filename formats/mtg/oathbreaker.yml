@@ -1,5 +1,3 @@
-assigns_commander_identity: true
-
 bans:
 - 1996 World Champion
 - Ad Nauseam
@@ -108,9 +106,11 @@ bans:
 - Yawgmoth's Bargain
 - Yule Ooze
 
+has_commander: true
+
 has_sideboard: false
 
 inherits:
-- Commander/EDH
+- Commander / EDH
 
 is_singleton: true
