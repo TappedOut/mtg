@@ -1,5 +1,3 @@
-applies_commander_identity: true
-
 banned_as_commander:
 - Derevi, Empyrial Tactician
 - Edric, Spymaster of Trest
@@ -129,6 +127,8 @@ bans:
 - Worldknit
 - Yawgmoth's Bargain
 - Yule Ooze
+
+has_commander: true
 
 has_sideboard: false
 
