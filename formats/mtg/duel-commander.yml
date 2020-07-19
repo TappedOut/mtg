@@ -1,203 +1,163 @@
+banned_as_commander:
+- Arahbo, Roar of the World
+- Baral, Chief of Compliance
+- Breya, Etherium Shaper
+- Bruse Tarl, Boorish Herder
+- Derevi, Empyrial Tactician
+- Edgar Markov
+- Edric, Spymaster of Trest
+- Emry, Lurker of the Loch
+- Geist of Saint Traft
+- Marath, Will of the Wild
+- Najeela, the Blade-Blossom
+- Oloro, Ageless Ascetic
+- Prime Speaker Vannifar
+- Rofellos, Llanowar Emissary
+- Tasigur, the Golden Fang
+- Teferi, Temporal Archmage
+- Urza, Lord High Artificer
+- Vial Smasher the Fierce
+- Yuriko, the Tiger’s Shadow
+- Zurgo Bellstriker
+
 bans:
+- 1996 World Champion
+- Adriana's Valor
+- Advantageous Proclamation
+- Amulet of Quoz
 - Ancestral Recall
+- Ancient Tomb
+- Assemble the Rank and Vile
 - Back to Basics
+- Backup Plan
 - Black Lotus
+- Bog Humbugs
+- Brago's Favor
+- Bronze Tablet
+- Capture of Jingzhou
+- Cavern of Souls
 - Channel
 - Chaos Orb
-- Crow Storm
+- Chrome Mox
+- Contract from Below
+- Darkpact
+- Decorated Knight
+- Deflecting Swat
+- Demonic Attorney
+- Dig Through Time
 - Double Stroke
-- Dr. Julius Jumblemorph
+- Echoing Boon
+- Eidolon of the Great Revel
+- Emissary's Ploy
+- Emrakul, the Aeons Torn
 - Entomb
+- Evil Presents
 - Falling Star
 - Fastbond
+- Field of the Dead
+- Fierce Guardianship
+- Fireblast
 - Food Chain
 - Fraternal Exaltation
-- Gifts Ungiven
+- Fruitcake Elemental
+- Gaea's Cradle
+- Gifts Given
+- Goblin Sleigh Ride
 - Grim Monolith
-- Grindstone
+- Grimlock, Dinobot Leader
 - Hermit Druid
+- High Tide
+- Hired Heist
+- Hold the Perimeter
 - Humility
+- Hymn of the Wilds
+- Immediate Action
 - Imperial Seal
+- Incendiary Dissent
+- Iterative Analysis
+- Jeweled Bird
 - Karakas
 - Library of Alexandria
+- Lion's Eye Diamond
 - Loyal Retainers
+- Lutri, the Spellchaser
 - Mana Crypt
 - Mana Drain
 - Mana Vault
+- Mishra's Toy Workshop
 - Mishra's Workshop
+- Mox Diamond
 - Mox Emerald
 - Mox Jet
+- Mox Opal
 - Mox Pearl
 - Mox Ruby
 - Mox Sapphire
+- Muzzio's Preparations
 - Mystical Tutor
-- Natural Order
+- Natural order
+- Natural Unity
+- Necrotic Ooze
+- Naughty / Nice
+- Nerf War
+- Nightmare Moon
 - Oath of Druids
-- Power Leak
+- Phoenix Heart
+- Polymorph
+- Power Play
+- Price of Progress
+- Princess Twilight Sparkle
 - Proposal
 - Protean Hulk
+- Rarity
+- Rebirth
 - Robot Chicken
+- Scapeshift
+- Season's Beatings
+- Secret Summoning
+- Secrets of Paradise
 - Sensei's Divining Top
-- Serra Ascendant
+- Sentinel Dispatch
 - Shahrazad
 - Shichifukujin Dragon
+- Snow Mercy
 - Sol Ring
+- Some Disassembly Required
 - Sovereign's Realm
 - Splendid Genesis
+- Stocking Tiger
 - Strip Mine
+- Summoner's Bond
+- Sword of Dungeons & Dragons
+- Tempest Efreet
+- Temporal Manipulation
+- Thassa's Oracle
 - The Tabernacle at Pendrell Vale
 - Thopter Pie Network
+- Timetwister
 - Time Vault
 - Time Walk
+- Time warp
+- Timmerian Fiends
 - Tinker
 - Tolarian Academy
+- Treasure Cruise
+- Unexpected Potential
 - Vampiric Tutor
-- Yawgmoth's Bargain
+- Wasteland
+- Weight Advantage
+- Worldknit
+- Yule Ooze
+
+has_commander: true
+
+has_sideboard: false
+
 inherits:
 - Commander / EDH
-sets:
-- Core Set 2020
-- 'Ravnica Allegiance: Guild Kits'
-- Ravnica Allegiance
-- 'Guilds of Ravnica: Guild Kit'
-- 'Guilds of Ravnica: Mythic Edition'
-- Dominaria
-- Ixalan
-- Amonkhet
-- Modern Masters 2017 Edition
-- Commander 2016
-- 'Conspiracy: Take the Crown'
-- Eldritch Moon
-- Eternal Masters
-- Shadows over Innistrad
-- Oath of the Gatewatch
-- Battle for Zendikar
-- Magic Origins
-- Modern Masters 2015 Edition
-- Fate Reforged
-- Khans of Tarkir
-- 'Duel Decks: Speed vs. Cunning'
-- 'From the Vault: Annihilation'
-- Magic 2015
-- Vintage Masters
-- Journey into Nyx
-- 'Duel Decks: Jace vs. Vraska'
-- Born of the Gods
-- Theros
-- 'Duel Decks: Heroes vs. Monsters'
-- 'From the Vault: Twenty'
-- Magic 2014
-- Modern Masters
-- 'Duel Decks: Sorin vs. Tibalt'
-- Dragon's Maze
-- Gatecrash
-- Return to Ravnica
-- 'Duel Decks: Izzet vs. Golgari '
-- 'From the Vault: Realms'
-- Magic 2013
-- Planechase 2012 Edition
-- 'Avacyn Restored '
-- 'Duel Decks: Venser vs. Koth'
-- Dark Ascension
-- 'Premium Deck Series: Graveborn'
-- Innistrad
-- 'Duel Decks: Ajani vs. Nicol Bolas'
-- 'From the Vault: Legends'
-- 2012 Core Set
-- New Phyrexia
-- 'Duel Decks: Knights vs. Dragons'
-- Mirrodin Besieged
-- 'Mirrodin Besieged: Mirran'
-- 'Mirrodin Besieged: Phyrexia'
-- 'Premium Deck Series: Fire and Lightning'
-- Scars of Mirrodin
-- 'Duel Decks: Elspeth vs. Tezzeret'
-- 'From the Vault: Relics'
-- 2011 Core Set
-- Archenemy
-- 'Duel Decks: Phyrexia vs. The Coalition'
-- Rise of the Eldrazi
-- Worldwake
-- 'Premium Deck Series: Slivers'
-- 'Duel Decks: Garruk vs. Liliana'
-- Zendikar
-- Planechase
-- 'From the Vault: Exiled'
-- 2010 Core Set
-- Alara Reborn
-- 'Duel Decks: Divine vs. Demonic'
-- Conflux
-- 'Duel Decks: Jace vs. Chandra'
-- Shards of Alara
-- Masters Edition II
-- 'From the Vault: Dragons'
-- Eventide
-- Shadowmoor
-- Morningtide
-- 'Duel Decks: Elves vs. Goblins'
-- Lorwyn
-- Masters Edition
-- Tenth Edition
-- Future Sight
-- Planar Chaos
-- Time Spiral
-- Time Spiral "Timeshifted"
-- Coldsnap
-- Dissension
-- Guildpact
-- 'Ravnica: City of Guilds'
-- Ninth Edition
-- Saviors of Kamigawa
-- Betrayers of Kamigawa
-- Champions of Kamigawa
-- Fifth Dawn
-- Darksteel
-- Mirrodin
-- Eighth Edition
-- Scourge
-- Legions
-- Onslaught
-- Judgment
-- Torment
-- Odyssey
-- Apocalypse
-- Seventh Edition
-- Planeshift
-- Vanguard
-- Invasion
-- Prophecy
-- Starter 2000
-- Nemesis
-- Battle Royale Box Set
-- Mercadian Masques
-- Starter 1999
-- Portal Three Kingdoms
-- Urza's Destiny
-- Classic Sixth Edition
-- Urza's Legacy
-- Urza's Saga
-- Portal Second Age
-- Exodus
-- Stronghold
-- Tempest
-- Weatherlight
-- Portal
-- Fifth Edition
-- Visions
-- Mirage
-- Alliances
-- Homelands
-- Chronicles
-- Ice Age
-- Fourth Edition
-- Fallen Empires
-- The Dark
-- Legends
-- Revised Edition
-- Antiquities
-- Arabian Nights
-- Unlimited Edition
-- Limited Edition Beta
-- Limited Edition Alpha
-- Promo Set
-- Promo set for Gatherer
+
+is_singleton: true
+
+maximum_deck_size: 100
+
+minimum_deck_size: 100

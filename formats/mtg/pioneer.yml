@@ -16,27 +16,11 @@ bans:
 - Veil of Summer
 - Windswept Heath
 - Wooded Foothills
+
 inherits:
 - Frontier
+
 sets:
-- Core Set 2020
-- War of the Spark
-- 'War of the Spark: Mythic Edition'
-- 'Ravnica Allegiance: Guild Kits'
-- 'Ravnica Allegiance: Mythic Edition'
-- Ravnica Allegiance
-- Guilds of Ravnica
-- Core Set 2019
-- Rivals of Ixalan
-- Ixalan
-- Hour of Devastation
-- Aether Revolt
-- Eldritch Moon
-- Oath of the Gatewatch
-- Zendikar Expeditions
-- Magic Origins
-- Fate Reforged
-- Magic 2015
 - Journey into Nyx
 - Born of the Gods
 - Theros

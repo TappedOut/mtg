@@ -1,14 +1,94 @@
 bans:
-- Estrid's Invocation
-- Fraternal Exaltation
-- Natural Unity
-- Proposal
-- Robot Chicken
-- Shichifukujin Dragon
-- Sovereign's Realm
-- Splendid Genesis
-- Thopter Pie Network
-inherits:
-- Modern
+- AEther Vial
+- Amulet of Quoz
+- Ancient Den
+- Arcbound Ravager
+- Darksteel Citadel
+- Disciple of the Vault
+- Gaea's Cradle
+- Great Furnace
+- Intangible Virtue
+- Lin Sivvi, Defiant Hero
+- Lingering Souls
+- Memory Jar
+- Rishadan Port
+- Seat of the Synod
+- Serra's Sanctum
+- Skullclamp
+- Squandererd Resources
+- Tree of Tales
+- Thawing Glaciers
+- Time Spiral
+- Tolarian Academy
+- Vault of Whispers
+- Voltaic Key
+- Windfall
+- Zuran Orb
+
 sets:
+- Hour of Devastation
+- Amonkhet
+- Aether Revolt
+- Kaladesh
+- Eldritch Moon
+- Shadows over Innistrad
 - Oath of the Gatewatch
+- Battle for Zendikar
+- Dragons of Tarkir
+- Fate Reforged
+- Khans of Tarkir
+- Journey Into Nyx
+- Born of the Gods
+- Theros
+- Avacyn Restored
+- Dark Ascension
+- Innistrad
+- New Phyrexia
+- Mirrodin Besieged
+- Scars of Mirrodin
+- Rise of the Eldrazi
+- Worldwake
+- Zendikar
+- Alara Reborn
+- Conflux
+- Shards of Alara
+- Eventide
+- Shadowmoor
+- Morningtide
+- Lorwyn
+- Future Sight
+- Planar Chaos
+- Time Spiral
+- Dissension
+- Guildpact
+- 'Ravnica: City of Guilds'
+- Saviors of Kamigawa
+- Betrayers of Kamigawa
+- Champions of Kamigawa
+- Fifth Dawn
+- Darksteel
+- Mirrodin
+- Scourge
+- Legions
+- Onslaught
+- Judgment
+- Torment
+- Odyssey
+- Apocalypse
+- Planeshift
+- Invasion
+- Prophecy
+- Nemesis
+- Mercadian Masques
+- Urza's Destiny
+- Urza's Legacy
+- Urza's Saga
+- Exodus
+- Stronghold
+- Tempest
+- Weatherlight
+- Visions
+- Mirage
+- Coldsnap
+- Alliances
+- Ice Age

@@ -1,14 +1,114 @@
 bans:
-- Crow Storm
-- Dr. Julius Jumblemorph
+- 1996 World Champion
+- Adriana's Valor
+- Advantageous Proclamation
+- Amulet of Quoz
+- Ancestral Recall
+- Assemble the Rank and Vile
+- Backup Plan
+- Balance
+- Biorhythm 
+- Black Lotus
+- Bog Humbugs
+- Brago's Favor
+- Bronze Tablet
+- Channel 
+- Chaos Orb
+- Coalition Victory 
+- Contract from Below
+- Darkpact
+- Decorated Knight
+- Demonic Attorney
+- Double Stroke
+- Echoing Boon
+- Emissary's Ploy
+- Emrakul, the Aeons Torn
+- Evil Presents
+- Falling Star
+- Fastbond
 - Fraternal Exaltation
+- Fruitcake Elemental
+- Gifts Given
+- Gifts Ungiven
+- Goblin Sleigh Ride
+- Grimlock, Dinobot Leader
+- Hired Heist
+- Hold the Perimeter
+- Hymn of the Wilds
+- Immediate Action
+- Incendiary Dissent
+- Iterative Analysis
+- Jeweled Bird
+- Karakas
+- Library of Alexandria
+- Limited Resources
+- Mana Vault
+- Metalworker
+- Mishra's Toy Workshop
+- Mox Emerald
+- Mox Jet
+- Mox Pearl
+- Mox Ruby
+- Mox Sapphire
+- Muzzio's Preparations
+- Natural Unity
+- Naughty / Nice
+- Nerf War
+- Nightmare Moon
+- Painter's Servant
+- Panoptic Mirror 
+- Phoenix Heart
+- Power Play
+- Princess Twilight Sparkle
 - Proposal
+- Protean Hulk
+- Rarity
+- Rebirth
+- Recurring Nightmare 
 - Robot Chicken
+- Season's Beatings
+- Secret Summoning
+- Secrets of Paradise
+- Sentinel Dispatch
+- Shahrazad
 - Shichifukujin Dragon
+- Snow Mercy
+- Sol Ring
+- Some Disassembly Required
+- Sovereign's Realm
 - Splendid Genesis
+- Staff of Domination
+- Stocking Tiger
+- Summoner's Bond
+- Sundering Titan 
+- Sway of the Stars 
+- Sword of Dungeons & Dragons
+- Tempest Efreet
+- the Aeons Torn
 - Thopter Pie Network
-sets:
-- Oath of the Gatewatch
-- Journey into Nyx
-- Born of the Gods
-- Theros
+- Time Vault
+- Time Walk
+- Timmerian Fiends
+- Tinker 
+- Tolarian Academy
+- Unexpected Potential
+- Upheaval 
+- Weight Advantage
+- Worldknit
+- Yawgmoth's Bargain
+- Yule Ooze
+
+has_commander: true
+
+has_sideboard: false
+
+inherits:
+- Commander / EDH
+
+maximum_deck_size: 61
+
+minimum_deck_size: 61
+
+#unique_deck_construction:
+#- Every nonbasic, noncommander, non-Relentless Rats style card must be a 2 of.
+#https://tappedout.net/mtg-decks/introducing-noble-the-format-1/
