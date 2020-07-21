@@ -1,7 +1,7 @@
 - name: Morningtide
   card_count: null
   release_date: 2008-02-01
-  block: 5
+  block: Lorwyn-Shadowmoor
   tla: MOR
   standard_expiry: 2009-10-02
   is_mtgo: false
@@ -9,7 +9,7 @@
 - name: Lorwyn
   card_count: null
   release_date: 2007-10-12
-  block: 5
+  block: Lorwyn-Shadowmoor
   tla: LRW
   standard_expiry: 2009-10-02
   is_mtgo: false
@@ -35,7 +35,7 @@
 - name: Future Sight
   card_count: null
   release_date: 2007-05-04
-  block: 6
+  block: Timespiral
   tla: FUT
   standard_expiry: 2008-10-03
   is_mtgo: false
@@ -43,7 +43,6 @@
 - name: Tenth Edition
   card_count: null
   release_date: 2007-07-13
-  block: 18
   tla: 10E
   core: true
   standard_expiry: 2009-10-02
@@ -54,7 +53,7 @@
 - name: Planar Chaos
   card_count: null
   release_date: 2007-02-02
-  block: 6
+  block: Timespiral
   tla: PLC
   standard_expiry: 2008-10-03
   is_mtgo: false
@@ -62,7 +61,7 @@
 - name: Time Spiral
   card_count: null
   release_date: 2006-10-06
-  block: 6
+  block: Timespiral
   tla: TSP
   standard_expiry: 2008-10-03
   is_mtgo: false
@@ -70,7 +69,7 @@
 - name: Time Spiral "Timeshifted"
   card_count: null
   release_date: 2006-10-06
-  block: 6
+  block: Timespiral
   tla: TSB
   can_draft: false
   standard_expiry: 2008-10-03
@@ -81,7 +80,7 @@
 - name: Coldsnap
   card_count: null
   release_date: 2006-07-21
-  block: 7
+  block: Ice Age
   tla: CSP
   standard_expiry: 2008-08-03
   is_mtgo: false
@@ -89,7 +88,7 @@
 - name: Dissension
   card_count: null
   release_date: 2006-05-05
-  block: 8
+  block: Ravnica
   tla: DIS
   standard_expiry: 2007-10-12
   is_mtgo: false
@@ -97,7 +96,7 @@
 - name: Guildpact
   card_count: null
   release_date: 2006-02-03
-  block: 8
+  block: Ravnica
   tla: GPT
   standard_expiry: 2007-10-12
   is_mtgo: false
@@ -105,7 +104,7 @@
 - name: 'Ravnica: City of Guilds'
   card_count: null
   release_date: 2005-10-07
-  block: 8
+  block: Ravnica
   tla: RAV
   standard_expiry: 2007-10-12
   is_mtgo: false
@@ -115,7 +114,7 @@
 - name: Saviors of Kamigawa
   card_count: null
   release_date: 2005-06-03
-  block: 9
+  block: Kamigawa
   tla: SOK
   standard_expiry: 2006-10-06
   is_mtgo: false
@@ -123,7 +122,7 @@
 - name: Betrayers of Kamigawa
   card_count: null
   release_date: 2005-02-04
-  block: 9
+  block: Kamigawa
   tla: BOK
   standard_expiry: 2006-10-06
   is_mtgo: false
@@ -131,7 +130,6 @@
 - name: Ninth Edition
   card_count: null
   release_date: 2005-07-29
-  block: 18
   tla: 9ED
   core: true
   standard_expiry: 2007-10-12
@@ -142,7 +140,7 @@
 - name: Champions of Kamigawa
   card_count: null
   release_date: 2004-10-01
-  block: 9
+  block: Kamigawa
   tla: CHK
   standard_expiry: 2006-10-06
   is_mtgo: false
@@ -157,7 +155,7 @@
 - name: Fifth Dawn
   card_count: null
   release_date: 2004-06-04
-  block: 10
+  block: Mirrodin
   tla: 5DN
   standard_expiry: 2005-10-07
   is_mtgo: false
@@ -165,7 +163,7 @@
 - name: Darksteel
   card_count: null
   release_date: 2004-02-06
-  block: 10
+  block: Mirrodin
   tla: DST
   standard_expiry: 2005-10-07
   is_mtgo: false
@@ -173,7 +171,7 @@
 - name: Mirrodin
   card_count: null
   release_date: 2003-10-02
-  block: 10
+  block: Mirrodin
   tla: MRD
   standard_expiry: 2005-10-07
   is_mtgo: false
@@ -181,7 +179,7 @@
 - name: Scourge
   card_count: null
   release_date: 2003-05-17
-  block: 11
+  block: Onslaught
   tla: SCG
   standard_expiry: 2004-10-20
   is_mtgo: false
@@ -198,7 +196,7 @@
 - name: Legions
   card_count: null
   release_date: 2003-02-03
-  block: 11
+  block: Onslaught
   tla: LGN
   standard_expiry: 2004-10-20
   is_mtgo: false
@@ -206,7 +204,7 @@
 - name: Onslaught
   card_count: null
   release_date: 2002-10-07
-  block: 11
+  block: Onslaught
   tla: ONS
   standard_expiry: 2004-10-20
   is_mtgo: false
@@ -214,7 +212,7 @@
 - name: Judgment
   card_count: null
   release_date: 2002-05-27
-  block: 12
+  block: Odyssey
   tla: JUD
   standard_expiry: 2003-10-02
   is_mtgo: false
@@ -222,7 +220,7 @@
 - name: Torment
   card_count: null
   release_date: 2002-02-08
-  block: 12
+  block: Odyssey
   tla: TOR
   standard_expiry: 2003-10-02
   is_mtgo: false
@@ -230,7 +228,7 @@
 - name: Odyssey
   card_count: null
   release_date: 2001-09-21
-  block: 12
+  block: Odyssey
   tla: ODY
   standard_expiry: 2003-10-02
   is_mtgo: false
@@ -238,7 +236,7 @@
 - name: Apocalypse
   card_count: null
   release_date: 2001-06-01
-  block: 13
+  block: Invasion
   tla: APC
   standard_expiry: 2002-10-07
   is_mtgo: false
@@ -246,7 +244,7 @@
 - name: Planeshift
   card_count: null
   release_date: 2001-02-01
-  block: 13
+  block: Invasion
   tla: PLS
   standard_expiry: 2002-10-07
   is_mtgo: false
@@ -254,7 +252,7 @@
 - name: Invasion
   card_count: null
   release_date: 2000-10-02
-  block: 13
+  block: Invasion
   tla: INV
   standard_expiry: 2002-10-07
   is_mtgo: false
@@ -271,7 +269,7 @@
 - name: Prophecy
   card_count: null
   release_date: 2000-06-05
-  block: 14
+  block: Masques
   tla: PCY
   standard_expiry: 2001-09-21
   is_mtgo: false
@@ -279,7 +277,7 @@
 - name: Nemesis
   card_count: null
   release_date: 2000-02-14
-  block: 14
+  block: Masques
   tla: NMS
   standard_expiry: 2001-09-21
   is_mtgo: false
@@ -287,7 +285,7 @@
 - name: Mercadian Masques
   card_count: null
   release_date: 1999-10-04
-  block: 14
+  block: Masques
   tla: MMQ
   standard_expiry: 2001-09-21
   is_mtgo: false
@@ -295,7 +293,7 @@
 - name: Urza's Destiny
   card_count: null
   release_date: 1999-06-23
-  block: 15
+  block: Urza
   tla: UDS
   standard_expiry: 2000-10-02
   is_mtgo: false
@@ -310,7 +308,7 @@
 - name: Urza's Legacy
   card_count: null
   release_date: 1999-02-01
-  block: 15
+  block: Urza
   tla: ULG
   standard_expiry: 2000-10-02
   is_mtgo: false
@@ -326,7 +324,7 @@
 - name: Urza's Saga
   card_count: null
   release_date: 1998-10-12
-  block: 15
+  block: Urza
   tla: USG
   standard_expiry: 2000-10-02
   is_mtgo: false
@@ -335,7 +333,7 @@
 - name: Exodus
   card_count: null
   release_date: 1998-06-15
-  block: 16
+  block: Tempest
   tla: EXO
   standard_expiry: 1999-10-04
   is_mtgo: false
@@ -343,7 +341,7 @@
 - name: Stronghold
   card_count: null
   release_date: 1998-02-01
-  block: 16
+  block: Tempest
   tla: STH
   standard_expiry: 1999-10-04
   is_mtgo: false
@@ -359,7 +357,7 @@
 - name: Tempest
   card_count: null
   release_date: 1997-10-13
-  block: 16
+  block: Tempest
   tla: TMP
   standard_expiry: 1999-10-04
   is_mtgo: false
@@ -373,7 +371,7 @@
 - name: Weatherlight
   card_count: null
   release_date: 1997-06-01
-  block: 17
+  block: Mirage
   tla: WTH
   standard_expiry: 1998-10-12
   is_mtgo: false
@@ -381,7 +379,7 @@
 - name: Visions
   card_count: null
   release_date: 1997-02-03
-  block: 17
+  block: Mirage
   tla: VIS
   standard_expiry: 1998-10-12
   is_mtgo: false
@@ -395,7 +393,7 @@
 - name: Mirage
   card_count: null
   release_date: 1996-10-01
-  block: 17
+  block: Mirage
   tla: MIR
   standard_expiry: 1998-10-12
   is_mtgo: false
@@ -411,7 +409,7 @@
 - name: Alliances
   card_count: null
   release_date: 1996-06-10
-  block: 7
+  block: Ice Age
   tla: ALL
   standard_expiry: 1997-10-13
   is_mtgo: false
@@ -426,7 +424,7 @@
 - name: Ice Age
   card_count: null
   release_date: 1995-06-01
-  block: 7
+  block: Ice Age
   tla: ICE
   standard_expiry: 1997-01-01
   is_mtgo: false
@@ -518,7 +516,7 @@
 - name: Shadowmoor
   card_count: null
   release_date: 2008-05-02
-  block: 5
+  block: Lorwyn-Shadowmoor
   tla: SHM
   standard_expiry: 2009-10-02
   is_mtgo: false
@@ -551,7 +549,7 @@
 - name: Eventide
   card_count: null
   release_date: 2008-07-25
-  block: 5
+  block: Lorwyn-Shadowmoor
   tla: EVE
   standard_expiry: 2009-10-02
   is_mtgo: false
@@ -559,7 +557,7 @@
 - name: 'From the Vault: Dragons'
   card_count: null
   release_date: 2008-07-29
-  block: 22
+  block: From the Vault
   tla: DRB
   can_draft: false
   standard_expiry: 2012-11-23
@@ -570,7 +568,7 @@
 - name: Worldwake
   card_count: null
   release_date: 2010-02-05
-  block: 3
+  block: Zendikar
   tla: WWK
   standard_expiry: 2011-09-30
   is_mtgo: false
@@ -578,7 +576,7 @@
 - name: Shards of Alara
   card_count: null
   release_date: 2008-10-03
-  block: 4
+  block: Shards of Alara
   tla: ALA
   standard_expiry: 2010-10-01
   is_mtgo: false
@@ -594,7 +592,7 @@
 - name: Conflux
   card_count: null
   release_date: 2009-02-06
-  block: 4
+  block: Shards of Alara
   tla: CON
   standard_expiry: 2010-10-01
   is_mtgo: false
@@ -602,7 +600,7 @@
 - name: Alara Reborn
   card_count: null
   release_date: 2009-04-30
-  block: 4
+  block: Shards of Alara
   tla: ARB
   standard_expiry: 2010-10-01
   is_mtgo: false
@@ -610,7 +608,6 @@
 - name: 2010 Core Set
   card_count: null
   release_date: 2009-07-17
-  block: 18
   tla: M10
   core: true
   standard_expiry: 2010-10-01
@@ -620,7 +617,7 @@
 - name: Zendikar
   card_count: null
   release_date: 2009-10-02
-  block: 3
+  block: Zendikar
   tla: ZEN
   standard_expiry: 2011-09-30
   is_mtgo: false
@@ -628,7 +625,7 @@
 - name: Rise of the Eldrazi
   card_count: null
   release_date: 2010-04-23
-  block: 3
+  block: Zendikar
   tla: ROE
   standard_expiry: 2011-09-30
   is_mtgo: false
@@ -636,7 +633,6 @@
 - name: 2011 Core Set
   card_count: null
   release_date: 2010-07-16
-  block: 18
   tla: M11
   core: true
   standard_expiry: 2011-09-30
@@ -646,7 +642,7 @@
 - name: Scars of Mirrodin
   card_count: null
   release_date: 2010-10-01
-  block: 2
+  block: Scars of Mirrodin
   tla: SOM
   standard_expiry: 2012-10-05
   is_mtgo: false
@@ -663,7 +659,7 @@
 - name: Mirrodin Besieged
   card_count: null
   release_date: 2011-02-04
-  block: 2
+  block: Scars of Mirrodin
   border_color: W
   tla: MBS
   standard_expiry: 2012-10-05
@@ -697,7 +693,7 @@
 - name: 'Mirrodin Besieged: Mirran'
   card_count: null
   release_date: 2011-02-03
-  block: 2
+  block: Scars of Mirrodin
   border_color: W
   tla: MBM
   standard_expiry: 2012-10-05
@@ -707,7 +703,7 @@
 - name: 'Mirrodin Besieged: Phyrexia'
   card_count: null
   release_date: 2011-02-03
-  block: 2
+  block: Scars of Mirrodin
   border_color: W
   tla: MBP
   standard_expiry: 2012-10-05
@@ -717,7 +713,7 @@
 - name: New Phyrexia
   card_count: null
   release_date: 2011-05-13
-  block: 2
+  block: Scars of Mirrodin
   tla: NPH
   standard_expiry: 2012-10-05
   is_mtgo: false
@@ -725,7 +721,6 @@
 - name: 2012 Core Set
   card_count: null
   release_date: 2011-07-15
-  block: 18
   tla: M12
   core: true
   standard_expiry: 2012-10-05
@@ -814,7 +809,7 @@
 - name: Innistrad
   card_count: null
   release_date: 2011-09-30
-  block: 1
+  block: Innistrad
   tla: ISD
   standard_expiry: 2013-09-27
   is_mtgo: false
@@ -823,7 +818,7 @@
 - name: Dark Ascension
   card_count: null
   release_date: 2012-02-03
-  block: 1
+  block: Innistrad
   tla: DKA
   standard_expiry: 2013-09-27
   is_mtgo: false
@@ -884,10 +879,10 @@
   applies_legality: false
   foil_only: true
 
-- name: 'Avacyn Restored '
+- name: Avacyn Restored
   card_count: null
   release_date: 2012-05-04
-  block: 1
+  block: Innistrad
   tla: AVR
   standard_expiry: 2013-09-27
   is_mtgo: false
@@ -895,7 +890,6 @@
 - name: Magic 2013
   card_count: null
   release_date: 2012-07-13
-  block: 18
   tla: M13
   standard_expiry: 2013-09-27
   is_mtgo: false
@@ -905,7 +899,7 @@
 - name: 'Duel Decks: Izzet vs. Golgari '
   card_count: null
   release_date: 2012-09-07
-  block: 19
+  block: Return to Ravnica
   tla: DDJ
   can_draft: false
   standard_expiry: 2014-09-26
@@ -915,7 +909,7 @@
 - name: Return to Ravnica
   card_count: null
   release_date: 2012-10-05
-  block: 19
+  block: Return to Ravnica
   tla: RTR
   standard_expiry: 2014-09-26
   is_mtgo: false
@@ -923,7 +917,7 @@
 - name: Modern Masters
   card_count: null
   release_date: 2013-06-07
-  block: 20
+  block: Modern Masters
   tla: MMA
   standard_expiry: 2012-10-22
   is_mtgo: false
@@ -931,7 +925,7 @@
 - name: Commander's Arsenal
   card_count: null
   release_date: 2012-11-02
-  block: 21
+  block: Commander's Arsenal
   tla: CMA
   wizards_tla: CM1
   can_draft: false
@@ -943,7 +937,7 @@
 - name: 'From the Vault: Realms'
   card_count: null
   release_date: 2012-08-31
-  block: 22
+  block: From the Vault
   tla: V12
   can_draft: false
   standard_expiry: 2012-11-23
@@ -954,7 +948,7 @@
 - name: Gatecrash
   card_count: null
   release_date: 2013-02-01
-  block: 19
+  block: Return to Ravnica
   tla: GTC
   standard_expiry: 2014-09-26
   is_mtgo: false
@@ -962,7 +956,7 @@
 - name: Dragon's Maze
   card_count: null
   release_date: 2013-05-03
-  block: 19
+  block: Return to Ravnica
   tla: DGM
   core: true
   standard_expiry: 2014-09-26
@@ -971,7 +965,6 @@
 - name: Magic 2014
   card_count: 249
   release_date: 2013-07-19
-  block: 18
   tla: M14
   core: true
   standard_expiry: 2014-09-26
@@ -982,7 +975,7 @@
 - name: Theros
   card_count: 249
   release_date: 2013-09-27
-  block: 23
+  block: Theros
   tla: THS
   standard_expiry: 2015-10-05
   is_mtgo: false
@@ -1008,7 +1001,7 @@
 - name: Born of the Gods
   card_count: 165
   release_date: 2014-02-07
-  block: 23
+  block: Theros
   tla: BNG
   standard_expiry: 2015-10-05
   is_mtgo: false
@@ -1040,7 +1033,7 @@
 - name: Journey into Nyx
   card_count: 165
   release_date: 2014-05-02
-  block: 23
+  block: Theros
   tla: JOU
   standard_expiry: 2015-10-05
   is_mtgo: false
@@ -1062,7 +1055,6 @@
 - name: Magic 2015
   card_count: 269
   release_date: 2014-07-18
-  block: 18
   tla: M15
   core: true
   standard_expiry: 2015-10-02
@@ -1073,7 +1065,7 @@
 - name: Khans of Tarkir
   card_count: 269
   release_date: 2014-09-26
-  block: 24
+  block: Khans of Tarkir
   tla: KTK
   standard_expiry: 2016-04-08
   is_mtgo: false
@@ -1116,7 +1108,7 @@
 - name: Fate Reforged
   card_count: 185
   release_date: 2015-01-23
-  block: 24
+  block: Khans of Tarkir
   tla: FRF
   standard_expiry: 2016-04-08
   is_mtgo: false
@@ -1209,7 +1201,7 @@
 - name: Dragons of Tarkir
   card_count: 264
   release_date: 2015-03-27
-  block: 24
+  block: Khans of Tarkir
   tla: DTK
   standard_expiry: 2016-12-01
   is_mtgo: false
@@ -1218,7 +1210,7 @@
   card_count: 269
   release_date: 2015-05-06
   skip_as_latest: true
-  block: 16
+  block: Tempest
   tla: TPR
   can_draft: false
   applies_legality: false
@@ -1273,7 +1265,7 @@
 - name: Battle for Zendikar
   card_count: 274
   release_date: 2015-10-02
-  block: 25
+  block: Battle for Zendikar
   tla: BFZ
   standard_expiry: 2017-09-28
   is_mtgo: false
@@ -1282,7 +1274,7 @@
   card_count: 80
   release_date: 2015-10-03
   skip_as_latest: true
-  block: 25
+  block: Battle for Zendikar
   tla: EXP
   can_draft: false
   standard_expiry: 2017-09-28
@@ -1301,7 +1293,7 @@
 - name: Oath of the Gatewatch
   card_count: 184
   release_date: 2016-01-22
-  block: 25
+  block: Battle for Zendikar
   tla: OGW
   standard_expiry: 2017-09-28
   is_mtgo: false
@@ -1309,7 +1301,7 @@
 - name: Shadows over Innistrad
   card_count: 297
   release_date: 2016-04-08
-  block: 26
+  block: Shadows over Innistrad
   tla: SOI
   standard_expiry: 2017-09-28
   is_mtgo: false
@@ -1349,7 +1341,7 @@
 - name: Eldritch Moon
   card_count: 205
   release_date: 2016-07-22
-  block: 26
+  block: Shadows over Innistrad
   tla: EMN
   standard_expiry: 2017-09-28
   is_mtgo: false
@@ -1359,7 +1351,7 @@
   card_count: null
   release_date: 2016-03-23
   skip_as_latest: true
-  block: 26
+  block: Shadows over Innistrad
   tla: W16
   can_draft: false
   standard_expiry: 2017-09-28
@@ -1368,7 +1360,7 @@
 - name: Kaladesh
   card_count: 264
   release_date: 2016-09-30
-  block: 27
+  block: Kaladesh
   tla: KLD
   standard_expiry: 2018-09-12
   is_mtgo: false
@@ -1376,7 +1368,7 @@
 - name: Aether Revolt
   card_count: 184
   release_date: 2017-01-20
-  block: 27
+  block: Kaladesh
   tla: AER
   standard_expiry: 2018-09-12
   is_mtgo: false
@@ -1409,7 +1401,7 @@
   card_count: null
   release_date: 2016-09-30
   skip_as_latest: true
-  block: 27
+  block: Kaladesh
   tla: MPS
   can_draft: false
   standard_expiry: 2018-09-12
@@ -1430,7 +1422,7 @@
 - name: Amonkhet
   card_count: 264
   release_date: 2017-04-28
-  block: 28
+  block: Amonkhet
   tla: AKH
   standard_expiry: 2018-10-05
   is_mtgo: false
@@ -1448,7 +1440,7 @@
 - name: Hour of Devastation
   card_count: 184
   release_date: 2017-07-14
-  block: 28
+  block: Amonkhet
   tla: HOU
   standard_expiry: 2018-10-05
   is_mtgo: false
@@ -1487,7 +1479,7 @@
 - name: Coldsnap Theme Deck
   card_count: null
   release_date: 2013-01-21
-  block: 7
+  block: Ice Age
   tla: CTD
   can_draft: false
   is_mtgo: false
@@ -1498,7 +1490,7 @@
   card_count: 54
   release_date: 2017-04-28
   skip_as_latest: true
-  block: 27
+  block: Kaladesh
   tla: AKHMPS
   can_draft: false
   standard_expiry: 2018-09-12
@@ -1526,7 +1518,7 @@
 - name: Ixalan
   card_count: 279
   release_date: 2017-09-29
-  block: 29
+  block: Ixalan
   tla: XLN
   standard_expiry: 2019-10-04
   is_mtgo: false
@@ -1534,7 +1526,7 @@
 - name: Iconic Masters
   card_count: 249
   release_date: 2017-11-17
-  block: 20
+  block: Modern Masters
   tla: IMA
   standard_expiry: 2012-10-22
   is_mtgo: false
@@ -1542,7 +1534,7 @@
 - name: Unstable
   card_count: 216
   release_date: 2017-12-08
-  block: 30
+  block: Unstable
   border_color: W
   tla: UN3
   wizards_tla: UST
@@ -1563,7 +1555,7 @@
   card_count: 15
   release_date: 2017-11-24
   skip_as_latest: true
-  block: 22
+  block: From the Vault
   tla: V17
   can_draft: false
   standard_expiry: 2012-11-23
@@ -1574,7 +1566,7 @@
 - name: Explorers of Ixalan
   card_count: 240
   release_date: 2017-12-15
-  block: 31
+  block: Explorers of Ixalan
   tla: EO2
   can_draft: false
   standard_expiry: 2017-12-15
@@ -1583,7 +1575,7 @@
 - name: Rivals of Ixalan
   card_count: 196
   release_date: 2018-01-19
-  block: 29
+  block: Ixalan
   tla: RIX
   standard_expiry: 2019-10-04
   is_mtgo: false
@@ -1591,7 +1583,7 @@
 - name: Dominaria
   card_count: 269
   release_date: 2018-04-22
-  block: 32
+  block: Dominaria
   tla: DOM
   wizards_tla: DOM
   third_tla: DAR
