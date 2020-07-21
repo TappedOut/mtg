@@ -8,7 +8,7 @@ import yaml
 log = logging.getLogger(__name__)
 
 
-class TestFormat(unittest.TestCase):
+class TestData(unittest.TestCase):
     def setUp(self):
         self._set_data = {}
         with open('./sets.yml', 'r') as fileobj:
@@ -25,6 +25,37 @@ class TestFormat(unittest.TestCase):
         for slug, item in self._format_data.items():
             for setitem in item.get('sets') or []:
                 self.assertTrue(slugify(setitem) in self._set_data, "%s under %s was not found in the set data" % (setitem, slug))
+
+    def test_set_keys(self):
+        def matches_date(string):
+            return datetime.strptime('%Y-%m-%d')
+                
+        object_types = {
+            'name': str,
+            'card_count': int,
+            'tla': str,
+            'wizards_tla': str,
+            'third_tla': str,
+            'block': str,
+            'standard_expiry': matches_date,
+            'release_date': matches_date,
+            'tcgplayer_skip': str,
+            'chaos_skip': str,
+            'ck_skip': str,
+            'tcgplayer_alt': str,
+            'chaos_alt': str,
+            'ck_alt': str,
+            'foil_only': bool,
+            'can_draft': bool,
+            'is_mtgo': bool,
+            'applies_legality': bool,
+
+        }
+
+        for slug, item in self._set_data.items():
+            for key in item.keys():
+                self.assertTrue(key in object_types, "%s has a bad key %s" % (slug, key))
+                self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s)" % (slug, key, object_types[key]))
 
     def test_format_keys(self):
         object_types = {
@@ -46,14 +77,14 @@ class TestFormat(unittest.TestCase):
                 self.assertTrue(key in object_types, "%s has a bad key %s" % (slug, key))
                 self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s)" % (slug, key, object_types[key]))
 
-    def test_inheritance(self):
+    def test_format_inheritance(self):
         for slug, data in self._format_data.items():
             self.assertTrue(data, "%s.yml contained no data" % slug)
             for item in data.get('inherits') or []:
                 self.assertTrue(slugify(item) in self._format_data, "%s found inheriting a bad format %s" % (slug, item))
         self.assertTrue(self._format_data)
 
-    def test_recursion(self):
+    def test_format_recursion(self):
         def recurse(slug, inherit_key, inherit_target, redundant_slugs=None, redundant_objects=None):
             redundant_slugs = redundant_slugs or []
             redundant_objects = redundant_objects or []

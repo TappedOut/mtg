@@ -1708,7 +1708,6 @@
   release_date: 2014-12-05
   skip_as_latest: true
   tla: DD3
-  wizards_tla: DD3
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1727,8 +1726,6 @@
   release_date: 2018-11-16
   skip_as_latest: true
   tla: GNT
-  wizards_tla: GNT
-  third_tla: GNT
   can_draft: false
   is_mtgo: false
 
@@ -1737,8 +1734,6 @@
   release_date: 2018-11-16
   skip_as_latest: true
   tla: G18
-  wizards_tla: G18
-  third_tla: G18
   can_draft: false
   is_mtgo: false
 
@@ -1746,8 +1741,6 @@
   card_count: 127
   release_date: 2018-11-02
   tla: GK1
-  wizards_tla: GK1
-  third_tla: GK1
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1756,8 +1749,6 @@
   card_count: 254
   release_date: 2018-12-07
   tla: UMA
-  wizards_tla: UMA
-  third_tla: UMA
   is_mtgo: false
   applies_legality: false
 
@@ -1766,8 +1757,6 @@
   release_date: 2018-12-06
   skip_as_latest: true
   tla: UMAP
-  wizards_tla: UMAP
-  third_tla: UMAP
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1778,8 +1767,6 @@
   release_date: 2019-01-26
   skip_as_latest: true
   tla: RNAMED
-  wizards_tla: RNAMED
-  third_tla: RNAMED
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1788,8 +1775,6 @@
   card_count: 133
   release_date: 2019-02-15
   tla: GK2
-  wizards_tla: GK2
-  third_tla: GK2
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1798,16 +1783,12 @@
   card_count: 254
   release_date: 2019-06-14
   tla: MH1
-  wizards_tla: MH1
-  third_tla: MH1
   is_mtgo: false
 
 - name: War of the Spark
   card_count: 264
   release_date: 2019-05-03
   tla: WAR
-  wizards_tla: WAR
-  third_tla: WAR
   is_mtgo: false
 
 - name: 'War of the Spark: Mythic Edition'
@@ -1815,8 +1796,6 @@
   release_date: 2019-05-02
   skip_as_latest: true
   tla: WARMED
-  wizards_tla: WARMED
-  third_tla: WARMED
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1845,8 +1824,6 @@
   card_count: 280
   release_date: 2019-07-12
   tla: M20
-  wizards_tla: M20
-  third_tla: M20
   core: true
   is_mtgo: false
 
@@ -1854,16 +1831,12 @@
   card_count: 269
   release_date: 2019-10-04
   tla: ELD
-  wizards_tla: ELD
-  third_tla: ELD
   is_mtgo: false
 
 - name: Commander 2019
   card_count: 300
   release_date: 2019-08-23
   tla: C19
-  wizards_tla: C19
-  third_tla: C19
   can_draft: false
   is_mtgo: false
 
@@ -1872,8 +1845,6 @@
   release_date: 2019-11-15
   skip_as_latest: true
   tla: GN2
-  wizards_tla: GN2
-  third_tla: GN2
   can_draft: false
   is_mtgo: false
 
@@ -1882,7 +1853,6 @@
   release_date: 2019-11-07
   skip_as_latest: true
   tla: MYSCON
-  wizards_tla: MYSCON
   third_tla: MYS1
   can_draft: false
   is_mtgo: false
@@ -1895,7 +1865,6 @@
   release_date: 2020-03-13
   skip_as_latest: true
   tla: MYSTOR
-  wizards_tla: MYSTOR
   third_tla: MYS1
   can_draft: false
   is_mtgo: false
@@ -1907,8 +1876,6 @@
   release_date: 2019-12-09
   skip_as_latest: true
   tla: SLD
-  wizards_tla: SLD
-  third_tla: SLD
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1928,8 +1895,6 @@
   skip_as_latest: true
   border_color: G
   tla: UND
-  wizards_tla: UND
-  third_tla: UND
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1939,8 +1904,6 @@
   release_date: 2020-05-29
   skip_as_latest: true
   tla: SLU
-  wizards_tla: SLU
-  third_tla: SLU
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1950,8 +1913,6 @@
   release_date: 2020-06-26
   skip_as_latest: true
   tla: SS3
-  wizards_tla: SS3
-  third_tla: SS3
   can_draft: false
   is_mtgo: false
   applies_legality: false
@@ -1960,8 +1921,6 @@
   card_count: 322
   release_date: 2020-05-15
   tla: C20
-  wizards_tla: C20
-  third_tla: C20
   can_draft: false
   is_mtgo: false
 
@@ -1969,8 +1928,6 @@
   card_count: 274
   release_date: 2020-04-15
   tla: IKO
-  wizards_tla: IKO
-  third_tla: IKO
   is_mtgo: false
 
 - name: Mystery Booster
@@ -1990,8 +1947,6 @@
   release_date: 2019-09-26
   skip_as_latest: true
   tla: ARENA
-  wizards_tla: ARENA
-  third_tla: ARENA
   can_draft: false
   is_mtgo: false
   applies_legality: false
