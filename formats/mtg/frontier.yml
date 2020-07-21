@@ -1,56 +1,23 @@
 bans:
-- Crow Storm
-- Delighted Killbot
-- Despondent Killbot
-- Dr. Julius Jumblemorph
-- Enraged Killbot
-- Everythingamajig B
-- Everythingamajig C
-- Everythingamajig D
-- Everythingamajig E
-- Everythingamajig F
-- Fraternal Exaltation
-- Garbage Elemental B
-- Garbage Elemental C
-- Garbage Elemental D
-- Garbage Elemental E
-- Garbage Elemental F
-- Ineffable Blessing B
-- Ineffable Blessing C
-- Ineffable Blessing D
-- Ineffable Blessing E
-- Knight of the Kitchen Sink B
-- Knight of the Kitchen Sink C
-- Knight of the Kitchen Sink D
-- Knight of the Kitchen Sink E
-- Mu Yanling
-- Proposal
+- Genesis
 - Robot Chicken
-- Shichifukujin Dragon
-- Sly Spy B
-- Sly Spy C
-- Sly Spy D
-- Sly Spy E
-- Sly Spy F
-- Splendid Genesis
-- Thopter Pie Network
-- Very Cryptic Command C
-- Very Cryptic Command D
-- Very Cryptic Command E
-- Very Cryptic Command F
+
+inherits:
+- Standard
+
 sets:
-- Theros Beyond Death
-- Throne of Eldraine
-- Core Set 2020
 - Dominaria
+- Core Set 2019
 - Rivals of Ixalan
 - Explorers of Ixalan
 - Ixalan
 - Amonkhet
+- Welcome Deck 2017
 - Aether Revolt
 - Kaladesh
 - Eldritch Moon
 - Shadows over Innistrad
+- Welcome Deck 2016
 - Oath of the Gatewatch
 - Battle for Zendikar
 - Magic Origins

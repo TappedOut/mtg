@@ -1,9 +1,142 @@
+banned_as_commander:
+- Derevi, Empyrial Tactician
+- Edric, Spymaster of Trest
+- Erayo, Soratami Ascendant
+- Oloro, Ageless Ascetic
+- Rofellos, Llanowar Emissary
+- Tasigur, the Golden Fang
+- Vial Smasher the Fierce
+- Zur the Enchanter
+
 bans:
-- Crow Storm
+- 1996 World Champion
+- Adriana's Valor
+- Advantageous Proclamation
+- Amulet of Quoz
+- Ancestral Recall
+- Ancient Tomb
+- Assemble the Rank and Vile
+- Back to Basics
+- Backup Plan
+- Balance
+- Black Lotus
+- Bog Humbugs
+- Brago's Favor
+- Bronze Tablet
+- Cataclysm
+- Channel
+- Chaos Orb
+- Chrome Mox
+- Contract from Below
+- Darkpact
+- Decorated Knight
+- Demonic Attorney
+- Dig Through Time
+- Double Stroke
+- Echoing Boon
+- Emissary's Ploy
+- Emrakul, the Aeons Torn
+- Emrakul, the Promised End
+- Entomb
+- Evil Presents
+- Falling Star
+- Fastbond
+- Food Chain
 - Fraternal Exaltation
+- Fruitcake Elemental
+- Gaea's Cradle
+- Gifts Given
+- Gifts Ungiven
+- Goblin Sleigh Ride
+- Grim Monolith
+- Grimlock, Dinobot Leader
+- Grindstone
+- Hermit Druid
+- High Tide
+- Hired Heist
+- Hold the Perimeter
+- Humility
+- Hymn of the Wilds
+- Immediate Action
+- Imperial Seal
+- Incendiary Dissent
+- Intuition
+- Iterative Analysis
+- Jeweled Bird
+- Karakas
+- Library of Alexandria
+- Loyal Retainers
+- Mana Crypt
+- Mana Drain
+- Mana Vault
+- Mind Twist
+- Mishra's Workshop
+- Mishra's Toy Workshop
+- Mox Diamond
+- Mox Emerald
+- Mox Jet
+- Mox Pearl
+- Mox Ruby
+- Mox Sapphire
+- Muzzio's Preparations
+- Mystical Tutor
+- Natural Order
+- Natural Unity
+- Naughty / Nice
+- Necropotence
+- Nerf War
+- Nightmare Moon
+- Oath of Druids
+- Phoenix Heart
+- Power Play
+- Princess Twilight Sparkle
 - Proposal
+- Protean Hulk
+- Rarity
+- Rebirth
 - Robot Chicken
+- Season's Beatings
+- Secret Summoning
+- Secrets of Paradise
+- Sensei's Divining Top
+- Sentinel Dispatch
+- Serra Ascendant
+- Shahrazad
 - Shichifukujin Dragon
+- Snow Mercy
+- Sol Ring
+- Some Disassembly Required
+- Sovereign's Realm
 - Splendid Genesis
+- Stocking Tiger
+- Strip Mine
+- Summoner's Bond
+- Sword of Dungeons & Dragons
+- Tempest Efreet
+- The Tabernacle at Pendrell Vale
 - Thopter Pie Network
+- Time Vault
+- Time Walk
+- Timmerian Fiends
+- Tinker
+- Tolarian Academy
+- Treasure Cruise
+- Unexpected Potential
+- Vampiric Tutor
+- Weight Advantage
+- Worldknit
+- Yawgmoth's Bargain
+- Yule Ooze
+
+has_commander: true
+
+has_sideboard: false
+
+inherits:
+- Legacy
+
 is_singleton: true
+
+maximum_deck_size: 100
+
+minimum_deck_size: 100

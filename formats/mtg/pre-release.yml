@@ -1,10 +1,4 @@
-bans:
-- Fraternal Exaltation
-- Natural Unity
-- Proposal
-- Robot Chicken
-- Shichifukujin Dragon
-- Splendid Genesis
-- Thopter Pie Network
 inherits:
 - Standard
+
+minimum_deck_size: 40

@@ -1,9 +1,1 @@
-bans:
-- Crow Storm
-- Fraternal Exaltation
-- Proposal
-- Robot Chicken
-- Shichifukujin Dragon
-- Sovereign's Realm
-- Splendid Genesis
-- Thopter Pie Network
+minimum_deck_size: 60

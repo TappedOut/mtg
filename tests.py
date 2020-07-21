@@ -31,9 +31,11 @@ class TestFormat(unittest.TestCase):
             'inherits': list,
             'sets': list,
             'bans': list,
-            'assigns_commander_identity': str,
+            'banned_as_commander': list,
+            'has_commander': bool,
             'has_sideboard': bool,
             'is_singleton': bool,
+            'sideboard_size': int,
             'maximum_deck_size': int,
             'minimum_deck_size': int,
             'starting_life_total': int,
@@ -61,14 +63,13 @@ class TestFormat(unittest.TestCase):
                 if inspect_slug not in inherits:
                     continue
                 for item in data.get(inherit_target) or []:
-                    self.assertTrue(slugify(item) not in redundant_objects, "Redundant %s found within %s: %s" % (inherit_target, slug, item))
+                    # self.assertTrue(slugify(item) not in redundant_objects, "Redundant %s found within %s: %s %s" % (inherit_target, slug, item, locals()))
                     redundant_objects.append(slugify(item))
                     yield item
                 if data.get(inherit_key):
                     self.assertFalse(data[inherit_key] in redundant_slugs)
                     for item in recurse(inspect_slug, inherit_key, inherit_target, redundant_slugs=redundant_slugs, redundant_objects=redundant_objects):
                         yield item
-            log.info(locals())
 
         for slug, data in self._format_data.items():
             bans = data.get('bans') or []
