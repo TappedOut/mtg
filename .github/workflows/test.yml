@@ -14,4 +14,4 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r test/requirements.txt
       - name: Test formats
-        run: python -m unittest test.test_formats
+        run: python -m unittest tests
