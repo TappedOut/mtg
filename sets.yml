@@ -1,5 +1,5 @@
 - name: Morningtide
-  card_count: null
+  card_count: 150
   release_date: 2008-02-01
   block: Lorwyn-Shadowmoor
   tla: MOR
@@ -7,24 +7,24 @@
   is_mtgo: false
 
 - name: Lorwyn
-  card_count: null
+  card_count: 301
   release_date: 2007-10-12
   block: Lorwyn-Shadowmoor
   tla: LRW
   standard_expiry: 2009-10-02
   is_mtgo: false
 
-- name: Magic Online Promo Cards
-  card_count: null
-  release_date: 1990-01-09
-  tla: MOP
-  wizards_tla: PRM
-  can_draft: false
-  applies_legality: false
-  tcgplayer_skip: true
-
+# - name: Magic Online Promo Cards
+#   card_count: null
+#   release_date: 1990-01-09
+#   tla: MOP
+#   wizards_tla: PRM
+#   can_draft: false
+#   applies_legality: false
+#   tcgplayer_skip: true
+# 
 - name: Masters Edition
-  card_count: null
+  card_count: 195
   release_date: 2007-09-10
   skip_as_latest: true
   tla: MED
@@ -33,7 +33,7 @@
   tcgplayer_skip: true
 
 - name: Future Sight
-  card_count: null
+  card_count: 180
   release_date: 2007-05-04
   block: Timespiral
   tla: FUT
@@ -41,7 +41,7 @@
   is_mtgo: false
 
 - name: Tenth Edition
-  card_count: null
+  card_count: 508
   release_date: 2007-07-13
   tla: 10E
   core: true
@@ -51,7 +51,7 @@
   tcgplayer_alt: 10th Edition
 
 - name: Planar Chaos
-  card_count: null
+  card_count: 168
   release_date: 2007-02-02
   block: Timespiral
   tla: PLC
@@ -59,7 +59,7 @@
   is_mtgo: false
 
 - name: Time Spiral
-  card_count: null
+  card_count: 301
   release_date: 2006-10-06
   block: Timespiral
   tla: TSP
@@ -67,7 +67,7 @@
   is_mtgo: false
 
 - name: Time Spiral "Timeshifted"
-  card_count: null
+  card_count: 122
   release_date: 2006-10-06
   block: Timespiral
   tla: TSB
@@ -78,7 +78,7 @@
   tcgplayer_alt: Timeshifted
 
 - name: Coldsnap
-  card_count: null
+  card_count: 155
   release_date: 2006-07-21
   block: Ice Age
   tla: CSP
@@ -86,7 +86,7 @@
   is_mtgo: false
 
 - name: Dissension
-  card_count: null
+  card_count: 190
   release_date: 2006-05-05
   block: Ravnica
   tla: DIS
@@ -94,7 +94,7 @@
   is_mtgo: false
 
 - name: Guildpact
-  card_count: null
+  card_count: 165
   release_date: 2006-02-03
   block: Ravnica
   tla: GPT
@@ -102,7 +102,7 @@
   is_mtgo: false
 
 - name: 'Ravnica: City of Guilds'
-  card_count: null
+  card_count: 306
   release_date: 2005-10-07
   block: Ravnica
   tla: RAV
@@ -112,7 +112,7 @@
   tcgplayer_alt: Ravnica
 
 - name: Saviors of Kamigawa
-  card_count: null
+  card_count: 170
   release_date: 2005-06-03
   block: Kamigawa
   tla: SOK
@@ -120,7 +120,7 @@
   is_mtgo: false
 
 - name: Betrayers of Kamigawa
-  card_count: null
+  card_count: 170
   release_date: 2005-02-04
   block: Kamigawa
   tla: BOK
@@ -128,7 +128,7 @@
   is_mtgo: false
 
 - name: Ninth Edition
-  card_count: null
+  card_count: 359
   release_date: 2005-07-29
   tla: 9ED
   core: true
@@ -138,7 +138,7 @@
   tcgplayer_alt: 9th Edition
 
 - name: Champions of Kamigawa
-  card_count: null
+  card_count: 317
   release_date: 2004-10-01
   block: Kamigawa
   tla: CHK
@@ -146,14 +146,14 @@
   is_mtgo: false
 
 - name: Unhinged
-  card_count: null
+  card_count: 173
   release_date: 2004-11-19
   tla: UNH
   is_mtgo: false
   applies_legality: false
 
 - name: Fifth Dawn
-  card_count: null
+  card_count: 165
   release_date: 2004-06-04
   block: Mirrodin
   tla: 5DN
