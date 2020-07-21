@@ -24,7 +24,7 @@ class TestFormat(unittest.TestCase):
     def test_sets(self):
         for slug, item in self._format_data.items():
             for setitem in item.get('sets') or []:
-                self.assertTrue(slugify(setitem) in self._set_data, "%s under %s was not found in the set data" % (setitem, item))
+                self.assertTrue(slugify(setitem) in self._set_data, "%s under %s was not found in the set data" % (setitem, slug))
 
     def test_format_keys(self):
         object_types = {
