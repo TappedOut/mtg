@@ -45,7 +45,7 @@ class TestData(unittest.TestCase):
             'can_draft': bool,
             'is_mtgo': bool,
             'applies_legality': bool,
-            'release_date': str,
+            'release_date': datetime.date,
             'standard_expiry': datetime.date,
 
         }
