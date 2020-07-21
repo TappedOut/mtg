@@ -1,0 +1,2027 @@
+- name: Morningtide
+  card_count: null
+  release_date: 2008-02-01
+  block: 5
+  tla: MOR
+  standard_expiry: 2009-10-02
+  is_mtgo: false
+
+- name: Lorwyn
+  card_count: null
+  release_date: 2007-10-12
+  block: 5
+  tla: LRW
+  standard_expiry: 2009-10-02
+  is_mtgo: false
+
+- name: Magic Online Promo Cards
+  card_count: null
+  release_date: 1990-01-09
+  tla: MOP
+  wizards_tla: PRM
+  can_draft: false
+  applies_legality: false
+  tcgplayer_skip: true
+
+- name: Masters Edition
+  card_count: null
+  release_date: 2007-09-10
+  skip_as_latest: true
+  tla: MED
+  can_draft: false
+  applies_legality: false
+  tcgplayer_skip: true
+
+- name: Future Sight
+  card_count: null
+  release_date: 2007-05-04
+  block: 6
+  tla: FUT
+  standard_expiry: 2008-10-03
+  is_mtgo: false
+
+- name: Tenth Edition
+  card_count: null
+  release_date: 2007-07-13
+  block: 18
+  tla: 10E
+  core: true
+  standard_expiry: 2009-10-02
+  is_mtgo: false
+  ck_alt: 10th Edition
+  tcgplayer_alt: 10th Edition
+
+- name: Planar Chaos
+  card_count: null
+  release_date: 2007-02-02
+  block: 6
+  tla: PLC
+  standard_expiry: 2008-10-03
+  is_mtgo: false
+
+- name: Time Spiral
+  card_count: null
+  release_date: 2006-10-06
+  block: 6
+  tla: TSP
+  standard_expiry: 2008-10-03
+  is_mtgo: false
+
+- name: Time Spiral "Timeshifted"
+  card_count: null
+  release_date: 2006-10-06
+  block: 6
+  tla: TSB
+  can_draft: false
+  standard_expiry: 2008-10-03
+  is_mtgo: false
+  ck_alt: Timeshifted
+  tcgplayer_alt: Timeshifted
+
+- name: Coldsnap
+  card_count: null
+  release_date: 2006-07-21
+  block: 7
+  tla: CSP
+  standard_expiry: 2008-08-03
+  is_mtgo: false
+
+- name: Dissension
+  card_count: null
+  release_date: 2006-05-05
+  block: 8
+  tla: DIS
+  standard_expiry: 2007-10-12
+  is_mtgo: false
+
+- name: Guildpact
+  card_count: null
+  release_date: 2006-02-03
+  block: 8
+  tla: GPT
+  standard_expiry: 2007-10-12
+  is_mtgo: false
+
+- name: 'Ravnica: City of Guilds'
+  card_count: null
+  release_date: 2005-10-07
+  block: 8
+  tla: RAV
+  standard_expiry: 2007-10-12
+  is_mtgo: false
+  ck_alt: Ravnica
+  tcgplayer_alt: Ravnica
+
+- name: Saviors of Kamigawa
+  card_count: null
+  release_date: 2005-06-03
+  block: 9
+  tla: SOK
+  standard_expiry: 2006-10-06
+  is_mtgo: false
+
+- name: Betrayers of Kamigawa
+  card_count: null
+  release_date: 2005-02-04
+  block: 9
+  tla: BOK
+  standard_expiry: 2006-10-06
+  is_mtgo: false
+
+- name: Ninth Edition
+  card_count: null
+  release_date: 2005-07-29
+  block: 18
+  tla: 9ED
+  core: true
+  standard_expiry: 2007-10-12
+  is_mtgo: false
+  ck_alt: 9th Edition
+  tcgplayer_alt: 9th Edition
+
+- name: Champions of Kamigawa
+  card_count: null
+  release_date: 2004-10-01
+  block: 9
+  tla: CHK
+  standard_expiry: 2006-10-06
+  is_mtgo: false
+
+- name: Unhinged
+  card_count: null
+  release_date: 2004-11-19
+  tla: UNH
+  is_mtgo: false
+  applies_legality: false
+
+- name: Fifth Dawn
+  card_count: null
+  release_date: 2004-06-04
+  block: 10
+  tla: 5DN
+  standard_expiry: 2005-10-07
+  is_mtgo: false
+
+- name: Darksteel
+  card_count: null
+  release_date: 2004-02-06
+  block: 10
+  tla: DST
+  standard_expiry: 2005-10-07
+  is_mtgo: false
+
+- name: Mirrodin
+  card_count: null
+  release_date: 2003-10-02
+  block: 10
+  tla: MRD
+  standard_expiry: 2005-10-07
+  is_mtgo: false
+
+- name: Scourge
+  card_count: null
+  release_date: 2003-05-17
+  block: 11
+  tla: SCG
+  standard_expiry: 2004-10-20
+  is_mtgo: false
+
+- name: Eighth Edition
+  card_count: null
+  release_date: 2003-07-28
+  tla: 8ED
+  standard_expiry: 2005-07-20
+  is_mtgo: false
+  ck_alt: 8th Edition
+  tcgplayer_alt: 8th Edition
+
+- name: Legions
+  card_count: null
+  release_date: 2003-02-03
+  block: 11
+  tla: LGN
+  standard_expiry: 2004-10-20
+  is_mtgo: false
+
+- name: Onslaught
+  card_count: null
+  release_date: 2002-10-07
+  block: 11
+  tla: ONS
+  standard_expiry: 2004-10-20
+  is_mtgo: false
+
+- name: Judgment
+  card_count: null
+  release_date: 2002-05-27
+  block: 12
+  tla: JUD
+  standard_expiry: 2003-10-02
+  is_mtgo: false
+
+- name: Torment
+  card_count: null
+  release_date: 2002-02-08
+  block: 12
+  tla: TOR
+  standard_expiry: 2003-10-02
+  is_mtgo: false
+
+- name: Odyssey
+  card_count: null
+  release_date: 2001-09-21
+  block: 12
+  tla: ODY
+  standard_expiry: 2003-10-02
+  is_mtgo: false
+
+- name: Apocalypse
+  card_count: null
+  release_date: 2001-06-01
+  block: 13
+  tla: APC
+  standard_expiry: 2002-10-07
+  is_mtgo: false
+
+- name: Planeshift
+  card_count: null
+  release_date: 2001-02-01
+  block: 13
+  tla: PLS
+  standard_expiry: 2002-10-07
+  is_mtgo: false
+
+- name: Invasion
+  card_count: null
+  release_date: 2000-10-02
+  block: 13
+  tla: INV
+  standard_expiry: 2002-10-07
+  is_mtgo: false
+
+- name: Seventh Edition
+  card_count: null
+  release_date: 2001-04-11
+  tla: 7ED
+  standard_expiry: 2003-07-28
+  is_mtgo: false
+  ck_alt: 7th Edition
+  tcgplayer_alt: 7th Edition
+
+- name: Prophecy
+  card_count: null
+  release_date: 2000-06-05
+  block: 14
+  tla: PCY
+  standard_expiry: 2001-09-21
+  is_mtgo: false
+
+- name: Nemesis
+  card_count: null
+  release_date: 2000-02-14
+  block: 14
+  tla: NMS
+  standard_expiry: 2001-09-21
+  is_mtgo: false
+
+- name: Mercadian Masques
+  card_count: null
+  release_date: 1999-10-04
+  block: 14
+  tla: MMQ
+  standard_expiry: 2001-09-21
+  is_mtgo: false
+
+- name: Urza's Destiny
+  card_count: null
+  release_date: 1999-06-23
+  block: 15
+  tla: UDS
+  standard_expiry: 2000-10-02
+  is_mtgo: false
+  chaos_alt: URZA&apos;S DESTINY
+
+- name: Starter 1999
+  card_count: null
+  release_date: 1999-08-27
+  tla: S99
+  is_mtgo: false
+
+- name: Urza's Legacy
+  card_count: null
+  release_date: 1999-02-01
+  block: 15
+  tla: ULG
+  standard_expiry: 2000-10-02
+  is_mtgo: false
+  chaos_alt: URZA&apos;S LEGACY
+
+- name: Battle Royale Box Set
+  card_count: null
+  release_date: 1999-11-12
+  tla: BRB
+  is_mtgo: false
+  ck_alt: Battle Royale
+
+- name: Urza's Saga
+  card_count: null
+  release_date: 1998-10-12
+  block: 15
+  tla: USG
+  standard_expiry: 2000-10-02
+  is_mtgo: false
+  chaos_alt: URZA&apos;S SAGA
+
+- name: Exodus
+  card_count: null
+  release_date: 1998-06-15
+  block: 16
+  tla: EXO
+  standard_expiry: 1999-10-04
+  is_mtgo: false
+
+- name: Stronghold
+  card_count: null
+  release_date: 1998-02-01
+  block: 16
+  tla: STH
+  standard_expiry: 1999-10-04
+  is_mtgo: false
+
+- name: Classic Sixth Edition
+  card_count: null
+  release_date: 1999-04-28
+  tla: 6ED
+  standard_expiry: 2001-04-11
+  is_mtgo: false
+  ck_alt: 6th Edition
+
+- name: Tempest
+  card_count: null
+  release_date: 1997-10-13
+  block: 16
+  tla: TMP
+  standard_expiry: 1999-10-04
+  is_mtgo: false
+
+- name: Starter 2000
+  card_count: null
+  release_date: 2000-04-24
+  tla: S00
+  is_mtgo: false
+
+- name: Weatherlight
+  card_count: null
+  release_date: 1997-06-01
+  block: 17
+  tla: WTH
+  standard_expiry: 1998-10-12
+  is_mtgo: false
+
+- name: Visions
+  card_count: null
+  release_date: 1997-02-03
+  block: 17
+  tla: VIS
+  standard_expiry: 1998-10-12
+  is_mtgo: false
+
+- name: Portal
+  card_count: null
+  release_date: 1997-05-01
+  tla: POR
+  is_mtgo: false
+
+- name: Mirage
+  card_count: null
+  release_date: 1996-10-01
+  block: 17
+  tla: MIR
+  standard_expiry: 1998-10-12
+  is_mtgo: false
+
+- name: Fifth Edition
+  card_count: null
+  release_date: 1997-03-24
+  tla: 5ED
+  standard_expiry: 1999-04-28
+  is_mtgo: false
+  ck_alt: 5th Edition
+
+- name: Alliances
+  card_count: null
+  release_date: 1996-06-10
+  block: 7
+  tla: ALL
+  standard_expiry: 1997-10-13
+  is_mtgo: false
+
+- name: Homelands
+  card_count: null
+  release_date: 1995-10-01
+  tla: HML
+  standard_expiry: 1997-02-03
+  is_mtgo: false
+
+- name: Ice Age
+  card_count: null
+  release_date: 1995-06-01
+  block: 7
+  tla: ICE
+  standard_expiry: 1997-01-01
+  is_mtgo: false
+
+- name: Fallen Empires
+  card_count: null
+  release_date: 1994-11-01
+  tla: FEM
+  standard_expiry: 1997-01-01
+  is_mtgo: false
+
+- name: Chronicles
+  card_count: null
+  release_date: 1995-06-01
+  tla: CHR
+  standard_expiry: 1997-03-24
+  is_mtgo: false
+
+- name: The Dark
+  card_count: null
+  release_date: 1994-08-01
+  tla: DRK
+  standard_expiry: 1995-06-01
+  is_mtgo: false
+
+- name: Fourth Edition
+  card_count: null
+  release_date: 1995-04-01
+  tla: 4ED
+  standard_expiry: 1997-03-24
+  is_mtgo: false
+  ck_alt: 4th Edition
+
+- name: Legends
+  card_count: null
+  release_date: 1994-06-01
+  tla: LEG
+  is_mtgo: false
+
+- name: Antiquities
+  card_count: null
+  release_date: 1994-03-01
+  tla: ATQ
+  is_mtgo: false
+
+- name: Revised Edition
+  card_count: null
+  release_date: 1994-04-01
+  tla: 3ED
+  standard_expiry: 1995-04-19
+  is_mtgo: false
+  ck_alt: 3rd Edition
+  tcgplayer_alt: Revised Edition
+
+- name: Arabian Nights
+  card_count: null
+  release_date: 1993-12-01
+  tla: ARN
+  is_mtgo: false
+
+- name: Portal Second Age
+  card_count: null
+  release_date: 1998-06-24
+  tla: P02
+  is_mtgo: false
+  ck_alt: Portal II
+
+- name: Portal Three Kingdoms
+  card_count: null
+  release_date: 1999-07-06
+  tla: PTK
+  is_mtgo: false
+  ck_alt: Portal 3k
+
+- name: Unglued
+  card_count: null
+  release_date: 1998-08-01
+  tla: UGL
+  is_mtgo: false
+  applies_legality: false
+
+- name: Unlimited Edition
+  card_count: null
+  release_date: 1993-12-01
+  tla: 2ED
+  is_mtgo: false
+  ck_alt: Unlimited
+
+- name: Shadowmoor
+  card_count: null
+  release_date: 2008-05-02
+  block: 5
+  tla: SHM
+  standard_expiry: 2009-10-02
+  is_mtgo: false
+
+- name: Limited Edition Beta
+  card_count: null
+  release_date: 1993-10-01
+  tla: LEB
+  is_mtgo: false
+  ck_alt: Beta
+  tcgplayer_alt: Beta Edition
+
+- name: Limited Edition Alpha
+  card_count: null
+  release_date: 1993-08-05
+  tla: LEA
+  is_mtgo: false
+  ck_alt: Alpha
+  tcgplayer_alt: Alpha Edition
+
+- name: Promo set for Gatherer
+  card_count: null
+  release_date: 1990-01-10
+  tla: PSG
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  tcgplayer_skip: true
+
+- name: Eventide
+  card_count: null
+  release_date: 2008-07-25
+  block: 5
+  tla: EVE
+  standard_expiry: 2009-10-02
+  is_mtgo: false
+
+- name: 'From the Vault: Dragons'
+  card_count: null
+  release_date: 2008-07-29
+  block: 22
+  tla: DRB
+  can_draft: false
+  standard_expiry: 2012-11-23
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: Worldwake
+  card_count: null
+  release_date: 2010-02-05
+  block: 3
+  tla: WWK
+  standard_expiry: 2011-09-30
+  is_mtgo: false
+
+- name: Shards of Alara
+  card_count: null
+  release_date: 2008-10-03
+  block: 4
+  tla: ALA
+  standard_expiry: 2010-10-01
+  is_mtgo: false
+
+- name: Masters Edition II
+  card_count: null
+  release_date: 2008-09-22
+  tla: ME2
+  can_draft: false
+  applies_legality: false
+  tcgplayer_skip: true
+
+- name: Conflux
+  card_count: null
+  release_date: 2009-02-06
+  block: 4
+  tla: CON
+  standard_expiry: 2010-10-01
+  is_mtgo: false
+
+- name: Alara Reborn
+  card_count: null
+  release_date: 2009-04-30
+  block: 4
+  tla: ARB
+  standard_expiry: 2010-10-01
+  is_mtgo: false
+
+- name: 2010 Core Set
+  card_count: null
+  release_date: 2009-07-17
+  block: 18
+  tla: M10
+  core: true
+  standard_expiry: 2010-10-01
+  is_mtgo: false
+  tcgplayer_alt: Magic 2010 (M10)
+
+- name: Zendikar
+  card_count: null
+  release_date: 2009-10-02
+  block: 3
+  tla: ZEN
+  standard_expiry: 2011-09-30
+  is_mtgo: false
+
+- name: Rise of the Eldrazi
+  card_count: null
+  release_date: 2010-04-23
+  block: 3
+  tla: ROE
+  standard_expiry: 2011-09-30
+  is_mtgo: false
+
+- name: 2011 Core Set
+  card_count: null
+  release_date: 2010-07-16
+  block: 18
+  tla: M11
+  core: true
+  standard_expiry: 2011-09-30
+  is_mtgo: false
+  tcgplayer_alt: Magic 2011 (M11)
+
+- name: Scars of Mirrodin
+  card_count: null
+  release_date: 2010-10-01
+  block: 2
+  tla: SOM
+  standard_expiry: 2012-10-05
+  is_mtgo: false
+
+- name: 'MTG: Commander'
+  card_count: null
+  release_date: 2011-06-17
+  tla: CMD
+  can_draft: false
+  is_mtgo: false
+  ck_alt: Commander
+  tcgplayer_alt: Commander
+
+- name: Mirrodin Besieged
+  card_count: null
+  release_date: 2011-02-04
+  block: 2
+  border_color: W
+  tla: MBS
+  standard_expiry: 2012-10-05
+  is_mtgo: false
+
+- name: Archenemy
+  card_count: null
+  release_date: 2010-06-18
+  border_color: W
+  tla: ARC
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Planechase
+  card_count: null
+  release_date: 2009-09-04
+  border_color: W
+  tla: HOP
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Vanguard
+  card_count: null
+  release_date: 2000-12-18
+  tla: VNG
+  can_draft: false
+  is_mtgo: false
+
+- name: 'Mirrodin Besieged: Mirran'
+  card_count: null
+  release_date: 2011-02-03
+  block: 2
+  border_color: W
+  tla: MBM
+  standard_expiry: 2012-10-05
+  is_mtgo: false
+  tcgplayer_alt: Mirrodin Besieged
+
+- name: 'Mirrodin Besieged: Phyrexia'
+  card_count: null
+  release_date: 2011-02-03
+  block: 2
+  border_color: W
+  tla: MBP
+  standard_expiry: 2012-10-05
+  is_mtgo: false
+  tcgplayer_alt: Mirrodin Besieged
+
+- name: New Phyrexia
+  card_count: null
+  release_date: 2011-05-13
+  block: 2
+  tla: NPH
+  standard_expiry: 2012-10-05
+  is_mtgo: false
+
+- name: 2012 Core Set
+  card_count: null
+  release_date: 2011-07-15
+  block: 18
+  tla: M12
+  core: true
+  standard_expiry: 2012-10-05
+  is_mtgo: false
+  tcgplayer_alt: Magic 2012 (M12)
+
+- name: 'Duel Decks: Garruk vs. Liliana'
+  card_count: null
+  release_date: 2009-10-20
+  border_color: G
+  tla: DDD
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Duel Decks: Elves vs. Goblins'
+  card_count: null
+  release_date: 2007-11-16
+  tla: EVG
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Duel Decks: Jace vs. Chandra'
+  card_count: null
+  release_date: 2008-11-07
+  tla: DD2
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  chaos_alt: 'ANTHOLOGY : JACE VS. CHANDRA'
+
+- name: 'Duel Decks: Divine vs. Demonic'
+  card_count: null
+  release_date: 2009-04-10
+  tla: DDC
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Duel Decks: Knights vs. Dragons'
+  card_count: null
+  release_date: 2011-04-01
+  tla: DDG
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Duel Decks: Phyrexia vs. The Coalition'
+  card_count: null
+  release_date: 2010-05-19
+  tla: DDE
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Duel Decks: Elspeth vs. Tezzeret'
+  card_count: null
+  release_date: 2010-09-03
+  tla: DDF
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Premium Deck Series: Fire and Lightning'
+  card_count: null
+  release_date: 2010-11-19
+  tla: PFL
+  wizards_tla: PD2
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: 'Premium Deck Series: Fire & Lightning'
+  foil_only: true
+
+- name: 'Premium Deck Series: Slivers'
+  card_count: null
+  release_date: 2009-11-20
+  tla: PDS
+  wizards_tla: PD1
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: Innistrad
+  card_count: null
+  release_date: 2011-09-30
+  block: 1
+  tla: ISD
+  standard_expiry: 2013-09-27
+  is_mtgo: false
+  dfc_rules: true
+
+- name: Dark Ascension
+  card_count: null
+  release_date: 2012-02-03
+  block: 1
+  tla: DKA
+  standard_expiry: 2013-09-27
+  is_mtgo: false
+  dfc_rules: true
+
+- name: 'From the Vault: Legends'
+  card_count: null
+  release_date: 2011-08-26
+  tla: V11
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: Planechase 2012 Edition
+  card_count: null
+  release_date: 2012-06-01
+  tla: PC2
+  can_draft: false
+  is_mtgo: false
+  ck_alt: Planechase 2012
+  tcgplayer_alt: Planechase 2012
+
+- name: 'Duel Decks: Ajani vs. Nicol Bolas'
+  card_count: null
+  release_date: 2011-09-02
+  tla: DDH
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Premium Deck Series: Graveborn'
+  card_count: null
+  release_date: 2011-11-18
+  border_color: W
+  tla: GRV
+  wizards_tla: PD3
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: 'From the Vault: Exiled'
+  card_count: null
+  release_date: 2009-08-28
+  tla: V09
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: 'From the Vault: Relics'
+  card_count: null
+  release_date: 2010-08-27
+  tla: V10
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: 'Avacyn Restored '
+  card_count: null
+  release_date: 2012-05-04
+  block: 1
+  tla: AVR
+  standard_expiry: 2013-09-27
+  is_mtgo: false
+
+- name: Magic 2013
+  card_count: null
+  release_date: 2012-07-13
+  block: 18
+  tla: M13
+  standard_expiry: 2013-09-27
+  is_mtgo: false
+  ck_alt: 2013 Core Set
+  tcgplayer_alt: Magic 2013 (M13)
+
+- name: 'Duel Decks: Izzet vs. Golgari '
+  card_count: null
+  release_date: 2012-09-07
+  block: 19
+  tla: DDJ
+  can_draft: false
+  standard_expiry: 2014-09-26
+  is_mtgo: false
+  applies_legality: false
+
+- name: Return to Ravnica
+  card_count: null
+  release_date: 2012-10-05
+  block: 19
+  tla: RTR
+  standard_expiry: 2014-09-26
+  is_mtgo: false
+
+- name: Modern Masters
+  card_count: null
+  release_date: 2013-06-07
+  block: 20
+  tla: MMA
+  standard_expiry: 2012-10-22
+  is_mtgo: false
+
+- name: Commander's Arsenal
+  card_count: null
+  release_date: 2012-11-02
+  block: 21
+  tla: CMA
+  wizards_tla: CM1
+  can_draft: false
+  standard_expiry: 2012-10-23
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: 'From the Vault: Realms'
+  card_count: null
+  release_date: 2012-08-31
+  block: 22
+  tla: V12
+  can_draft: false
+  standard_expiry: 2012-11-23
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: Gatecrash
+  card_count: null
+  release_date: 2013-02-01
+  block: 19
+  tla: GTC
+  standard_expiry: 2014-09-26
+  is_mtgo: false
+
+- name: Dragon's Maze
+  card_count: null
+  release_date: 2013-05-03
+  block: 19
+  tla: DGM
+  core: true
+  standard_expiry: 2014-09-26
+  is_mtgo: false
+
+- name: Magic 2014
+  card_count: 249
+  release_date: 2013-07-19
+  block: 18
+  tla: M14
+  core: true
+  standard_expiry: 2014-09-26
+  is_mtgo: false
+  ck_alt: 2014 Core Set
+  tcgplayer_alt: Magic 2014 (M14)
+
+- name: Theros
+  card_count: 249
+  release_date: 2013-09-27
+  block: 23
+  tla: THS
+  standard_expiry: 2015-10-05
+  is_mtgo: false
+
+- name: Commander 2013
+  card_count: null
+  release_date: 2013-11-01
+  tla: C13
+  can_draft: false
+  is_mtgo: false
+  chaos_alt: COMMANDER 2013 EDITION
+
+- name: 'From the Vault: Twenty'
+  card_count: null
+  release_date: 2013-08-10
+  skip_as_latest: true
+  tla: V13
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: Born of the Gods
+  card_count: 165
+  release_date: 2014-02-07
+  block: 23
+  tla: BNG
+  standard_expiry: 2015-10-05
+  is_mtgo: false
+
+- name: 'Duel Decks: Heroes vs. Monsters'
+  card_count: null
+  release_date: 2013-09-06
+  tla: DDL
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Duel Decks: Sorin vs. Tibalt'
+  card_count: null
+  release_date: 2013-05-15
+  tla: DDK
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Duel Decks: Venser vs. Koth'
+  card_count: null
+  release_date: 2012-03-30
+  tla: DDI
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Journey into Nyx
+  card_count: 165
+  release_date: 2014-05-02
+  block: 23
+  tla: JOU
+  standard_expiry: 2015-10-05
+  is_mtgo: false
+
+- name: Vintage Masters
+  card_count: null
+  release_date: 2014-06-16
+  skip_as_latest: true
+  tla: VMA
+  can_draft: false
+  tcgplayer_skip: true
+
+- name: Conspiracy
+  card_count: 210
+  release_date: 2014-06-06
+  tla: CNS
+  is_mtgo: false
+
+- name: Magic 2015
+  card_count: 269
+  release_date: 2014-07-18
+  block: 18
+  tla: M15
+  core: true
+  standard_expiry: 2015-10-02
+  is_mtgo: false
+  ck_alt: 2015 Core Set
+  tcgplayer_alt: Magic 2015 (M15)
+
+- name: Khans of Tarkir
+  card_count: 269
+  release_date: 2014-09-26
+  block: 24
+  tla: KTK
+  standard_expiry: 2016-04-08
+  is_mtgo: false
+
+- name: Commander 2014
+  card_count: null
+  release_date: 2014-11-21
+  tla: C14
+  can_draft: false
+  is_mtgo: false
+
+- name: 'Duel Decks: Speed vs. Cunning'
+  card_count: null
+  release_date: 2014-09-05
+  tla: DDN
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: 'Duel Decks: Speed Vs. Cunning'
+
+- name: 'From the Vault: Annihilation'
+  card_count: null
+  release_date: 2014-08-22
+  skip_as_latest: true
+  tla: V14
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: Modern Event Deck
+  card_count: null
+  release_date: 2014-05-30
+  tla: MD1
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  tcgplayer_alt: Magic Modern Event Deck
+
+- name: Fate Reforged
+  card_count: 185
+  release_date: 2015-01-23
+  block: 24
+  tla: FRF
+  standard_expiry: 2016-04-08
+  is_mtgo: false
+
+- name: 'Duel Decks: Jace vs. Vraska'
+  card_count: null
+  release_date: 2014-03-14
+  tla: DDM
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: 'Duel Decks: Jace Vs. Vraska'
+  chaos_alt: 'DUEL DECKS: JACE VS VRASKA'
+
+- name: Anthologies
+  card_count: null
+  release_date: 1998-11-01
+  tla: ATH
+  can_draft: false
+  is_mtgo: false
+
+- name: Beatdown Box Set
+  card_count: null
+  release_date: 2000-12-01
+  tla: BTD
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: Beatdown
+
+- name: 'Deckmasters: Garfield vs. Finkel'
+  card_count: null
+  release_date: 2001-12-01
+  tla: DKM
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  tcgplayer_alt: Deckmasters Garfield vs Finkel
+
+- name: Duels of the Planeswalkers
+  card_count: null
+  release_date: 2010-06-04
+  tla: DPA
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Collector's Edition
+  card_count: null
+  release_date: 1993-12-01
+  tla: CED
+  can_draft: false
+  is_mtgo: false
+  ck_alt: Collectors Ed
+
+- name: International Collector's Edition
+  card_count: null
+  release_date: 1993-12-01
+  tla: CEI
+  can_draft: false
+  is_mtgo: false
+  ck_alt: Collectors Ed Intl
+  tcgplayer_alt: International Edition
+
+- name: Masters Edition III
+  card_count: null
+  release_date: 2009-09-07
+  tla: ME3
+  can_draft: false
+  applies_legality: false
+  tcgplayer_skip: true
+
+- name: Masters Edition IV
+  card_count: null
+  release_date: 2011-01-10
+  tla: ME4
+  can_draft: false
+  applies_legality: false
+  tcgplayer_skip: true
+
+- name: 'Duel Decks: Elspeth vs. Kiora'
+  card_count: null
+  release_date: 2015-02-27
+  tla: DDO
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: 'Duel Decks: Elspeth Vs. Kiora'
+
+- name: Dragons of Tarkir
+  card_count: 264
+  release_date: 2015-03-27
+  block: 24
+  tla: DTK
+  standard_expiry: 2016-12-01
+  is_mtgo: false
+
+- name: Tempest Remastered
+  card_count: 269
+  release_date: 2015-05-06
+  skip_as_latest: true
+  block: 16
+  tla: TPR
+  can_draft: false
+  applies_legality: false
+  tcgplayer_skip: true
+
+- name: Modern Masters 2015 Edition
+  card_count: 249
+  release_date: 2015-05-22
+  tla: MM2
+  is_mtgo: false
+  ck_alt: Modern Masters 2015
+  tcgplayer_alt: Modern Masters 2015
+  chaos_alt: MODERN MASTERS 2015
+
+- name: Guru Lands
+  card_count: null
+  release_date: 2001-06-07
+  border_color: W
+  tla: GUR
+  can_draft: false
+  is_mtgo: false
+
+- name: Magic Origins
+  card_count: 272
+  release_date: 2015-06-17
+  tla: ORI
+  core: true
+  standard_expiry: 2016-12-01
+  is_mtgo: false
+
+- name: 'From the Vault: Angels'
+  card_count: 15
+  release_date: 2015-08-21
+  skip_as_latest: true
+  tla: V15
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: 'Duel Decks: Zendikar vs. Eldrazi'
+  card_count: 120
+  release_date: 2015-08-28
+  skip_as_latest: true
+  tla: DDP
+  wizards_tla: DZE
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: 'Duel Decks: Zendikar Vs. Eldrazi'
+
+- name: Battle for Zendikar
+  card_count: 274
+  release_date: 2015-10-02
+  block: 25
+  tla: BFZ
+  standard_expiry: 2017-09-28
+  is_mtgo: false
+
+- name: Zendikar Expeditions
+  card_count: 80
+  release_date: 2015-10-03
+  skip_as_latest: true
+  block: 25
+  tla: EXP
+  can_draft: false
+  standard_expiry: 2017-09-28
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: 'Masterpiece Series: Expeditions'
+  foil_only: true
+
+- name: Commander 2015
+  card_count: 342
+  release_date: 2015-11-13
+  tla: C15
+  can_draft: false
+  is_mtgo: false
+
+- name: Oath of the Gatewatch
+  card_count: 184
+  release_date: 2016-01-22
+  block: 25
+  tla: OGW
+  standard_expiry: 2017-09-28
+  is_mtgo: false
+
+- name: Shadows over Innistrad
+  card_count: 297
+  release_date: 2016-04-08
+  block: 26
+  tla: SOI
+  standard_expiry: 2017-09-28
+  is_mtgo: false
+  dfc_rules: true
+
+- name: 'Duel Decks: Blessed vs. Cursed'
+  card_count: 120
+  release_date: 2016-02-26
+  tla: DDQ
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: 'Duel Decks: Blessed Vs. Cursed'
+
+- name: 'Conspiracy: Take the Crown'
+  card_count: 221
+  release_date: 2016-08-26
+  tla: CN2
+  is_mtgo: false
+  ck_alt: Conspiracy - Take the Crown
+
+- name: Eternal Masters
+  card_count: 249
+  release_date: 2016-06-10
+  tla: EMA
+  is_mtgo: false
+
+- name: 'From the Vault: Lore'
+  card_count: 15
+  release_date: 2016-08-19
+  tla: V16
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: Eldritch Moon
+  card_count: 205
+  release_date: 2016-07-22
+  block: 26
+  tla: EMN
+  standard_expiry: 2017-09-28
+  is_mtgo: false
+  dfc_rules: true
+
+- name: Welcome Deck 2016
+  card_count: null
+  release_date: 2016-03-23
+  skip_as_latest: true
+  block: 26
+  tla: W16
+  can_draft: false
+  standard_expiry: 2017-09-28
+  is_mtgo: false
+
+- name: Kaladesh
+  card_count: 264
+  release_date: 2016-09-30
+  block: 27
+  tla: KLD
+  standard_expiry: 2018-09-12
+  is_mtgo: false
+
+- name: Aether Revolt
+  card_count: 184
+  release_date: 2017-01-20
+  block: 27
+  tla: AER
+  standard_expiry: 2018-09-12
+  is_mtgo: false
+
+- name: Commander 2016
+  card_count: 351
+  release_date: 2016-11-11
+  tla: C16
+  can_draft: false
+  is_mtgo: false
+  tcgplayer_alt: Commander 2016
+
+- name: Planechase Anthology
+  card_count: null
+  release_date: 2016-11-25
+  skip_as_latest: true
+  tla: PCA
+  can_draft: false
+  is_mtgo: false
+
+- name: 'Duel Decks: Nissa vs. Ob Nixilis'
+  card_count: 76
+  release_date: 2016-09-02
+  tla: DDR
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Masterpiece Series: Kaladesh Inventions'
+  card_count: null
+  release_date: 2016-09-30
+  skip_as_latest: true
+  block: 27
+  tla: MPS
+  can_draft: false
+  standard_expiry: 2018-09-12
+  is_mtgo: false
+  ck_alt: 'Masterpiece Series: Inventions'
+  chaos_alt: KALADESH INVENTIONS
+  foil_only: true
+
+- name: FNM Promos
+  card_count: null
+  release_date: 1990-11-05
+  skip_as_latest: true
+  tla: FNM
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Amonkhet
+  card_count: 264
+  release_date: 2017-04-28
+  block: 28
+  tla: AKH
+  standard_expiry: 2018-10-05
+  is_mtgo: false
+
+- name: 'Archenemy: Nicol Bolas'
+  card_count: null
+  release_date: 2017-06-16
+  tla: E01
+  wizards_tla: AC2
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: Archenemy - Nicol Bolas
+
+- name: Hour of Devastation
+  card_count: 184
+  release_date: 2017-07-14
+  block: 28
+  tla: HOU
+  standard_expiry: 2018-10-05
+  is_mtgo: false
+
+- name: Commander Anthology
+  card_count: null
+  release_date: 2017-06-09
+  skip_as_latest: true
+  tla: CM1
+  wizards_tla: CMT
+  third_tla: CMA
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Modern Masters 2017 Edition
+  card_count: 249
+  release_date: 2017-03-17
+  tla: MM3
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: Modern Masters 2017
+  tcgplayer_alt: Modern Masters 2017
+  chaos_alt: MODERN MASTERS 2017
+
+- name: 'Duel Decks: Mind vs. Might'
+  card_count: null
+  release_date: 2017-03-31
+  tla: DDS
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: 'Duel Decks: Mind Vs. Might'
+  chaos_alt: 'DUEL DECKS: MIND VS. MIGHT'
+
+- name: Coldsnap Theme Deck
+  card_count: null
+  release_date: 2013-01-21
+  block: 7
+  tla: CTD
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  tcgplayer_alt: Coldsnap Theme Deck Reprints
+
+- name: 'Masterpiece Series: Amonkhet Invocations'
+  card_count: 54
+  release_date: 2017-04-28
+  skip_as_latest: true
+  block: 27
+  tla: AKHMPS
+  can_draft: false
+  standard_expiry: 2018-09-12
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: 'Masterpiece Series: Invocations'
+  chaos_alt: AMONKHET INVOCATIONS
+  foil_only: true
+
+- name: Welcome Deck 2017
+  card_count: null
+  release_date: 2017-04-15
+  skip_as_latest: true
+  tla: W17
+  can_draft: false
+  is_mtgo: false
+
+- name: Commander 2017
+  card_count: null
+  release_date: 2017-08-25
+  tla: C17
+  can_draft: false
+  is_mtgo: false
+
+- name: Ixalan
+  card_count: 279
+  release_date: 2017-09-29
+  block: 29
+  tla: XLN
+  standard_expiry: 2019-10-04
+  is_mtgo: false
+
+- name: Iconic Masters
+  card_count: 249
+  release_date: 2017-11-17
+  block: 20
+  tla: IMA
+  standard_expiry: 2012-10-22
+  is_mtgo: false
+
+- name: Unstable
+  card_count: 216
+  release_date: 2017-12-08
+  block: 30
+  border_color: W
+  tla: UN3
+  wizards_tla: UST
+  third_tla: UST
+  standard_expiry: 2017-11-25
+  is_mtgo: false
+
+- name: 'Duel Decks: Merfolk vs. Goblins'
+  card_count: 120
+  release_date: 2017-11-10
+  tla: DDT
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  chaos_alt: 'DUEL DECKS: MERFOLK VS. GOBLINS'
+
+- name: 'From the Vault: Transform'
+  card_count: 15
+  release_date: 2017-11-24
+  skip_as_latest: true
+  block: 22
+  tla: V17
+  can_draft: false
+  standard_expiry: 2012-11-23
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: Explorers of Ixalan
+  card_count: 240
+  release_date: 2017-12-15
+  block: 31
+  tla: EO2
+  can_draft: false
+  standard_expiry: 2017-12-15
+  is_mtgo: false
+
+- name: Rivals of Ixalan
+  card_count: 196
+  release_date: 2018-01-19
+  block: 29
+  tla: RIX
+  standard_expiry: 2019-10-04
+  is_mtgo: false
+
+- name: Dominaria
+  card_count: 269
+  release_date: 2018-04-22
+  block: 32
+  tla: DOM
+  wizards_tla: DOM
+  third_tla: DAR
+  standard_expiry: 2019-10-04
+  is_mtgo: false
+
+- name: Masters 25
+  card_count: 249
+  release_date: 2018-03-16
+  tla: A25
+  third_tla: M25
+  is_mtgo: false
+
+- name: 'Duel Decks: Elves vs. Inventors'
+  card_count: 67
+  release_date: 2018-04-06
+  tla: DDU
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Commander Anthology 2018
+  card_count: 312
+  release_date: 2018-06-08
+  skip_as_latest: true
+  tla: CM2
+  can_draft: false
+  is_mtgo: false
+  tcgplayer_alt: Commander Anthology Volume II
+  chaos_alt: COMMANDER ANTHOLOGY 2018
+
+- name: SDCC Promo 2017
+  card_count: 6
+  release_date: 1990-07-20
+  tla: S17
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: 4th Edition Foreign Black Border
+  card_count: null
+  release_date: 1995-04-01
+  tla: 4EDFBB
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_skip: true
+  tcgplayer_alt: Fourth Edition (Foreign Black Border)
+
+- name: Revised Foreign Black Border
+  card_count: null
+  release_date: 1994-04-01
+  tla: 3EDFBB
+  can_draft: false
+  is_mtgo: false
+  ck_skip: true
+  tcgplayer_alt: Revised Edition (Foreign Black Border)
+
+- name: Battlebond
+  card_count: 254
+  release_date: 2018-06-08
+  tla: BBD
+  can_draft: false
+  is_mtgo: false
+
+- name: Guilds of Ravnica
+  card_count: 259
+  release_date: 2018-10-05
+  tla: GRN
+  is_mtgo: false
+
+- name: Ravnica Allegiance
+  card_count: 264
+  release_date: 2019-01-25
+  tla: RNA
+  is_mtgo: false
+
+- name: 'Signature Spellbook: Jace'
+  card_count: 9
+  release_date: 2018-06-15
+  skip_as_latest: true
+  tla: SS1
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Global Series: Jiang Yanggu & Mu Yanling'
+  card_count: 40
+  release_date: 2018-06-22
+  tla: GS1
+  can_draft: false
+  is_mtgo: false
+  chaos_alt: 'GLOBAL SERIES: JIANG YANGGU AND MU YANLING'
+
+- name: Core Set 2019
+  card_count: 280
+  release_date: 2018-07-13
+  tla: M19
+  core: true
+  standard_expiry: 2019-10-04
+  is_mtgo: false
+
+- name: Commander 2018
+  card_count: 400
+  release_date: 2018-08-10
+  tla: C18
+  can_draft: false
+  is_mtgo: false
+
+- name: Ninth Edition Foreign Black Border
+  card_count: null
+  release_date: 2005-07-29
+  border_color: G
+  tla: 9EDFBB
+  can_draft: false
+  is_mtgo: false
+  tcgplayer_skip: true
+
+- name: Duel Decks Anthology
+  card_count: 480
+  release_date: 2014-12-05
+  skip_as_latest: true
+  tla: DD3
+  wizards_tla: DD3
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Guilds of Ravnica: Mythic Edition'
+  card_count: 8
+  release_date: 2018-10-04
+  skip_as_latest: true
+  tla: GRNMED
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Magic Game Night
+  card_count: 68
+  release_date: 2018-11-16
+  skip_as_latest: true
+  tla: GNT
+  wizards_tla: GNT
+  third_tla: GNT
+  can_draft: false
+  is_mtgo: false
+
+- name: Gift Pack
+  card_count: 10
+  release_date: 2018-11-16
+  skip_as_latest: true
+  tla: G18
+  wizards_tla: G18
+  third_tla: G18
+  can_draft: false
+  is_mtgo: false
+
+- name: 'Guilds of Ravnica: Guild Kit'
+  card_count: 127
+  release_date: 2018-11-02
+  tla: GK1
+  wizards_tla: GK1
+  third_tla: GK1
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Ultimate Masters
+  card_count: 254
+  release_date: 2018-12-07
+  tla: UMA
+  wizards_tla: UMA
+  third_tla: UMA
+  is_mtgo: false
+  applies_legality: false
+
+- name: Ultimate Masters Promo
+  card_count: 40
+  release_date: 2018-12-06
+  skip_as_latest: true
+  tla: UMAP
+  wizards_tla: UMAP
+  third_tla: UMAP
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: 'Ravnica Allegiance: Mythic Edition'
+  card_count: 8
+  release_date: 2019-01-26
+  skip_as_latest: true
+  tla: RNAMED
+  wizards_tla: RNAMED
+  third_tla: RNAMED
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Ravnica Allegiance: Guild Kits'
+  card_count: 133
+  release_date: 2019-02-15
+  tla: GK2
+  wizards_tla: GK2
+  third_tla: GK2
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Modern Horizons
+  card_count: 254
+  release_date: 2019-06-14
+  tla: MH1
+  wizards_tla: MH1
+  third_tla: MH1
+  is_mtgo: false
+
+- name: War of the Spark
+  card_count: 264
+  release_date: 2019-05-03
+  tla: WAR
+  wizards_tla: WAR
+  third_tla: WAR
+  is_mtgo: false
+
+- name: 'War of the Spark: Mythic Edition'
+  card_count: 8
+  release_date: 2019-05-02
+  skip_as_latest: true
+  tla: WARMED
+  wizards_tla: WARMED
+  third_tla: WARMED
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  foil_only: true
+
+- name: 'Signature Spellbook: Gideon'
+  card_count: 8
+  release_date: 2019-06-28
+  skip_as_latest: true
+  tla: SS2
+  wizards_tla: SS2
+  third_tla: SS2
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: SDCC Promo 2018
+  card_count: null
+  release_date: null
+  tla: S18
+  can_draft: false
+  is_mtgo: false
+  foil_only: true
+
+- name: Core Set 2020
+  card_count: 280
+  release_date: 2019-07-12
+  tla: M20
+  wizards_tla: M20
+  third_tla: M20
+  core: true
+  is_mtgo: false
+
+- name: Throne of Eldraine
+  card_count: 269
+  release_date: 2019-10-04
+  tla: ELD
+  wizards_tla: ELD
+  third_tla: ELD
+  is_mtgo: false
+
+- name: Commander 2019
+  card_count: 300
+  release_date: 2019-08-23
+  tla: C19
+  wizards_tla: C19
+  third_tla: C19
+  can_draft: false
+  is_mtgo: false
+
+- name: Game Night 2019
+  card_count: 64
+  release_date: 2019-11-15
+  skip_as_latest: true
+  tla: GN2
+  wizards_tla: GN2
+  third_tla: GN2
+  can_draft: false
+  is_mtgo: false
+
+- name: 'Mystery Booster: Convention Edition'
+  card_count: null
+  release_date: 2019-11-07
+  skip_as_latest: true
+  tla: MYSCON
+  wizards_tla: MYSCON
+  third_tla: MYS1
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  ck_alt: Mystery Booster
+  tcgplayer_alt: 'Mystery Booster: Convention Edition'
+
+- name: 'Mystery Booster: Store Edition'
+  card_count: null
+  release_date: 2020-03-13
+  skip_as_latest: true
+  tla: MYSTOR
+  wizards_tla: MYSTOR
+  third_tla: MYS1
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  tcgplayer_alt: 'Mystery Booster: Retail Exclusives'
+
+- name: Secret Lair
+  card_count: 32
+  release_date: 2019-12-09
+  skip_as_latest: true
+  tla: SLD
+  wizards_tla: SLD
+  third_tla: SLD
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  tcgplayer_alt: Secret Laid Drop Series
+
+- name: Theros Beyond Death
+  card_count: 254
+  release_date: 2020-01-24
+  tla: THB
+  wizards_tla: THB
+  third_tla: THB
+  is_mtgo: false
+
+- name: Unsanctioned
+  card_count: 96
+  release_date: 2020-02-28
+  skip_as_latest: true
+  border_color: G
+  tla: UND
+  wizards_tla: UND
+  third_tla: UND
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Secret Lair: Unlimited Edition'
+  card_count: null
+  release_date: 2020-05-29
+  skip_as_latest: true
+  tla: SLU
+  wizards_tla: SLU
+  third_tla: SLU
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: 'Signature Spellbook: Chandra'
+  card_count: 8
+  release_date: 2020-06-26
+  skip_as_latest: true
+  tla: SS3
+  wizards_tla: SS3
+  third_tla: SS3
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Commander 2020
+  card_count: 322
+  release_date: 2020-05-15
+  tla: C20
+  wizards_tla: C20
+  third_tla: C20
+  can_draft: false
+  is_mtgo: false
+
+- name: 'Ikoria: Lair of Behemoths'
+  card_count: 274
+  release_date: 2020-04-15
+  tla: IKO
+  wizards_tla: IKO
+  third_tla: IKO
+  is_mtgo: false
+
+- name: Mystery Booster
+  card_count: null
+  release_date: 2020-03-14
+  skip_as_latest: true
+  tla: MYS1
+  wizards_tla: MYSCON
+  third_tla: MYSTOR
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+  tcgplayer_alt: Mystery Booster Cards
+
+- name: Arena Cards
+  card_count: null
+  release_date: 2019-09-26
+  skip_as_latest: true
+  tla: ARENA
+  wizards_tla: ARENA
+  third_tla: ARENA
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Double Masters
+  card_count: 332
+  release_date: 2020-08-07
+  tla: 2XM
+  can_draft: false
+  is_mtgo: false
+  applies_legality: false
+
+- name: Core Set 2021
+  card_count: null
+  release_date: 2020-07-03
+  tla: M21
+  core: true
+  is_mtgo: false
+
+- name: Jumpstart
+  card_count: 500
+  release_date: 2020-07-17
+  tla: JMP
+  can_draft: false
+  is_mtgo: false
