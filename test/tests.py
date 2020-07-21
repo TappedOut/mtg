@@ -37,8 +37,6 @@ class TestData(unittest.TestCase):
             'wizards_tla': str,
             'third_tla': str,
             'block': str,
-            'standard_expiry': matches_date,
-            'release_date': matches_date,
             'tcgplayer_skip': str,
             'chaos_skip': str,
             'ck_skip': str,
@@ -51,11 +49,17 @@ class TestData(unittest.TestCase):
             'applies_legality': bool,
 
         }
+        validates = {
+            'standard_expiry': matches_date,
+            'release_date': matches_date,
+        }
 
         for slug, item in self._set_data.items():
             for key in item.keys():
                 self.assertTrue(key in object_types, "%s has a bad key %s" % (slug, key))
                 self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s)" % (slug, key, object_types[key]))
+                if key in validates:
+                    self.assertTrue(validates[key](item[key]), "%s had bad data for key %s (was %s)" % (slug, key, item[key]))
 
     def test_format_keys(self):
         object_types = {
