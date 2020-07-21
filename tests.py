@@ -12,7 +12,7 @@ class TestFormat(unittest.TestCase):
     def setUp(self):
         self._set_data = {}
         with open('./sets.yml', 'r') as fileobj:
-            with item in yaml.load(fileobj):
+            for item in yaml.load(fileobj):
                 self._set_data[slugify(item['name'])] = item
 
         self._format_data = {}
