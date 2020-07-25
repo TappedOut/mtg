@@ -1,27 +1,52 @@
+activated_abilities:
+- '{T}: Add {W} or {U} to your mana pool.'
 activation_costs:
 - U
 - W
 all_printings:
-- full_url: http://tappedout.net/mtg-set/dragons-maze/
+- booster_exclude: true
+  full_url: http://tappedout.net/mtg-set/dragons-maze/
   image_large: /media/mtg-cards/_user-added/dukenicky-AZG.jpg
+  mtgo_foil_id: 48385
+  mtgo_id: 48384
   name: Dragon's Maze
+  number: 146
+  rarity: common
   set_number: 146
   slug: dragons-maze
   tla: DGM
   url: /mtg-set/dragons-maze/
   variations: []
-- full_url: http://tappedout.net/mtg-set/return-to-ravnica/
+  wizards_id: '368974'
+  wizards_url: http://gatherer.wizards.com/Pages/Card/Details.aspx?&multiverseid=368974
+- booster_exclude: true
+  full_url: http://tappedout.net/mtg-set/return-to-ravnica/
   image_large: /media/mtg-cards/return-to-ravnica/azorius-guildgate.jpg
+  mtgo_foil_id: 46380
+  mtgo_id: 46379
   name: Return to Ravnica
-  set_number: null
+  rarity: common
   slug: return-to-ravnica
   tla: RTR
   url: /mtg-set/return-to-ravnica/
   variations: []
-booster_exclude: false
+  wizards_id: '270966'
+  wizards_url: http://gatherer.wizards.com/Pages/Card/Details.aspx?&multiverseid=270966
+booster_exclude: true
 canadian_hl_score: 0
 cannonical_set: DGM
 cannonical_type: Land
+companions:
+- Lutri, the Spellchaser
+- Yorion, Sky Nomad
+- Umori, the Collector
+- Jegantha, the Wellspring
+- Kaheera, the Orphanguard
+- Obosh, the Preypiercer
+- Lurrus of the Dream-Den
+- Zirda, the Dawnwaker
+- Gyruda, Doom of Depths
+- Keruga, the Macrosage
 flat_cost: 0
 formats:
 - Tiny Leaders
@@ -35,10 +60,12 @@ formats:
 - Legacy
 - Casual
 - Commander / EDH
+has_activated_abilities: true
 image_large: /media/mtg-cards/_user-added/dukenicky-AZG.jpg
 is_basic_land: false
 is_land: true
 is_limitless: false
+is_permanent: true
 mana_cost_converted: 0
 mana_produced: W/U
 mtgo_foil_id: 48385
@@ -48,10 +75,8 @@ rules: "Azorius Guildgate enters the battlefield tapped.\r\n\r\n{T}: Add {W} or 
   \ to your mana pool."
 slug: azorius-guildgate
 subtype: Gate
-subtypes:
+subtype_tokens:
 - Gate
 tap_land: true
 type: Land
 url: http://tappedout.net/mtg-card/azorius-guildgate/
-wizards_id: '368974'
-wizards_url: http://gatherer.wizards.com/Pages/Card/Details.aspx?&multiverseid=368974

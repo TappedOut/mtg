@@ -145,6 +145,7 @@ class TestData(unittest.TestCase):
             'tla': str,
             'url': str,
             'variations': list,
+            'set_number': int,
         }
 
     def _cardtest_inner(self, data):
@@ -157,6 +158,10 @@ class TestData(unittest.TestCase):
             'formats': in_formats,
         }
         object_types = {
+            'companions': list,
+            'has_activated_abilities': bool,
+            'activated_abilities': list,
+            'is_permanent': bool,
             'cannonical_set': str,
             'all_printings': list,
             'booster_exclude': bool,
@@ -187,7 +192,7 @@ class TestData(unittest.TestCase):
             'wizards_url': str,
             'rules': str,
             'tokens': list,
-            'subtypes': list,
+            'subtype_tokens': list,
             'mtgo_foil_id': int,
             'mtgo_id': int,
             'activation_costs': list,
