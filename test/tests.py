@@ -68,7 +68,7 @@ class TestData(unittest.TestCase):
                 if key in item:
                     self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (slug, key, object_types[key], item[key].__class__))
                 if key in validates:
-                    self.assertTrue(validates[key](item.get(key)), "Bad value for %s.%s found: %s" % (slug, key, item(key)))
+                    self.assertTrue(validates[key](item.get(key)), "Bad value for %s.%s found: %s" % (slug, key, item.get(key)))
 
     def test_format_keys(self):
         object_types = {
