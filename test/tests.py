@@ -52,6 +52,13 @@ class TestData(unittest.TestCase):
             'standard_expiry': datetime.date,
 
         }
+        def border_color(val):
+            if val:
+                return ['W', 'G', 'B']
+            return True  # blank = B
+        validates = {
+            'border_color': mana_color,
+        }
 
         for slug, item in self._set_data.items():
             for key in item.keys():
@@ -59,6 +66,8 @@ class TestData(unittest.TestCase):
                 self.assertTrue(key in object_types, "Bad key %s found in %s" % (key, slug))
                 if key in item:
                     self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (slug, key, object_types[key], item[key].__class__))
+                if key in validates:
+                    self.assertTrue(validates[key](item[key]), "Bad value for %s.%s found: %s" % (slug, key, item[key]))
 
     def test_format_keys(self):
         object_types = {
