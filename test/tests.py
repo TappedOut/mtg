@@ -45,6 +45,7 @@ class TestData(unittest.TestCase):
             'foil_only': bool,
             'can_draft': bool,
             'is_mtgo': bool,
+            'border_color': str,
             'cannonical_image': bool,
             'cannonical_price': bool,
             'applies_legality': bool,
