@@ -1,0 +1,57 @@
+activation_costs:
+- U
+- W
+all_printings:
+- full_url: http://tappedout.net/mtg-set/dragons-maze/
+  image_large: /media/mtg-cards/_user-added/dukenicky-AZG.jpg
+  name: Dragon's Maze
+  set_number: 146
+  slug: dragons-maze
+  tla: DGM
+  url: /mtg-set/dragons-maze/
+  variations: []
+- full_url: http://tappedout.net/mtg-set/return-to-ravnica/
+  image_large: /media/mtg-cards/return-to-ravnica/azorius-guildgate.jpg
+  name: Return to Ravnica
+  set_number: null
+  slug: return-to-ravnica
+  tla: RTR
+  url: /mtg-set/return-to-ravnica/
+  variations: []
+booster_exclude: false
+canadian_hl_score: 0
+cannonical_set: DGM
+cannonical_type: Land
+flat_cost: 0
+formats:
+- Tiny Leaders
+- Noble
+- Extended
+- Vintage
+- Modern
+- Penny Dreadful
+- Standard
+- Pauper EDH
+- Legacy
+- Casual
+- Commander / EDH
+image_large: /media/mtg-cards/_user-added/dukenicky-AZG.jpg
+is_basic_land: false
+is_land: true
+is_limitless: false
+mana_cost_converted: 0
+mana_produced: W/U
+mtgo_foil_id: 48385
+mtgo_id: 48384
+name: Azorius Guildgate
+rules: "Azorius Guildgate enters the battlefield tapped.\r\n\r\n{T}: Add {W} or {U}\
+  \ to your mana pool."
+slug: azorius-guildgate
+subtype: Gate
+subtypes:
+- Gate
+tap_land: true
+type: Land
+url: http://tappedout.net/mtg-card/azorius-guildgate/
+wizards_id: '368974'
+wizards_url: http://gatherer.wizards.com/Pages/Card/Details.aspx?&multiverseid=368974
