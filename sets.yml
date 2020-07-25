@@ -26,7 +26,8 @@
 - name: Masters Edition
   card_count: 195
   release_date: 2007-09-10
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: MED
   can_draft: false
   applies_legality: false
@@ -991,7 +992,8 @@
 - name: 'From the Vault: Twenty'
   card_count: null
   release_date: 2013-08-10
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: V13
   can_draft: false
   is_mtgo: false
@@ -1041,7 +1043,8 @@
 - name: Vintage Masters
   card_count: null
   release_date: 2014-06-16
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: VMA
   can_draft: false
   tcgplayer_skip: true
@@ -1089,7 +1092,8 @@
 - name: 'From the Vault: Annihilation'
   card_count: null
   release_date: 2014-08-22
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: V14
   can_draft: false
   is_mtgo: false
@@ -1209,7 +1213,8 @@
 - name: Tempest Remastered
   card_count: 269
   release_date: 2015-05-06
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   block: Tempest
   tla: TPR
   can_draft: false
@@ -1244,7 +1249,8 @@
 - name: 'From the Vault: Angels'
   card_count: 15
   release_date: 2015-08-21
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: V15
   can_draft: false
   is_mtgo: false
@@ -1254,7 +1260,8 @@
 - name: 'Duel Decks: Zendikar vs. Eldrazi'
   card_count: 120
   release_date: 2015-08-28
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: DDP
   wizards_tla: DZE
   can_draft: false
@@ -1273,7 +1280,8 @@
 - name: Zendikar Expeditions
   card_count: 80
   release_date: 2015-10-03
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   block: Battle for Zendikar
   tla: EXP
   can_draft: false
@@ -1350,7 +1358,8 @@
 - name: Welcome Deck 2016
   card_count: null
   release_date: 2016-03-23
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   block: Shadows over Innistrad
   tla: W16
   can_draft: false
@@ -1384,7 +1393,8 @@
 - name: Planechase Anthology
   card_count: null
   release_date: 2016-11-25
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: PCA
   can_draft: false
   is_mtgo: false
@@ -1400,7 +1410,8 @@
 - name: 'Masterpiece Series: Kaladesh Inventions'
   card_count: null
   release_date: 2016-09-30
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   block: Kaladesh
   tla: MPS
   can_draft: false
@@ -1413,7 +1424,8 @@
 - name: FNM Promos
   card_count: null
   release_date: 1990-11-05
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: FNM
   can_draft: false
   is_mtgo: false
@@ -1448,7 +1460,8 @@
 - name: Commander Anthology
   card_count: null
   release_date: 2017-06-09
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: CM1
   wizards_tla: CMT
   third_tla: CMA
@@ -1489,7 +1502,8 @@
 - name: 'Masterpiece Series: Amonkhet Invocations'
   card_count: 54
   release_date: 2017-04-28
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   block: Kaladesh
   tla: AKHMPS
   can_draft: false
@@ -1503,7 +1517,8 @@
 - name: Welcome Deck 2017
   card_count: null
   release_date: 2017-04-15
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: W17
   can_draft: false
   is_mtgo: false
@@ -1554,7 +1569,8 @@
 - name: 'From the Vault: Transform'
   card_count: 15
   release_date: 2017-11-24
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   block: From the Vault
   tla: V17
   can_draft: false
@@ -1608,7 +1624,8 @@
 - name: Commander Anthology 2018
   card_count: 312
   release_date: 2018-06-08
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: CM2
   can_draft: false
   is_mtgo: false
@@ -1665,7 +1682,8 @@
 - name: 'Signature Spellbook: Jace'
   card_count: 9
   release_date: 2018-06-15
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: SS1
   can_draft: false
   is_mtgo: false
@@ -1706,7 +1724,8 @@
 - name: Duel Decks Anthology
   card_count: 480
   release_date: 2014-12-05
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: DD3
   can_draft: false
   is_mtgo: false
@@ -1715,7 +1734,8 @@
 - name: 'Guilds of Ravnica: Mythic Edition'
   card_count: 8
   release_date: 2018-10-04
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: GRNMED
   can_draft: false
   is_mtgo: false
@@ -1724,7 +1744,8 @@
 - name: Magic Game Night
   card_count: 68
   release_date: 2018-11-16
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: GNT
   can_draft: false
   is_mtgo: false
@@ -1732,7 +1753,8 @@
 - name: Gift Pack
   card_count: 10
   release_date: 2018-11-16
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: G18
   can_draft: false
   is_mtgo: false
@@ -1755,7 +1777,8 @@
 - name: Ultimate Masters Promo
   card_count: 40
   release_date: 2018-12-06
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: UMAP
   can_draft: false
   is_mtgo: false
@@ -1765,7 +1788,8 @@
 - name: 'Ravnica Allegiance: Mythic Edition'
   card_count: 8
   release_date: 2019-01-26
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: RNAMED
   can_draft: false
   is_mtgo: false
@@ -1794,7 +1818,8 @@
 - name: 'War of the Spark: Mythic Edition'
   card_count: 8
   release_date: 2019-05-02
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: WARMED
   can_draft: false
   is_mtgo: false
@@ -1804,7 +1829,8 @@
 - name: 'Signature Spellbook: Gideon'
   card_count: 8
   release_date: 2019-06-28
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: SS2
   wizards_tla: SS2
   third_tla: SS2
@@ -1843,7 +1869,8 @@
 - name: Game Night 2019
   card_count: 64
   release_date: 2019-11-15
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: GN2
   can_draft: false
   is_mtgo: false
@@ -1851,7 +1878,8 @@
 - name: 'Mystery Booster: Convention Edition'
   card_count: null
   release_date: 2019-11-07
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: MYSCON
   third_tla: MYS1
   can_draft: false
@@ -1863,7 +1891,8 @@
 - name: 'Mystery Booster: Store Edition'
   card_count: null
   release_date: 2020-03-13
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: MYSTOR
   third_tla: MYS1
   can_draft: false
@@ -1874,7 +1903,8 @@
 - name: Secret Lair
   card_count: 32
   release_date: 2019-12-09
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: SLD
   can_draft: false
   is_mtgo: false
@@ -1892,7 +1922,8 @@
 - name: Unsanctioned
   card_count: 96
   release_date: 2020-02-28
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   border_color: G
   tla: UND
   can_draft: false
@@ -1902,7 +1933,8 @@
 - name: 'Secret Lair: Unlimited Edition'
   card_count: null
   release_date: 2020-05-29
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: SLU
   can_draft: false
   is_mtgo: false
@@ -1911,7 +1943,8 @@
 - name: 'Signature Spellbook: Chandra'
   card_count: 8
   release_date: 2020-06-26
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: SS3
   can_draft: false
   is_mtgo: false
@@ -1933,7 +1966,8 @@
 - name: Mystery Booster
   card_count: null
   release_date: 2020-03-14
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: MYS1
   wizards_tla: MYSCON
   third_tla: MYSTOR
@@ -1945,7 +1979,8 @@
 - name: Arena Cards
   card_count: null
   release_date: 2019-09-26
-  skip_as_latest: true
+  cannonical_image: false
+  cannonical_price: false
   tla: ARENA
   can_draft: false
   is_mtgo: false

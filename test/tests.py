@@ -1,4 +1,5 @@
 import unittest
+import datetime
 import os
 import logging
 from slugify import slugify
@@ -27,9 +28,6 @@ class TestData(unittest.TestCase):
                 self.assertTrue(slugify(setitem) in self._set_data, "%s under %s was not found in the set data" % (setitem, slug))
 
     def test_set_keys(self):
-        def matches_date(string):
-            return datetime.strptime('%Y-%m-%d')
-                
         object_types = {
             'name': str,
             'card_count': int,
@@ -46,20 +44,20 @@ class TestData(unittest.TestCase):
             'foil_only': bool,
             'can_draft': bool,
             'is_mtgo': bool,
+            'cannonical_image': bool,
+            'cannonical_price': bool,
             'applies_legality': bool,
-            'release_date': str,
-            'standard_expiry': str,
+            'release_date': datetime.date,
+            'standard_expiry': datetime.date,
 
         }
         validates = {
-            'standard_expiry': matches_date,
-            'release_date': matches_date,
         }
 
         for slug, item in self._set_data.items():
             for key in item.keys():
                 self.assertTrue(key in object_types, "%s has a bad key %s" % (slug, key))
-                self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s)" % (slug, key, object_types[key]))
+                self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (slug, key, object_types[key], item[key].__class__))
                 if key in validates:
                     self.assertTrue(validates[key](item[key]), "%s had bad data for key %s (was %s)" % (slug, key, item[key]))
 
