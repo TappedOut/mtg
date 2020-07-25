@@ -814,7 +814,7 @@
   tla: ISD
   standard_expiry: 2013-09-27
   is_mtgo: false
-  dfc_rules: true
+  draft_logic: dfc
 
 - name: Dark Ascension
   card_count: 143
@@ -823,7 +823,7 @@
   tla: DKA
   standard_expiry: 2013-09-27
   is_mtgo: false
-  dfc_rules: true
+  draft_logic: dfc
 
 - name: 'From the Vault: Legends'
   card_count: 143
@@ -958,6 +958,7 @@
   card_count: 143
   release_date: 2013-05-03
   block: Return to Ravnica
+  draft_logic: dgm
   tla: DGM
   core: true
   standard_expiry: 2014-09-26
@@ -1114,6 +1115,7 @@
   release_date: 2015-01-23
   block: Khans of Tarkir
   tla: FRF
+  draft_logic: frf
   standard_expiry: 2016-04-08
   is_mtgo: false
 
@@ -1313,7 +1315,7 @@
   tla: SOI
   standard_expiry: 2017-09-28
   is_mtgo: false
-  dfc_rules: true
+  draft_logic: dfc_innistrad
 
 - name: 'Duel Decks: Blessed vs. Cursed'
   card_count: 120
@@ -1350,10 +1352,10 @@
   card_count: 205
   release_date: 2016-07-22
   block: Shadows over Innistrad
-  tla: EMN
+  tla: dfc_innistrad
   standard_expiry: 2017-09-28
   is_mtgo: false
-  dfc_rules: true
+  draft_logic: dfc
 
 - name: Welcome Deck 2016
   card_count: 143
@@ -1601,6 +1603,7 @@
   release_date: 2018-04-22
   block: Dominaria
   tla: DOM
+  draft_logic: dom
   wizards_tla: DOM
   third_tla: DAR
   standard_expiry: 2019-10-04
@@ -1881,6 +1884,7 @@
   cannonical_image: false
   cannonical_price: false
   tla: MYSCON
+  draft_logic: mystery
   third_tla: MYS1
   can_draft: false
   is_mtgo: false
@@ -1894,6 +1898,7 @@
   cannonical_image: false
   cannonical_price: false
   tla: MYSTOR
+  draft_logic: mystery
   third_tla: MYS1
   can_draft: false
   is_mtgo: false
