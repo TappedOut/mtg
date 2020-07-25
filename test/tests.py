@@ -38,6 +38,7 @@ class TestData(unittest.TestCase):
             'tcgplayer_skip': bool,
             'chaos_skip': bool,
             'ck_skip': bool,
+            'core': bool,
             'tcgplayer_alt': str,
             'chaos_alt': str,
             'ck_alt': str,
@@ -55,6 +56,7 @@ class TestData(unittest.TestCase):
         for slug, item in self._set_data.items():
             for key in item.keys():
                 self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (slug, key, object_types[key], item[key].__class__))
+                self.assertTrue(key in object_types, "Bad key %s found in %s" % (key, slug))
                 if key in item:
                     self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (slug, key, object_types[key], item[key].__class__))
 
