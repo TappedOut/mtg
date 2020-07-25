@@ -1,6 +1,6 @@
 import unittest
-import datetime
 import os
+import datetime
 import logging
 from slugify import slugify
 import yaml
@@ -51,15 +51,12 @@ class TestData(unittest.TestCase):
             'standard_expiry': datetime.date,
 
         }
-        validates = {
-        }
 
         for slug, item in self._set_data.items():
             for key in item.keys():
-                self.assertTrue(key in object_types, "%s has a bad key %s" % (slug, key))
                 self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (slug, key, object_types[key], item[key].__class__))
-                if key in validates:
-                    self.assertTrue(validates[key](item[key]), "%s had bad data for key %s (was %s)" % (slug, key, item[key]))
+                if key in item:
+                    self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (slug, key, object_types[key], item[key].__class__))
 
     def test_format_keys(self):
         object_types = {
