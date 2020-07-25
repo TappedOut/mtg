@@ -17,7 +17,7 @@ class TestData(unittest.TestCase):
                 self._set_data[slugify(item['name'])] = item
 
         self._format_data = {}
-        for filename in os.listdir('./formats/mtg/'):
+        for filename in os.listdir('./formats/'):
             if filename[-3:] == 'yml':
                 with open('./formats/%s' % filename, 'r') as fileobj:
                     self._format_data[filename.split('.')[0]] = yaml.load(fileobj.read())
