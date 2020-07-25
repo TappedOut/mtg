@@ -19,7 +19,7 @@ class TestData(unittest.TestCase):
         self._format_data = {}
         for filename in os.listdir('./formats/mtg/'):
             if filename[-3:] == 'yml':
-                with open('./formats/mtg/%s' % filename, 'r') as fileobj:
+                with open('./formats/%s' % filename, 'r') as fileobj:
                     self._format_data[filename.split('.')[0]] = yaml.load(fileobj.read())
 
     def test_sets(self):
