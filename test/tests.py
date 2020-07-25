@@ -57,7 +57,7 @@ class TestData(unittest.TestCase):
                 return ['W', 'G', 'B']
             return True  # blank = B
         validates = {
-            'border_color': mana_color,
+            'border_color': border_color,
         }
 
         for slug, item in self._set_data.items():
