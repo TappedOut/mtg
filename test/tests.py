@@ -163,7 +163,7 @@ class TestData(unittest.TestCase):
             'activated_abilities': list,
             'is_permanent': bool,
             'cannonical_set': str,
-            'all_printings': list,
+            'printings': list,
             'booster_exclude': bool,
             'canadian_hl_score': int,
             'cannonical_type': str,
