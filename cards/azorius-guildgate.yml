@@ -3,35 +3,6 @@ activated_abilities:
 activation_costs:
 - U
 - W
-all_printings:
-- booster_exclude: true
-  full_url: http://tappedout.net/mtg-set/dragons-maze/
-  image_large: /media/mtg-cards/_user-added/dukenicky-AZG.jpg
-  mtgo_foil_id: 48385
-  mtgo_id: 48384
-  name: Dragon's Maze
-  number: 146
-  rarity: common
-  set_number: 146
-  slug: dragons-maze
-  tla: DGM
-  url: /mtg-set/dragons-maze/
-  variations: []
-  wizards_id: '368974'
-  wizards_url: http://gatherer.wizards.com/Pages/Card/Details.aspx?&multiverseid=368974
-- booster_exclude: true
-  full_url: http://tappedout.net/mtg-set/return-to-ravnica/
-  image_large: /media/mtg-cards/return-to-ravnica/azorius-guildgate.jpg
-  mtgo_foil_id: 46380
-  mtgo_id: 46379
-  name: Return to Ravnica
-  rarity: common
-  slug: return-to-ravnica
-  tla: RTR
-  url: /mtg-set/return-to-ravnica/
-  variations: []
-  wizards_id: '270966'
-  wizards_url: http://gatherer.wizards.com/Pages/Card/Details.aspx?&multiverseid=270966
 booster_exclude: true
 canadian_hl_score: 0
 cannonical_set: DGM
@@ -71,6 +42,27 @@ mana_produced: W/U
 mtgo_foil_id: 48385
 mtgo_id: 48384
 name: Azorius Guildgate
+printings:
+- DGM:
+    booster_exclude: true
+    image_large: /media/mtg-cards/_user-added/dukenicky-AZG.jpg
+    mtgo_foil_id: 48385
+    mtgo_id: 48384
+    number: 146
+    rarity: common
+    set_number: 146
+    variations: []
+    wizards_id: '368974'
+    wizards_url: http://gatherer.wizards.com/Pages/Card/Details.aspx?&multiverseid=368974
+- RTR:
+    booster_exclude: true
+    image_large: /media/mtg-cards/return-to-ravnica/azorius-guildgate.jpg
+    mtgo_foil_id: 46380
+    mtgo_id: 46379
+    rarity: common
+    variations: []
+    wizards_id: '270966'
+    wizards_url: http://gatherer.wizards.com/Pages/Card/Details.aspx?&multiverseid=270966
 rules: "Azorius Guildgate enters the battlefield tapped.\r\n\r\n{T}: Add {W} or {U}\
   \ to your mana pool."
 slug: azorius-guildgate
