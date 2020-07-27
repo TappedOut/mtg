@@ -207,4 +207,4 @@ class TestData(unittest.TestCase):
                 self.assertTrue(isinstance(data[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (data['slug'], key, object_types[key], data[key].__class__))
             if key in validates:
                 self.assertTrue(validates[key](data.get(key)), "Bad value for %s.%s found" % (data['slug'], key))
-        self._printingtest_inner(data['all_printings'])
+        self._printingtest_inner(data['printings'])
