@@ -151,7 +151,7 @@ class TestData(unittest.TestCase):
         }
         for item in data:
             for setkey in item.keys():
-                for key in item[key]:
+                for key in item[setkey]:
                     self.assertTrue(key in object_types, "Bad key %s found for %s" % (key, item['slug']))
                     self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad item type for key %s (should be %s but found %s)" % (item['slug'], key, object_types[key], item[key].__class__))
                     self.assertTrue(key in object_types, "Bad key %s found in %s" % (key, item['slug']))
