@@ -3,7 +3,6 @@ activated_abilities:
 activation_costs:
 - U
 - W
-booster_exclude: true
 canadian_hl_score: 0
 cannonical_set: DGM
 cannonical_type: Land
@@ -32,15 +31,12 @@ formats:
 - Casual
 - Commander / EDH
 has_activated_abilities: true
-image_large: /media/mtg-cards/_user-added/dukenicky-AZG.jpg
 is_basic_land: false
 is_land: true
 is_limitless: false
 is_permanent: true
 mana_cost_converted: 0
 mana_produced: W/U
-mtgo_foil_id: 48385
-mtgo_id: 48384
 name: Azorius Guildgate
 printings:
 - DGM:
