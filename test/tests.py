@@ -151,12 +151,13 @@ class TestData(unittest.TestCase):
         }
         for item in data:
             for setkey in item.keys():
-                for key in item[setkey]:
-                    self.assertTrue(key in object_types, "Bad key %s found for %s" % (key, item['slug']))
-                    self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad item type for key %s (should be %s but found %s)" % (item['slug'], key, object_types[key], item[key].__class__))
-                    self.assertTrue(key in object_types, "Bad key %s found in %s" % (key, item['slug']))
+                item = item[setkey]
+                for key in item.keys():
+                    self.assertTrue(key in object_types, "Bad key %s found for %s" % (key, setkey))
+                    self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad item type for key %s (should be %s but found %s)" % (setkey, key, object_types[key], item[key].__class__))
+                    self.assertTrue(key in object_types, "Bad key %s found in %s" % (key, setkey))
                     if key in item and item.get(key) is not None:
-                        self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad item type for key %s (should be %s but found %s)" % (item['slug'], key, object_types[key], item[key].__class__))
+                        self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad item type for key %s (should be %s but found %s)" % (setkey, key, object_types[key], item[key].__class__))
 
     def _cardtest_inner(self, data):
         def in_formats(vals):
