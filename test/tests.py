@@ -137,16 +137,25 @@ class TestData(unittest.TestCase):
         def in_sets(val):
             return slugify(val) in self._set_data
 
-        validates = {
-            'name': in_sets,
-        }
         object_types = {
-            'name': str,
             'tla': str,
-            'url': str,
             'variations': list,
-            'set_number': int,
+            'number': int,
+            'rarity': str,
+            'image_large': str,
+            'booster_exclude': bool,
+            'mtgo_foil_id': int,
+            'mtgo_id': int,
+            'wizards_id': str,
+            'wizards_url': str,
         }
+        for setkey in data.keys():
+            for key in data[key]:
+                self.assertTrue(key in object_types, "Bad key %s found for %s" % (key, data['slug']))
+                self.assertTrue(isinstance(data[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (data['slug'], key, object_types[key], data[key].__class__))
+                self.assertTrue(key in object_types, "Bad key %s found in %s" % (key, data['slug']))
+                if key in data and data.get(key) is not None:
+                    self.assertTrue(isinstance(data[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (data['slug'], key, object_types[key], data[key].__class__))
 
     def _cardtest_inner(self, data):
         def in_formats(vals):
@@ -188,13 +197,9 @@ class TestData(unittest.TestCase):
             'is_land': bool,
             'type': str,
             'subtype': str,
-            'wizards_id': str,
-            'wizards_url': str,
             'rules': str,
             'tokens': list,
             'subtype_tokens': list,
-            'mtgo_foil_id': int,
-            'mtgo_id': int,
             'activation_costs': list,
             'promo_sets': list,
             'flip': str,
