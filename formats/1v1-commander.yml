@@ -15,7 +15,9 @@ bans:
 - Brago's Favor
 - Bronze Tablet
 - Channel
+- Cleanse
 - Contract from Below
+- Crusade
 - Darkpact
 - Decorated Knight
 - Demonic Attorney
@@ -42,9 +44,12 @@ bans:
 - Humility
 - Hymn of the Wilds
 - Immediate Action
+- Imprison
 - Incendiary Dissent
+- Invoke Prejudice
 - Iterative Analysis
 - Jeweled Bird
+- Jihad
 - Karakas
 - Library of Alexandria
 - Mind Twist
@@ -64,6 +69,7 @@ bans:
 - Oath of Druids
 - Phoenix Heart
 - Power Play
+- Pradesh Gypsies
 - Princess Twilight Sparkle
 - Proposal
 - Rarity
@@ -82,6 +88,7 @@ bans:
 - Sovereign's Realm
 - Splendid Genesis
 - Stocking Tiger
+- Stone-Throwing Devils
 - Strip Mine
 - Summoner's Bond
 - Survival of the Fittest
@@ -116,3 +123,5 @@ maximum_deck_size: 100
 minimum_deck_size: 100
 
 starting_life_total: 30
+
+#https://magic.wizards.com/en/game-info/gameplay/rules-and-formats/banned-restricted/magic-online-commander
