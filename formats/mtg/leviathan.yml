@@ -1,130 +1,142 @@
+banned_as_commander:
+- Derevi, Empyrial Tactician
+- Edric, Spymaster of Trest
+- Erayo, Soratami Ascendant
+- Oloro, Ageless Ascetic
+- Rofellos, Llanowar Emissary
+- Tasigur, the Golden Fang
+- Vial Smasher the Fierce
+- Zur the Enchanter
+
 bans:
 - 1996 World Champion
 - Adriana's Valor
 - Advantageous Proclamation
 - Amulet of Quoz
 - Ancestral Recall
+- Ancient Tomb
 - Assemble the Rank and Vile
+- Back to Basics
 - Backup Plan
 - Balance
-- Biorhythm
 - Black Lotus
 - Bog Humbugs
-- Braids, Cabal Minion
 - Brago's Favor
 - Bronze Tablet
+- Cataclysm
 - Channel
 - Chaos Orb
-- Coalition Victory
+- Chrome Mox
 - Contract from Below
-- Cleanse
-- Coalition Victory
-- Contract from Below
-- Crusade
 - Darkpact
 - Decorated Knight
 - Demonic Attorney
+- Dig Through Time
 - Double Stroke
 - Echoing Boon
 - Emissary's Ploy
 - Emrakul, the Aeons Torn
-- Erayo, Soratami Ascendant
-- Erayo, Soratami Ascendant / Erayo's Essence
+- Emrakul, the Promised End
+- Entomb
 - Evil Presents
 - Falling Star
 - Fastbond
-- Flash
+- Food Chain
 - Fraternal Exaltation
 - Fruitcake Elemental
+- Gaea's Cradle
 - Gifts Given
 - Gifts Ungiven
 - Goblin Sleigh Ride
+- Grim Monolith
 - Grimlock, Dinobot Leader
-- Griselbrand
+- Grindstone
+- Hermit Druid
+- High Tide
 - Hired Heist
 - Hold the Perimeter
+- Humility
 - Hymn of the Wilds
 - Immediate Action
+- Imperial Seal
 - Incendiary Dissent
-- Imprison
-- Incendiary Dissent
-- Invoke Prejudice
-- Iona, Shield of Emeria
+- Intuition
 - Iterative Analysis
 - Jeweled Bird
-- Jihad
 - Karakas
-- Leovold, Emissary of Trest
 - Library of Alexandria
-- Limited Resources
-- Lutri, the Spellchaser
+- Loyal Retainers
+- Mana Crypt
+- Mana Drain
+- Mana Vault
+- Mind Twist
+- Mishra's Workshop
 - Mishra's Toy Workshop
+- Mox Diamond
 - Mox Emerald
 - Mox Jet
 - Mox Pearl
 - Mox Ruby
 - Mox Sapphire
-- Muzzlo's Preparations
+- Muzzio's Preparations
+- Mystical Tutor
+- Natural Order
 - Natural Unity
 - Naughty / Nice
+- Necropotence
 - Nerf War
 - Nightmare Moon
-- Panoptic Mirror
-- Paradox Engine
+- Oath of Druids
 - Phoenix Heart
 - Power Play
-- Pradesh Gypsies
-- Primeval Titan
 - Princess Twilight Sparkle
-- Prophet of Kruphix
 - Proposal
+- Protean Hulk
 - Rarity
 - Rebirth
-- Recurring Nightmare
 - Robot Chicken
-- Rofellos, Llanowar Emissary
 - Season's Beatings
 - Secret Summoning
 - Secrets of Paradise
+- Sensei's Divining Top
 - Sentinel Dispatch
+- Serra Ascendant
 - Shahrazad
 - Shichifukujin Dragon
 - Snow Mercy
+- Sol Ring
 - Some Disassembly Required
 - Sovereign's Realm
 - Splendid Genesis
 - Stocking Tiger
-- Stone-Throwing Devils
+- Strip Mine
 - Summoner's Bond
-- Sundering Titan
-- Sway of the Stars
 - Sword of Dungeons & Dragons
-- Sylvan Primordial
 - Tempest Efreet
+- The Tabernacle at Pendrell Vale
 - Thopter Pie Network
 - Time Vault
 - Time Walk
 - Timmerian Fiends
 - Tinker
 - Tolarian Academy
-- Trade Secrets
+- Treasure Cruise
 - Unexpected Potential
-- Upheaval
+- Vampiric Tutor
 - Weight Advantage
-- Worldfire
 - Worldknit
 - Yawgmoth's Bargain
 - Yule Ooze
 
 has_commander: true
 
+has_sideboard: false
+
 inherits:
-- Vintage
+- Legacy
 
 is_singleton: true
 
 maximum_deck_size: 100
 
 minimum_deck_size: 100
-
-starting_life_total: 40

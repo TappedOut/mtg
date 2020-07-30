@@ -1,130 +1,163 @@
+banned_as_commander:
+- Arahbo, Roar of the World
+- Baral, Chief of Compliance
+- Breya, Etherium Shaper
+- Bruse Tarl, Boorish Herder
+- Derevi, Empyrial Tactician
+- Edgar Markov
+- Edric, Spymaster of Trest
+- Emry, Lurker of the Loch
+- Geist of Saint Traft
+- Marath, Will of the Wild
+- Najeela, the Blade-Blossom
+- Oloro, Ageless Ascetic
+- Prime Speaker Vannifar
+- Rofellos, Llanowar Emissary
+- Tasigur, the Golden Fang
+- Teferi, Temporal Archmage
+- Urza, Lord High Artificer
+- Vial Smasher the Fierce
+- Yuriko, the Tiger’s Shadow
+- Zurgo Bellstriker
+
 bans:
 - 1996 World Champion
 - Adriana's Valor
 - Advantageous Proclamation
 - Amulet of Quoz
 - Ancestral Recall
+- Ancient Tomb
 - Assemble the Rank and Vile
+- Back to Basics
 - Backup Plan
-- Balance
-- Biorhythm
 - Black Lotus
 - Bog Humbugs
-- Braids, Cabal Minion
 - Brago's Favor
 - Bronze Tablet
+- Capture of Jingzhou
+- Cavern of Souls
 - Channel
 - Chaos Orb
-- Coalition Victory
+- Chrome Mox
 - Contract from Below
-- Cleanse
-- Coalition Victory
-- Contract from Below
-- Crusade
 - Darkpact
 - Decorated Knight
+- Deflecting Swat
 - Demonic Attorney
+- Dig Through Time
 - Double Stroke
 - Echoing Boon
+- Eidolon of the Great Revel
 - Emissary's Ploy
 - Emrakul, the Aeons Torn
-- Erayo, Soratami Ascendant
-- Erayo, Soratami Ascendant / Erayo's Essence
+- Entomb
 - Evil Presents
 - Falling Star
 - Fastbond
-- Flash
+- Field of the Dead
+- Fierce Guardianship
+- Fireblast
+- Food Chain
 - Fraternal Exaltation
 - Fruitcake Elemental
+- Gaea's Cradle
 - Gifts Given
-- Gifts Ungiven
 - Goblin Sleigh Ride
+- Grim Monolith
 - Grimlock, Dinobot Leader
-- Griselbrand
+- Hermit Druid
+- High Tide
 - Hired Heist
 - Hold the Perimeter
+- Humility
 - Hymn of the Wilds
 - Immediate Action
+- Imperial Seal
 - Incendiary Dissent
-- Imprison
-- Incendiary Dissent
-- Invoke Prejudice
-- Iona, Shield of Emeria
 - Iterative Analysis
 - Jeweled Bird
-- Jihad
 - Karakas
-- Leovold, Emissary of Trest
 - Library of Alexandria
-- Limited Resources
+- Lion's Eye Diamond
+- Loyal Retainers
 - Lutri, the Spellchaser
+- Mana Crypt
+- Mana Drain
+- Mana Vault
 - Mishra's Toy Workshop
+- Mishra's Workshop
+- Mox Diamond
 - Mox Emerald
 - Mox Jet
+- Mox Opal
 - Mox Pearl
 - Mox Ruby
 - Mox Sapphire
-- Muzzlo's Preparations
+- Muzzio's Preparations
+- Mystical Tutor
+- Natural order
 - Natural Unity
+- Necrotic Ooze
 - Naughty / Nice
 - Nerf War
 - Nightmare Moon
-- Panoptic Mirror
-- Paradox Engine
+- Oath of Druids
 - Phoenix Heart
+- Polymorph
 - Power Play
-- Pradesh Gypsies
-- Primeval Titan
+- Price of Progress
 - Princess Twilight Sparkle
-- Prophet of Kruphix
 - Proposal
+- Protean Hulk
 - Rarity
 - Rebirth
-- Recurring Nightmare
 - Robot Chicken
-- Rofellos, Llanowar Emissary
+- Scapeshift
 - Season's Beatings
 - Secret Summoning
 - Secrets of Paradise
+- Sensei's Divining Top
 - Sentinel Dispatch
 - Shahrazad
 - Shichifukujin Dragon
 - Snow Mercy
+- Sol Ring
 - Some Disassembly Required
 - Sovereign's Realm
 - Splendid Genesis
 - Stocking Tiger
-- Stone-Throwing Devils
+- Strip Mine
 - Summoner's Bond
-- Sundering Titan
-- Sway of the Stars
 - Sword of Dungeons & Dragons
-- Sylvan Primordial
 - Tempest Efreet
+- Temporal Manipulation
+- Thassa's Oracle
+- The Tabernacle at Pendrell Vale
 - Thopter Pie Network
+- Timetwister
 - Time Vault
 - Time Walk
+- Time warp
 - Timmerian Fiends
 - Tinker
 - Tolarian Academy
-- Trade Secrets
+- Treasure Cruise
 - Unexpected Potential
-- Upheaval
+- Vampiric Tutor
+- Wasteland
 - Weight Advantage
-- Worldfire
 - Worldknit
-- Yawgmoth's Bargain
 - Yule Ooze
 
 has_commander: true
 
+has_sideboard: false
+
 inherits:
-- Vintage
+- Commander / EDH
 
 is_singleton: true
 
 maximum_deck_size: 100
 
 minimum_deck_size: 100
-
-starting_life_total: 40

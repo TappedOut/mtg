@@ -1,0 +1,20 @@
+bans:
+- Drannith Magistrate
+- Golos, Tireless Pilgrim
+- Lutri, the Spellchaser
+- Oko, Thief of Crowns
+- Sorcerous Spyglass
+- Winota, Joiner of Forces
+
+has_commander: true
+
+has_sideboard: false
+
+inherits:
+- Standard
+
+is_singleton: true
+
+maximum_deck_size: 60
+
+starting_life_total: 25

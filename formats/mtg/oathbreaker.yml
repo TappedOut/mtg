@@ -1,5 +1,6 @@
 bans:
 - 1996 World Champion
+- Ad Nauseam
 - Adriana's Valor
 - Advantageous Proclamation
 - Amulet of Quoz
@@ -10,30 +11,23 @@ bans:
 - Biorhythm
 - Black Lotus
 - Bog Humbugs
-- Braids, Cabal Minion
 - Brago's Favor
 - Bronze Tablet
 - Channel
 - Chaos Orb
-- Coalition Victory
 - Contract from Below
-- Cleanse
-- Coalition Victory
-- Contract from Below
-- Crusade
 - Darkpact
 - Decorated Knight
 - Demonic Attorney
+- Doomsday
 - Double Stroke
 - Echoing Boon
 - Emissary's Ploy
 - Emrakul, the Aeons Torn
-- Erayo, Soratami Ascendant
-- Erayo, Soratami Ascendant / Erayo's Essence
 - Evil Presents
+- Expropriate
 - Falling Star
 - Fastbond
-- Flash
 - Fraternal Exaltation
 - Fruitcake Elemental
 - Gifts Given
@@ -41,48 +35,43 @@ bans:
 - Goblin Sleigh Ride
 - Grimlock, Dinobot Leader
 - Griselbrand
+- High Tide
 - Hired Heist
 - Hold the Perimeter
 - Hymn of the Wilds
 - Immediate Action
 - Incendiary Dissent
-- Imprison
-- Incendiary Dissent
-- Invoke Prejudice
-- Iona, Shield of Emeria
 - Iterative Analysis
 - Jeweled Bird
-- Jihad
-- Karakas
-- Leovold, Emissary of Trest
 - Library of Alexandria
 - Limited Resources
-- Lutri, the Spellchaser
+- Lion’s Eye Diamond
+- Mana Crypt
+- Mana Geyser
+- Mana Vault
 - Mishra's Toy Workshop
 - Mox Emerald
 - Mox Jet
 - Mox Pearl
 - Mox Ruby
 - Mox Sapphire
-- Muzzlo's Preparations
+- Muzzio's Preparations
+- Natural Order
 - Natural Unity
 - Naughty / Nice
 - Nerf War
 - Nightmare Moon
+- Painter's Servant
 - Panoptic Mirror
-- Paradox Engine
 - Phoenix Heart
 - Power Play
-- Pradesh Gypsies
-- Primeval Titan
+- Primal Surge
 - Princess Twilight Sparkle
-- Prophet of Kruphix
 - Proposal
 - Rarity
 - Rebirth
-- Recurring Nightmare
 - Robot Chicken
-- Rofellos, Llanowar Emissary
+- Saheeli, the Gifted
 - Season's Beatings
 - Secret Summoning
 - Secrets of Paradise
@@ -90,11 +79,11 @@ bans:
 - Shahrazad
 - Shichifukujin Dragon
 - Snow Mercy
+- Sol Ring
 - Some Disassembly Required
 - Sovereign's Realm
 - Splendid Genesis
 - Stocking Tiger
-- Stone-Throwing Devils
 - Summoner's Bond
 - Sundering Titan
 - Sway of the Stars
@@ -106,7 +95,8 @@ bans:
 - Time Walk
 - Timmerian Fiends
 - Tinker
-- Tolarian Academy
+- Tolarian  Academy
+- Tooth and Nail
 - Trade Secrets
 - Unexpected Potential
 - Upheaval
@@ -118,13 +108,9 @@ bans:
 
 has_commander: true
 
+has_sideboard: false
+
 inherits:
-- Vintage
+- Commander / EDH
 
 is_singleton: true
-
-maximum_deck_size: 100
-
-minimum_deck_size: 100
-
-starting_life_total: 40

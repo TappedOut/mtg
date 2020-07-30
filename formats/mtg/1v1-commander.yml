@@ -5,89 +5,83 @@ bans:
 - Amulet of Quoz
 - Ancestral Recall
 - Assemble the Rank and Vile
+- Back to Basics
 - Backup Plan
 - Balance
-- Biorhythm
+- Baral, Chief of Compliance
 - Black Lotus
 - Bog Humbugs
-- Braids, Cabal Minion
+- Braid's Cabal Minion
 - Brago's Favor
 - Bronze Tablet
 - Channel
-- Chaos Orb
-- Coalition Victory
-- Contract from Below
 - Cleanse
-- Coalition Victory
 - Contract from Below
 - Crusade
 - Darkpact
 - Decorated Knight
 - Demonic Attorney
+- Derevi, Empyrial Tactician
+- Doomsday
 - Double Stroke
 - Echoing Boon
+- Edric, Spymaster of Trest
 - Emissary's Ploy
 - Emrakul, the Aeons Torn
 - Erayo, Soratami Ascendant
-- Erayo, Soratami Ascendant / Erayo's Essence
 - Evil Presents
-- Falling Star
 - Fastbond
-- Flash
+- Food Chain
 - Fraternal Exaltation
 - Fruitcake Elemental
 - Gifts Given
 - Gifts Ungiven
 - Goblin Sleigh Ride
 - Grimlock, Dinobot Leader
-- Griselbrand
+- Hermit Druid
 - Hired Heist
 - Hold the Perimeter
+- Humility
 - Hymn of the Wilds
 - Immediate Action
-- Incendiary Dissent
 - Imprison
 - Incendiary Dissent
 - Invoke Prejudice
-- Iona, Shield of Emeria
 - Iterative Analysis
 - Jeweled Bird
 - Jihad
 - Karakas
-- Leovold, Emissary of Trest
 - Library of Alexandria
-- Limited Resources
-- Lutri, the Spellchaser
+- Mind Twist
 - Mishra's Toy Workshop
+- Moat
 - Mox Emerald
 - Mox Jet
 - Mox Pearl
 - Mox Ruby
 - Mox Sapphire
-- Muzzlo's Preparations
+- Muzzio's Preparations
+- Natuiral Order
 - Natural Unity
 - Naughty / Nice
 - Nerf War
 - Nightmare Moon
-- Panoptic Mirror
-- Paradox Engine
+- Oath of Druids
 - Phoenix Heart
 - Power Play
 - Pradesh Gypsies
-- Primeval Titan
 - Princess Twilight Sparkle
-- Prophet of Kruphix
 - Proposal
 - Rarity
 - Rebirth
-- Recurring Nightmare
 - Robot Chicken
 - Rofellos, Llanowar Emissary
 - Season's Beatings
 - Secret Summoning
 - Secrets of Paradise
+- Sensei's Divining Top
 - Sentinel Dispatch
-- Shahrazad
+- Serra Ascendant
 - Shichifukujin Dragon
 - Snow Mercy
 - Some Disassembly Required
@@ -95,31 +89,32 @@ bans:
 - Splendid Genesis
 - Stocking Tiger
 - Stone-Throwing Devils
+- Strip Mine
 - Summoner's Bond
-- Sundering Titan
-- Sway of the Stars
+- Survival of the Fittest
 - Sword of Dungeons & Dragons
-- Sylvan Primordial
+- Sylvan Library
 - Tempest Efreet
+- The Tabernacle at Pendrell Vale
 - Thopter Pie Network
 - Time Vault
 - Time Walk
 - Timmerian Fiends
 - Tinker
 - Tolarian Academy
-- Trade Secrets
 - Unexpected Potential
-- Upheaval
 - Weight Advantage
-- Worldfire
+- Winter Orb
 - Worldknit
-- Yawgmoth's Bargain
 - Yule Ooze
+- Zur the Enchanter
 
 has_commander: true
 
+has_sideboard: false
+
 inherits:
-- Vintage
+- Commander / EDH
 
 is_singleton: true
 
@@ -127,4 +122,6 @@ maximum_deck_size: 100
 
 minimum_deck_size: 100
 
-starting_life_total: 40
+starting_life_total: 30
+
+#https://magic.wizards.com/en/game-info/gameplay/rules-and-formats/banned-restricted/magic-online-commander

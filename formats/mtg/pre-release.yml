@@ -1,0 +1,4 @@
+inherits:
+- Standard
+
+minimum_deck_size: 40
