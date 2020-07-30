@@ -1,2 +1,5 @@
+bans:
+- Nexus of Fate
+
 inherits:
-- Modern
+- Historic
