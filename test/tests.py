@@ -17,13 +17,13 @@ class TestData(unittest.TestCase):
                 self._set_data[slugify(item['name'])] = item
 
         self._format_data = {}
-        for filename in os.listdir('./formats/mtg/'):
+        for filename in os.listdir('./formats/'):
             if filename[-3:] == 'yml':
-                with open('./formats/mtg/%s' % filename, 'r') as fileobj:
+                with open('./formats/%s' % filename, 'r') as fileobj:
                     self._format_data[filename.split('.')[0]] = yaml.load(fileobj.read())
 
     def test_sets(self):
-        for slug, item in self._format_data.items():
+        for slug, item in self._set_data.items():
             for setitem in item.get('sets') or []:
                 self.assertTrue(slugify(setitem) in self._set_data, "%s under %s was not found in the set data" % (setitem, slug))
 
@@ -126,3 +126,92 @@ class TestData(unittest.TestCase):
                 log.info("inherits: %s" % data['inherits'])
                 sets += list(recurse(slug, 'inherits', 'sets'))
                 self.assertTrue(previous_sets < len(sets), "%s still only had %s sets despite inheriting %s" % (slug, previous_sets, data['inherits']))
+
+    def test_cards(self):
+        for filename in os.listdir('./cards/'):
+            if filename[-3:] == 'yml':
+                with open('./cards/%s' % filename, 'r') as fileobj:
+                    self._cardtest_inner(yaml.load(fileobj.read()))
+
+    def _printingtest_inner(self, data):
+        def in_sets(val):
+            return slugify(val) in self._set_data
+
+        object_types = {
+            'tla': str,
+            'variations': list,
+            'number': int,
+            'rarity': str,
+            'image_large': str,
+            'booster_exclude': bool,
+            'mtgo_foil_id': int,
+            'mtgo_id': int,
+            'wizards_id': str,
+            'wizards_url': str,
+        }
+        for item in data:
+            for setkey in item.keys():
+                item = item[setkey]
+                for key in item.keys():
+                    self.assertTrue(key in object_types, "Bad key %s found for %s" % (key, setkey))
+                    self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad item type for key %s (should be %s but found %s)" % (setkey, key, object_types[key], item[key].__class__))
+                    self.assertTrue(key in object_types, "Bad key %s found in %s" % (key, setkey))
+                    if key in item and item.get(key) is not None:
+                        self.assertTrue(isinstance(item[key], object_types[key]), "%s had bad item type for key %s (should be %s but found %s)" % (setkey, key, object_types[key], item[key].__class__))
+
+    def _cardtest_inner(self, data):
+        def in_formats(vals):
+            for val in vals:
+                self.assertTrue(slugify(val) in self._format_data, "Bad format value: %s" % val)
+            return True
+
+        validates = {
+            'formats': in_formats,
+        }
+        object_types = {
+            'companions': list,
+            'has_activated_abilities': bool,
+            'activated_abilities': list,
+            'is_permanent': bool,
+            'cannonical_set': str,
+            'printings': list,
+            'booster_exclude': bool,
+            'canadian_hl_score': int,
+            'cannonical_type': str,
+            'effective_cost': list,
+            'flat_cost': int,
+            'foil': bool,
+            'formats': list,
+            'url': str,
+            'image_large': str,
+            'is_basic_land': bool,
+            'is_limitless': bool,
+            'keywords': list,
+            'mana_cost': str,
+            'mana_cost_converted': int,
+            'mana_produced': str,
+            'name': str,
+            'power_toughness': str,
+            'slug': str,
+            'tap_land': bool,
+            'is_back': bool,
+            'is_front': bool,
+            'is_land': bool,
+            'type': str,
+            'subtype': str,
+            'rules': str,
+            'tokens': list,
+            'subtype_tokens': list,
+            'activation_costs': list,
+            'promo_sets': list,
+            'flip': str,
+        }
+        for key in data.keys():
+            self.assertTrue(key in object_types, "Bad key %s found for %s" % (key, data['slug']))
+            self.assertTrue(isinstance(data[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (data['slug'], key, object_types[key], data[key].__class__))
+            self.assertTrue(key in object_types, "Bad key %s found in %s" % (key, data['slug']))
+            if key in data and data.get(key) is not None:
+                self.assertTrue(isinstance(data[key], object_types[key]), "%s had bad data type for key %s (should be %s but found %s)" % (data['slug'], key, object_types[key], data[key].__class__))
+            if key in validates:
+                self.assertTrue(validates[key](data.get(key)), "Bad value for %s.%s found" % (data['slug'], key))
+        self._printingtest_inner(data['printings'])
