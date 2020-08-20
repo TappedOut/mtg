@@ -108,7 +108,4 @@ inherits:
 maximum_deck_size: 61
 
 minimum_deck_size: 61
-
-#unique_deck_construction:
-#- Every nonbasic, noncommander, non-Relentless Rats style card must be a 2 of.
-#https://tappedout.net/mtg-decks/introducing-noble-the-format-1/
+maintained: false

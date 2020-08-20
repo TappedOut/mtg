@@ -118,5 +118,4 @@ bans:
 inherits:
 - Legacy
 
-#unique_deck_construction:
-#- Contains 1 mythic/rare, up to 4 uncommons, and the rest as commons.
+maintained: false
